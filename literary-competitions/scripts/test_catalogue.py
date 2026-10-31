@@ -2,9 +2,36 @@
 
 import copy
 import json
+from html.parser import HTMLParser
 import unittest
 
 from render_catalogue import PROJECT, render, validate
+
+
+class Disclosures(HTMLParser):
+    def __init__(self, text):
+        super().__init__()
+        self.items = []
+        self.active = None
+        self.in_summary = False
+        self.feed(text)
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "details":
+            self.active = {"attrs": dict(attrs), "summary": "", "body": ""}
+            self.items.append(self.active)
+        elif tag == "summary":
+            self.in_summary = True
+
+    def handle_endtag(self, tag):
+        if tag == "summary":
+            self.in_summary = False
+        elif tag == "details":
+            self.active = None
+
+    def handle_data(self, text):
+        if self.active is not None:
+            self.active["summary" if self.in_summary else "body"] += text
 
 
 class CatalogueTests(unittest.TestCase):
@@ -35,15 +62,27 @@ class CatalogueTests(unittest.TestCase):
     def test_free_and_unknown_are_distinct(self):
         text = render(self.data)
         self.assertIn("0 USD", text)
-        self.assertIn("**Взнос:** не подтверждено", text)
+        self.assertIn("не подтверждено", text)
         rattle = next(c for c in self.data["competitions"] if c["id"] == "en-rattle-chapbook-2027")
         self.assertIsNone(rattle["next_deadline"]["date"])
 
     def test_every_record_keeps_a_stable_anchor(self):
         text = render(self.data)
         for item in self.data["competitions"]:
-            self.assertIn(f'<a id="{item["id"]}"></a>', text)
+            self.assertIn(f'id="{item["id"]}"', text)
         self.assertNotIn("{source:", text)
+
+    def test_closed_disclosures_keep_brief_facts_and_full_details(self):
+        parsed = Disclosures(render(self.data))
+        self.assertEqual(len(parsed.items), len(self.data["competitions"]))
+        by_id = {item["attrs"]["id"]: item for item in parsed.items}
+        for contest in self.data["competitions"]:
+            item = by_id[contest["id"]]
+            self.assertNotIn("open", item["attrs"])
+            self.assertIn(contest["name"], item["summary"])
+            for label in ("Частота:", "Дедлайн:", "Взнос:", "Приз:"):
+                self.assertIn(label, item["summary"])
+            self.assertIn(contest["eligibility"]["description"], item["body"])
 
     def test_rendering_does_not_modify_research(self):
         before = copy.deepcopy(self.data)

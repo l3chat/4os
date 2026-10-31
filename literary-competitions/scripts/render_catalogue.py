@@ -3,6 +3,7 @@
 
 import argparse
 from datetime import date
+from html import escape
 import json
 from pathlib import Path
 import re
@@ -61,10 +62,6 @@ def validate(data):
         raise ValueError("Coverage count does not match records")
 
 
-def cell(text):
-    return str(text).replace("|", "\\|").replace("\n", " ")
-
-
 def money(value, key):
     amount = value[key]
     return "не подтверждено" if amount is None else f"{amount:,} {value['currency']}".replace(",", " ")
@@ -82,8 +79,85 @@ def deadline_text(item):
     return result
 
 
-def references(value):
-    return " ".join(f"[источник]({{source:{key}}})" for key in value["source_ids"])
+def references(value, sources):
+    return " ".join(
+        f'<a href="{escape(sources[key]["url"], quote=True)}" '
+        f'title="{escape(sources[key]["title"], quote=True)}">источник</a>'
+        for key in value["source_ids"]
+    )
+
+
+def prize_text(item):
+    prize = money(item["top_prize"], "cash_amount")
+    if item["top_prize"]["applies_to"] != item["edition"]:
+        prize += " †"
+    if item["top_prize"].get("cash_includes_expense_allowance"):
+        prize += " (в т.ч. поездка)"
+    return prize
+
+
+def render_item(item, sources):
+    """Native details keeps the summary visible and works without JavaScript."""
+    frequency = item["recurrence"]["description"]
+    if item["recurrence"].get("verification") == "inferred_from_editions":
+        frequency += " (по истории сезонов)"
+    deadline = item["next_deadline"]["date"]
+    short_deadline = date.fromisoformat(deadline).strftime("%d.%m.%Y") if deadline else "не подтверждён"
+    fee = money(item["entry_fee"], "amount") + " / " + item["entry_fee"]["unit"]
+    flags = []
+    if item["eligibility"]["geographic_scope"] == "restricted":
+        flags.append("ограничение гражданства или проживания")
+    if item["entry_status_at_check"] != "open":
+        flags.append(STATUSES[item["entry_status_at_check"]])
+    subtitle = " · ".join([item["organizer_country"], ", ".join(item["genres"]), *flags])
+    lines = [
+        '<li class="competition-item">',
+        f'<details id="{escape(item["id"], quote=True)}" class="competition">',
+        '<summary>',
+        f'<span class="competition-title">{escape(item["name"])}</span>',
+        f'<span class="competition-subtitle">{escape(subtitle)}</span>',
+        '<span class="competition-facts">',
+    ]
+    for label, value in (("Частота", frequency), ("Дедлайн", short_deadline), ("Взнос", fee), ("Приз", prize_text(item))):
+        lines.append(f'<span><strong>{label}:</strong> {escape(value)}</span>')
+    lines += [
+        '</span>', '<span class="competition-toggle" aria-hidden="true"></span>',
+        '</summary>', '<div class="competition-body">', '<dl>',
+    ]
+
+    def row(label, text, evidence=None):
+        refs = " " + references(evidence, sources) if evidence else ""
+        lines.append(f'<dt>{escape(label)}</dt><dd>{escape(text)}{refs}</dd>')
+
+    row("Сезон", item["edition"])
+    row("Жанры", ", ".join(item["genres"]))
+    row("Организатор", item["organizer"] + "; " + item["organizer_country"])
+    row("Проверено", item["checked_on"] + "; на эту дату " + STATUSES[item["entry_status_at_check"]])
+    row("Периодичность", frequency, item["recurrence"])
+    row("Ближайший дедлайн", deadline_text(item) + ". " + item["next_deadline"]["note"], item["next_deadline"])
+    if item["opening_date"]:
+        row("Объявленное открытие", item["opening_date"])
+    if item["last_announced_deadline"]:
+        row("Последний объявленный дедлайн", item["last_announced_deadline"] + "; уже прошёл")
+    fee_data, prize = item["entry_fee"], item["top_prize"]
+    row("Взнос", fee + ". " + fee_data["note"] + " Применимость: " + fee_data["applies_to"] + ".", fee_data)
+    row("Главный приз", prize_text(item) + ". " + prize["note"] + " Применимость: " + prize["applies_to"] + ".", prize)
+    row("Кто может участвовать", item["eligibility"]["description"], item["eligibility"])
+    row("ID", item["id"])
+    lines.append('</dl>')
+    if item["notes"]:
+        lines += ['<h3>Примечания</h3>', '<ul>']
+        lines += [f'<li>{escape(note)}</li>' for note in item["notes"]]
+        lines.append('</ul>')
+    indexed = any(
+        sources[ref]["access_method"] == "indexed_primary_page"
+        for field in ("recurrence", "next_deadline", "entry_fee", "top_prize", "eligibility")
+        for ref in item[field]["source_ids"]
+    )
+    if indexed:
+        lines.append('<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>')
+    lines += ['</div>', '</details>', '</li>']
+    return "\n".join(lines)
 
 
 def render(data):
@@ -99,7 +173,8 @@ def render(data):
         "Речь о языке произведений. Описания составлены по-русски. Даты и статусы отражают сохранённую проверку, а не проверку в реальном времени. Суммы оставлены в исходных валютах; указан главный приз, а не общий призовой фонд.", "",
         "[Скачать данные JSON]({{ '/data/en-catalogue.json' | relative_url }}) · "
         "[Как устроен поиск](https://github.com/l3chat/4os/blob/main/literary-competitions/research/README.md)", "",
-        "В таблице тариф может относиться к пакету работ, ранней подаче или последнему объявленному сезону. Уточнения и источники — в карточках ниже. Пометка † означает, что сумму нужно подтвердить для нового сезона.", "",
+        "Нажмите на название конкурса, чтобы раскрыть подробные условия и источники. В краткой записи видны частота, дедлайн, взнос и главный приз. Можно раскрыть несколько конкурсов одновременно.", "",
+        "Тариф может относиться к пакету работ, ранней подаче или последнему объявленному сезону. Пометка † означает, что сумму нужно подтвердить для нового сезона.", "",
     ]
     groups = [
         ("Подтверждённые ближайшие даты", [r for r in records if r["next_deadline"]["date"] and r["eligibility"]["geographic_scope"] != "restricted"]),
@@ -107,44 +182,11 @@ def render(data):
         ("Ожидаем точную дату или новый сезон", [r for r in records if not r["next_deadline"]["date"]]),
     ]
     for title, items in groups:
-        lines += [f"## {title}", "", "| Конкурс | Организатор | Частота | Ближайший дедлайн | Взнос | Главный приз |", "| --- | --- | --- | --- | --- | --- |"]
+        lines += [f"## {title}", "", '<ul class="competition-list">']
         for item in items:
-            prize = money(item["top_prize"], "cash_amount")
-            if item["top_prize"]["applies_to"] != item["edition"]:
-                prize += " †"
-            if item["top_prize"].get("cash_includes_expense_allowance"):
-                prize += " (в т.ч. поездка)"
-            frequency = item["recurrence"]["description"]
-            if item["recurrence"].get("verification") == "inferred_from_editions":
-                frequency += " (по истории сезонов)"
-            fee = money(item["entry_fee"], "amount") + " / " + item["entry_fee"]["unit"]
-            lines.append("| " + " | ".join(cell(x) for x in [f"[{item['name']}](#{item['id']})",item["organizer_country"],frequency,deadline_text(item),fee,prize]) + " |")
-        lines.append("")
-    lines += ["## Карточки и источники", ""]
-    for item in records:
-        lines += [f'<a id="{item["id"]}"></a>', "", f"### {item['name']}", "",
-                  f"- **ID:** `{item['id']}`. **Сезон:** {item['edition']}. **Жанр:** {', '.join(item['genres'])}.",
-                  f"- **Организатор:** {item['organizer']}; {item['organizer_country']}.",
-                  f"- **Проверено:** {item['checked_on']}; на эту дату {STATUSES[item['entry_status_at_check']]}.",
-                  f"- **Периодичность:** {item['recurrence']['description']}. {references(item['recurrence'])}",
-                  f"- **Ближайший дедлайн:** {deadline_text(item)}. {item['next_deadline']['note']} {references(item['next_deadline'])}"]
-        if item["opening_date"]:
-            lines.append(f"- **Объявленное открытие:** {item['opening_date']}.")
-        if item["last_announced_deadline"]:
-            lines.append(f"- **Последний объявленный дедлайн:** {item['last_announced_deadline']}; уже прошёл.")
-        fee, prize = item["entry_fee"], item["top_prize"]
-        lines += [f"- **Взнос:** {money(fee, 'amount')} — {fee['unit']}. {fee['note']} Применимость: {fee['applies_to']}. {references(fee)}",
-                  f"- **Главный приз:** {money(prize, 'cash_amount')}. {prize['note']} Применимость: {prize['applies_to']}. {references(prize)}",
-                  f"- **Кто может участвовать:** {item['eligibility']['description']} {references(item['eligibility'])}"]
-        lines += [f"- **Примечание:** {note}" for note in item["notes"]]
-        indexed = {ref for field in ("recurrence", "next_deadline", "entry_fee", "top_prize", "eligibility") for ref in item[field]["source_ids"] if data["sources"][ref]["access_method"] == "indexed_primary_page"}
-        if indexed:
-            lines.append("- **Доступ к источникам:** часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.")
-        lines.append("")
-    text = "\n".join(lines).rstrip() + "\n"
-    for key, source in data["sources"].items():
-        text = text.replace("{source:" + key + "}", source["url"])
-    return text
+            lines.append(render_item(item, data["sources"]))
+        lines += ['</ul>', ""]
+    return "\n".join(lines).rstrip() + "\n"
 
 
 def products(data):
