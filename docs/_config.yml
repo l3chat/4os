@@ -1,0 +1,24 @@
+title: "Литературные конкурсы"
+description: "Списки литературных конкурсов на разных языках"
+url: "https://l3chat.github.io"
+baseurl: "/4os"
+lang: ru
+timezone: Europe/Berlin
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+strict_front_matter: true
+exclude:
+  - README.md
+languages:
+  - code: ru
+    name: Русский
+  - code: en
+    name: English
+  - code: de
+    name: Deutsch
+  - code: fr
+    name: Français
+  - code: uk
+    name: Українська

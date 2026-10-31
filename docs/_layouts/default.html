@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | escape }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">{{ page.skip_label | default: 'К содержимому / Skip to content' }}</a>
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | relative_url }}">Литературные конкурсы<span>Literary competitions</span></a>
+      <nav aria-label="Languages">
+        {% for language in site.languages %}
+          {% assign language_url = '/contests/' | append: language.code | append: '/' %}
+          <a href="{{ language_url | relative_url }}" lang="{{ language.code }}"{% if page.lang == language.code and page.section == 'contests' %} aria-current="page"{% endif %}>{{ language.name }}</a>
+        {% endfor %}
+      </nav>
+    </header>
+    <main id="main" tabindex="-1">
+      {{ content }}
+    </main>
+    <footer>
+      <a href="https://github.com/l3chat/4os">GitHub · 4os</a>
+      <span>{{ page.footer_note | default: 'Условия участия уточняйте на официальном сайте организатора.' }}</span>
+    </footer>
+  </body>
+</html>
