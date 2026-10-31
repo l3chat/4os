@@ -16,7 +16,7 @@ section: contests
 
 [Скачать данные JSON]({{ '/data/en-catalogue.json' | relative_url }}) · [Как устроен поиск](https://github.com/l3chat/4os/blob/main/literary-competitions/research/README.md)
 
-Нажмите на название конкурса, чтобы раскрыть подробные условия и источники. В краткой записи видны частота, дедлайн, взнос и главный приз. Можно раскрыть несколько конкурсов одновременно.
+Нажмите на название конкурса, чтобы увидеть краткие сведения: частоту, дедлайн, взнос и главный приз. Затем нажмите «Подробнее», чтобы раскрыть полные условия и источники. Повторное нажатие сворачивает выбранный уровень. Можно раскрыть несколько конкурсов одновременно.
 
 Тариф может относиться к пакету работ, ранней подаче или последнему объявленному сезону. Пометка † означает, что сумму нужно подтвердить для нового сезона.
 
@@ -27,6 +27,8 @@ section: contests
 <details id="en-national-poetry-2026" class="competition">
 <summary>
 <span class="competition-title">National Poetry Competition</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United Kingdom · поэзия</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -34,8 +36,8 @@ section: contests
 <span><strong>Взнос:</strong> 9 GBP / первое стихотворение</span>
 <span><strong>Приз:</strong> 5 000 GBP</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026</dd>
@@ -57,11 +59,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-hope-prize-2026" class="competition">
 <summary>
 <span class="competition-title">The Hope Prize</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Australia · рассказ, повествовательный нон-фикшн</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
@@ -69,8 +75,8 @@ section: contests
 <span><strong>Взнос:</strong> 33 AUD / один рассказ</span>
 <span><strong>Приз:</strong> 10 000 AUD</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026</dd>
@@ -92,11 +98,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-malahat-open-season-2027" class="competition">
 <summary>
 <span class="competition-title">The Malahat Review — Open Season Awards</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Canada · поэзия, рассказ, документальная проза</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -104,8 +114,8 @@ section: contests
 <span><strong>Взнос:</strong> 45 CAD / первая заявка из-за пределов Канады</span>
 <span><strong>Приз:</strong> 2 000 CAD</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027; submissions 2026</dd>
@@ -126,11 +136,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-galley-beggar-2026-27" class="competition">
 <summary>
 <span class="competition-title">Galley Beggar Press Short Story Prize</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United Kingdom · рассказ</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -138,8 +152,8 @@ section: contests
 <span><strong>Взнос:</strong> 11 GBP / один рассказ</span>
 <span><strong>Приз:</strong> 3 000 GBP</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026/27</dd>
@@ -155,11 +169,15 @@ section: contests
 </dl>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-narrative-fall-2026" class="competition">
 <summary>
 <span class="competition-title">Narrative Fall Story Contest</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United States · рассказ, мемуар, эссе, документальная проза</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Точная периодичность не подтверждена</span>
@@ -167,8 +185,8 @@ section: contests
 <span><strong>Взнос:</strong> 27 USD / одна заявка</span>
 <span><strong>Приз:</strong> 2 500 USD</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>Fall 2026</dd>
@@ -189,11 +207,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-smokelong-micro-2026" class="competition">
 <summary>
 <span class="competition-title">SmokeLong Grand Micro Contest — The Mikey</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United States · микропроза, документальная микропроза</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -201,8 +223,8 @@ section: contests
 <span><strong>Взнос:</strong> 14 USD / пакет до двух микротекстов</span>
 <span><strong>Приз:</strong> 1 000 USD</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026</dd>
@@ -223,11 +245,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-fish-short-story-2026-27" class="competition">
 <summary>
 <span class="competition-title">Fish Short Story Prize</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ireland · рассказ</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -235,8 +261,8 @@ section: contests
 <span><strong>Взнос:</strong> 24 EUR / одно произведение онлайн</span>
 <span><strong>Приз:</strong> 3 000 EUR (в т.ч. поездка)</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026/27</dd>
@@ -258,11 +284,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-moth-poetry-2026" class="competition">
 <summary>
 <span class="competition-title">The Moth Poetry Prize</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ireland · поэзия</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -270,8 +300,8 @@ section: contests
 <span><strong>Взнос:</strong> 17 EUR / одно стихотворение</span>
 <span><strong>Приз:</strong> 6 000 EUR</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026</dd>
@@ -292,11 +322,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-writers-future-2027-q1" class="competition">
 <summary>
 <span class="competition-title">Writers of the Future — Writers Contest</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United States · научная фантастика, фэнтези</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> 4 раунда в год</span>
@@ -304,8 +338,8 @@ section: contests
 <span><strong>Взнос:</strong> 0 USD / одна заявка за квартал</span>
 <span><strong>Приз:</strong> 1 000 USD</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027 Q1</dd>
@@ -326,11 +360,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-fish-short-memoir-2027" class="competition">
 <summary>
 <span class="competition-title">Fish Short Memoir Prize</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ireland · мемуар</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -338,8 +376,8 @@ section: contests
 <span><strong>Взнос:</strong> 22 EUR / одно произведение онлайн</span>
 <span><strong>Приз:</strong> 1 000 EUR</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027</dd>
@@ -361,11 +399,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-fish-flash-fiction-2027" class="competition">
 <summary>
 <span class="competition-title">Fish Flash Fiction Prize</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ireland · малая проза</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -373,8 +415,8 @@ section: contests
 <span><strong>Взнос:</strong> 16 EUR / одно произведение онлайн</span>
 <span><strong>Приз:</strong> 1 000 EUR</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027</dd>
@@ -396,11 +438,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-fish-poetry-2027" class="competition">
 <summary>
 <span class="competition-title">Fish Poetry Prize</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ireland · поэзия</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -408,8 +454,8 @@ section: contests
 <span><strong>Взнос:</strong> 16 EUR / одно произведение онлайн</span>
 <span><strong>Приз:</strong> 1 000 EUR</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027</dd>
@@ -431,11 +477,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-fish-haiku-2027" class="competition">
 <summary>
 <span class="competition-title">Fish Haiku Prize</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ireland · хайку</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
@@ -443,8 +493,8 @@ section: contests
 <span><strong>Взнос:</strong> 5 EUR / одно произведение онлайн</span>
 <span><strong>Приз:</strong> 300 EUR</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027</dd>
@@ -467,11 +517,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-smokelong-flash-2027" class="competition">
 <summary>
 <span class="competition-title">SmokeLong Quarterly Award for Flash Fiction — The Smokey</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United States · малая проза · приём начнётся позднее</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -479,8 +533,8 @@ section: contests
 <span><strong>Взнос:</strong> 15 USD / одна ранняя заявка</span>
 <span><strong>Приз:</strong> 2 500 USD</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027</dd>
@@ -502,11 +556,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-bridport-flash-fiction-2027" class="competition">
 <summary>
 <span class="competition-title">Bridport Prize — Flash Fiction</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United Kingdom · малая проза · приём начнётся позднее</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -514,8 +572,8 @@ section: contests
 <span><strong>Взнос:</strong> 12 GBP / одно произведение</span>
 <span><strong>Приз:</strong> 2 000 GBP</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027</dd>
@@ -537,11 +595,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-bridport-poetry-2027" class="competition">
 <summary>
 <span class="competition-title">Bridport Prize — Poetry</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United Kingdom · поэзия · приём начнётся позднее</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -549,8 +611,8 @@ section: contests
 <span><strong>Взнос:</strong> 13 GBP / одно произведение</span>
 <span><strong>Приз:</strong> 5 000 GBP</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027</dd>
@@ -572,11 +634,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-bridport-short-story-2027" class="competition">
 <summary>
 <span class="competition-title">Bridport Prize — Short Story</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United Kingdom · рассказ · приём начнётся позднее</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -584,8 +650,8 @@ section: contests
 <span><strong>Взнос:</strong> 15 GBP / одно произведение</span>
 <span><strong>Приз:</strong> 5 000 GBP</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027</dd>
@@ -607,6 +673,8 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 </ol>
 
@@ -617,6 +685,8 @@ section: contests
 <details id="en-avbob-english-2026" class="competition">
 <summary>
 <span class="competition-title">AVBOB Poetry Competition — English category</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">South Africa · поэзия · ограничение гражданства или проживания</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -624,8 +694,8 @@ section: contests
 <span><strong>Взнос:</strong> 0 ZAR / до десяти стихотворений</span>
 <span><strong>Приз:</strong> 10 000 ZAR</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>10th competition: 2026/27</dd>
@@ -646,11 +716,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-sargeson-open-2027" class="competition">
 <summary>
 <span class="competition-title">Sargeson Prize — Open Division</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">New Zealand · рассказ · ограничение гражданства или проживания · приём начнётся позднее</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -658,8 +732,8 @@ section: contests
 <span><strong>Взнос:</strong> 0 NZD / один рассказ</span>
 <span><strong>Приз:</strong> 15 000 NZD †</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027</dd>
@@ -682,6 +756,8 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 </ol>
 
@@ -692,6 +768,8 @@ section: contests
 <details id="en-bath-flash-2026-oct" class="competition">
 <summary>
 <span class="competition-title">Bath Flash Fiction Award</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United Kingdom · малая проза · последний раунд закрыт</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> 3 раунда в год</span>
@@ -699,8 +777,8 @@ section: contests
 <span><strong>Взнос:</strong> 9 GBP / одно произведение</span>
 <span><strong>Приз:</strong> 1 000 GBP</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>latest announced round: October 2026</dd>
@@ -721,11 +799,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-commonwealth-2027" class="competition">
 <summary>
 <span class="competition-title">Commonwealth Short Story Prize</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United Kingdom · рассказ · ограничение гражданства или проживания · открытие отложено</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -733,8 +815,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / заявка</span>
 <span><strong>Приз:</strong> не подтверждено</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027</dd>
@@ -756,11 +838,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="en-rattle-chapbook-2027" class="competition">
 <summary>
 <span class="competition-title">Rattle Chapbook Prize</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United States · поэтический сборник</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -768,8 +854,8 @@ section: contests
 <span><strong>Взнос:</strong> 30 USD / одна рукопись</span>
 <span><strong>Приз:</strong> 5 000 USD</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027</dd>
@@ -788,6 +874,8 @@ section: contests
 <li>Индивидуальные стихотворения могут быть опубликованы ранее; сборник целиком — нет.</li>
 </ul>
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
 </div>
 </details>
 </li>

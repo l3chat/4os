@@ -16,7 +16,7 @@ section: contests
 
 [Скачать данные JSON]({{ '/data/uk-catalogue.json' | relative_url }}) · [Как устроен поиск](https://github.com/l3chat/4os/blob/main/literary-competitions/research/README.md)
 
-Нажмите на название конкурса, чтобы раскрыть подробные условия и источники. В краткой записи видны частота, дедлайн, взнос и главный приз. Можно раскрыть несколько конкурсов одновременно.
+Нажмите на название конкурса, чтобы увидеть краткие сведения: частоту, дедлайн, взнос и главный приз. Затем нажмите «Подробнее», чтобы раскрыть полные условия и источники. Повторное нажатие сворачивает выбранный уровень. Можно раскрыть несколько конкурсов одновременно.
 
 Тариф может относиться к пакету работ, ранней подаче или последнему объявленному сезону. Пометка † означает, что сумму нужно подтвердить для нового сезона.
 
@@ -27,6 +27,8 @@ section: contests
 <details id="uk-open-world-2026" class="competition">
 <summary>
 <span class="competition-title">Open World — «Українська готика: крізь темряву»</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ukraine · рассказ, готическая проза · неопубликованные рукописи</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -34,8 +36,8 @@ section: contests
 <span><strong>Взнос:</strong> 0 UAH / первые два рассказа автора</span>
 <span><strong>Приз:</strong> 10 000 UAH</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026</dd>
@@ -58,11 +60,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-nestayko-library-2026" class="competition">
 <summary>
 <span class="competition-title">Всеукраїнська премія імені Всеволода Нестайка — НБУ для дітей</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ukraine · детская проза · изданная книга; выдвижение организацией</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -70,8 +76,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
 <span><strong>Приз:</strong> диплом, памятная отметка и денежная награда неуказанного размера (денежная сумма не указана)</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026</dd>
@@ -94,11 +100,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-lesia-ukrainka-literature-2026" class="competition">
 <summary>
 <span class="competition-title">Премія Лесі Українки — літературні твори для дітей та юнацтва</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ukraine · детская и юношеская литература · опубликованное произведение; выдвижение организацией</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -106,8 +116,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
 <span><strong>Приз:</strong> 20 000 UAH †</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026</dd>
@@ -131,11 +141,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-smoloskyp-2026" class="competition">
 <summary>
 <span class="competition-title">Літературний конкурс «Смолоскип»</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ukraine · поэзия, проза, эссеистика · неопубликованные рукописи</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -143,8 +157,8 @@ section: contests
 <span><strong>Взнос:</strong> от 300 UAH / участие с обязательным подтверждением взноса</span>
 <span><strong>Приз:</strong> 10 000 UAH</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>подача 2026; итоги 2027</dd>
@@ -169,11 +183,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-slovo-samovydtsia-2026-27" class="competition">
 <summary>
 <span class="competition-title">«Слово самовидця»</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ukraine · мемуары, документальная проза, повесть, роман · неопубликованная рукопись; специальный допуск участников</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -181,8 +199,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
 <span><strong>Приз:</strong> издание книги и гонорар неуказанного размера (денежная сумма не указана)</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026/27</dd>
@@ -206,11 +224,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-ink7-experienced-2027" class="competition">
 <summary>
 <span class="competition-title">INK-7 — визнані письменники</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">International · новелла, микропроза · неопубликованные рукописи</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодные серии; результаты объявляются позже дедлайна (по истории сезонов)</span>
@@ -218,8 +240,8 @@ section: contests
 <span><strong>Взнос:</strong> 18 EUR / одна конкурсная новелла в этой категории</span>
 <span><strong>Приз:</strong> 2 000 EUR</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>INK-7; дедлайн 2027, награждение 2028</dd>
@@ -242,11 +264,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-ink7-emerging-2027" class="competition">
 <summary>
 <span class="competition-title">INK-7 — письменники-початківці</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">International · новелла, микропроза · неопубликованные рукописи</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодные серии; результаты объявляются позже дедлайна (по истории сезонов)</span>
@@ -254,8 +280,8 @@ section: contests
 <span><strong>Взнос:</strong> 12 EUR / одна конкурсная новелла в этой категории</span>
 <span><strong>Приз:</strong> 1 000 EUR</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>INK-7; дедлайн 2027, награждение 2028</dd>
@@ -278,11 +304,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-ink7-youth-2027" class="competition">
 <summary>
 <span class="competition-title">INK-7 — юні письменники</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">International · новелла, микропроза · неопубликованные рукописи</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодные серии; результаты объявляются позже дедлайна (по истории сезонов)</span>
@@ -290,8 +320,8 @@ section: contests
 <span><strong>Взнос:</strong> 6 EUR / одна конкурсная новелла в этой категории</span>
 <span><strong>Приз:</strong> 250 EUR</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>INK-7; дедлайн 2027, награждение 2028</dd>
@@ -314,6 +344,8 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 </ol>
 
@@ -324,6 +356,8 @@ section: contests
 <details id="uk-sholom-aleichem-2027" class="competition">
 <summary>
 <span class="competition-title">Премія імені Шолом-Алейхема</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ukraine · литературно-художественные произведения · ограничение гражданства или проживания · опубликованное произведение</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Повторяющаяся премия; интервал в текущем анонсе не указан</span>
@@ -331,8 +365,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
 <span><strong>Приз:</strong> 20 000 UAH</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2027</dd>
@@ -356,6 +390,8 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 </ol>
 
@@ -366,6 +402,8 @@ section: contests
 <details id="uk-granoslov-2026" class="competition">
 <summary>
 <span class="competition-title">«Гранослов» — перша книга поета</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ukraine · поэтический сборник · последний раунд закрыт · неопубликованные рукописи</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Обычно ежегодно; организатор описывает перерывы в проведении</span>
@@ -373,8 +411,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
 <span><strong>Приз:</strong> издание первой книги (денежная сумма не указана)</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026</dd>
@@ -398,11 +436,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-koronatsiya-standing" class="competition">
 <summary>
 <span class="competition-title">«Коронація слова» — основные номинации</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ukraine · роман, пьеса, сценарий, песенная лирика, малая проза · приём требует подтверждения · неопубликованные рукописи</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодный календарь; следующий сезон требует подтверждения</span>
@@ -410,8 +452,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
 <span><strong>Приз:</strong> не подтверждено</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>постоянные правила без подтверждённого года следующего сезона</dd>
@@ -433,11 +475,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-krylatyi-lev-2026" class="competition">
 <summary>
 <span class="competition-title">«Крилатий Лев» — конкурс рукописів прози</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ukraine · проза, перевод прозы на украинский · последний раунд закрыт · неопубликованные рукописи</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -445,8 +491,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
 <span><strong>Приз:</strong> издание книги и денежная премия неуказанного размера (денежная сумма не указана)</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026</dd>
@@ -469,11 +515,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-nazva-2026-27" class="competition">
 <summary>
 <span class="competition-title">«Назва 26/27» — молодіжний літературний конкурс</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ukraine · поэзия, проза, эссе, критика, идеи сценариев · неопубликованные рукописи</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Точная периодичность не подтверждена</span>
@@ -481,8 +531,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
 <span><strong>Приз:</strong> публикация в молодёжном номере «Дзвін» (денежная сумма не указана)</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026/27</dd>
@@ -503,11 +553,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-volia-2026" class="competition">
 <summary>
 <span class="competition-title">Літературна премія «Воля»</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ukraine · художественная проза, документальная книга · ограничение гражданства или проживания · последний раунд закрыт · изданная книга; заявитель — украинское издательство</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -515,8 +569,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
 <span><strong>Приз:</strong> 400 000 UAH</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026</dd>
@@ -540,11 +594,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-shevelov-2026" class="competition">
 <summary>
 <span class="competition-title">Премія імені Юрія Шевельова</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">Ukraine · эссеистика · последний раунд закрыт · изданная книга; выдвижение организацией</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -552,8 +610,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
 <span><strong>Приз:</strong> не подтверждено</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>2026</dd>
@@ -576,11 +634,15 @@ section: contests
 </ul>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-kovaliv-poetry-2025" class="competition">
 <summary>
 <span class="competition-title">Фонд Лесі та Петра Ковалевих — Поезія</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United States · поэзия · последний раунд закрыт · изданная книга; подача издательством</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -588,8 +650,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
 <span><strong>Приз:</strong> 1 000 USD</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>последний полный литературный анонс: 2025</dd>
@@ -614,11 +676,15 @@ section: contests
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
 </details>
+</div>
+</details>
 </li>
 <li class="competition-item">
 <details id="uk-kovaliv-prose-2025" class="competition">
 <summary>
 <span class="competition-title">Фонд Лесі та Петра Ковалевих — Проза</span>
+</summary>
+<div class="competition-overview">
 <span class="competition-subtitle">United States · проза · последний раунд закрыт · изданная книга; подача издательством</span>
 <span class="competition-facts">
 <span><strong>Частота:</strong> Ежегодно</span>
@@ -626,8 +692,8 @@ section: contests
 <span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
 <span><strong>Приз:</strong> 1 000 USD</span>
 </span>
-<span class="competition-toggle" aria-hidden="true"></span>
-</summary>
+<details class="competition-more">
+<summary>Подробнее</summary>
 <div class="competition-body">
 <dl>
 <dt>Сезон</dt><dd>последний полный литературный анонс: 2025</dd>
@@ -650,6 +716,8 @@ section: contests
 <li>Страница награждения с заголовком 2026 содержит внутри сведения о премии 2025; она не подтверждает новый приём.</li>
 </ul>
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
 </div>
 </details>
 </li>

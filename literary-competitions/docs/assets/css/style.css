@@ -26,28 +26,29 @@ footer { display: flex; flex-wrap: wrap; gap: .5rem 2rem; border-top: 1px solid 
 .skip-link { position: absolute; left: 1rem; top: -10rem; background: white; padding: .7rem; z-index: 1; }
 .skip-link:focus { top: 1rem; }
 .competition-list { list-style: decimal outside; padding-left: 2.2rem; max-width: none; margin: 1.5rem 0 3rem; }
-.competition-item { margin: 0; padding-left: .35rem; }
-.competition-item + .competition-item { margin-top: 3rem; }
+.competition-item { margin: .3rem 0; padding-left: .35rem; }
+.competition-item:has(> .competition[open]) { margin-block: 2.5rem; }
 .competition-item::marker { color: var(--accent); font-weight: 700; font-size: 1.1em; }
-.competition { border: 1px solid var(--line); border-radius: .5rem; background: #fff; overflow: hidden; }
-.competition summary { cursor: pointer; padding: 1rem 1.2rem; }
-.competition summary::marker { color: var(--accent); }
-.competition summary:hover { background: #f2f5ee; }
-.competition summary:focus-visible { outline: 3px solid #bb6e22; outline-offset: -3px; }
+.competition { border: 1px solid transparent; border-radius: .5rem; }
+.competition[open] { border-color: var(--line); background: #fff; }
+.competition > summary { cursor: pointer; padding: .3rem .65rem; border-radius: .5rem; }
+.competition > summary::marker, .competition-more > summary::marker { color: var(--accent); }
+.competition > summary:hover, .competition-more > summary:hover { background: #f2f5ee; }
+.competition > summary:focus-visible, .competition-more > summary:focus-visible { outline: 3px solid #bb6e22; outline-offset: -3px; }
 .competition-title { font-weight: 700; font-size: 1.12rem; }
-.competition-subtitle { display: block; color: var(--muted); font-size: .9rem; margin: .2rem 0 .6rem; }
+.competition-overview { padding: .6rem 1.2rem 1rem; }
+.competition-subtitle { display: block; color: var(--muted); font-size: .9rem; margin: 0 0 .6rem; }
 .competition-facts { display: flex; flex-wrap: wrap; gap: .25rem 1.3rem; font-size: .92rem; }
 .competition-facts > span { max-width: 100%; overflow-wrap: anywhere; }
 .competition-facts strong { font-weight: 600; }
-.competition-toggle { display: block; color: var(--accent); font-size: .85rem; margin-top: .6rem; }
-.competition-toggle::after { content: 'Подробнее'; }
-.competition[open] .competition-toggle::after { content: 'Свернуть подробности'; }
-.competition[open] summary { border-bottom: 1px solid var(--line); }
-.competition-body { padding: .5rem 1.2rem 1.2rem; overflow-wrap: anywhere; }
+.competition-more { margin-top: .8rem; }
+.competition-more > summary { cursor: pointer; color: var(--accent); font-size: .95rem; padding: .3rem 0; }
+.competition[open] > summary { border-bottom: 1px solid var(--line); border-radius: .5rem .5rem 0 0; padding: .7rem 1.2rem; }
+.competition-body { padding: .5rem 0 0; overflow-wrap: anywhere; }
 .competition-body dl { margin: .8rem 0; }
 .competition-body dt { font-weight: 650; margin-top: .8rem; }
 .competition-body dd { margin: .15rem 0 0; }
 .competition-body h3 { font-size: 1.1rem; margin-top: 1.4rem; }
 .competition-body .source-note { color: var(--muted); font-size: .88rem; }
-@media (max-width: 480px) { .competition summary, .competition-body { padding-left: .8rem; padding-right: .8rem; } .competition-facts { display: grid; gap: .25rem; } }
+@media (max-width: 480px) { .competition[open] > summary, .competition-overview { padding-left: .8rem; padding-right: .8rem; } .competition-facts { display: grid; gap: .25rem; } }
 @media print { nav, .skip-link { display: none; } body { background: white; color: black; } main { padding: 1rem 0; } }

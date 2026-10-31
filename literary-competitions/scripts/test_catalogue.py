@@ -13,26 +13,29 @@ class Disclosures(HTMLParser):
     def __init__(self, text):
         super().__init__()
         self.items = []
-        self.active = None
-        self.in_summary = False
+        self.stack = []
         self.feed(text)
 
     def handle_starttag(self, tag, attrs):
         if tag == "details":
-            self.active = {"attrs": dict(attrs), "summary": "", "body": ""}
-            self.items.append(self.active)
+            item = {"attrs": dict(attrs), "summary": "", "body": "", "children": [], "in_summary": False}
+            if self.stack:
+                self.stack[-1]["children"].append(item)
+            else:
+                self.items.append(item)
+            self.stack.append(item)
         elif tag == "summary":
-            self.in_summary = True
+            self.stack[-1]["in_summary"] = True
 
     def handle_endtag(self, tag):
         if tag == "summary":
-            self.in_summary = False
+            self.stack[-1]["in_summary"] = False
         elif tag == "details":
-            self.active = None
+            self.stack.pop()
 
     def handle_data(self, text):
-        if self.active is not None:
-            self.active["summary" if self.in_summary else "body"] += text
+        for item in self.stack:
+            item["summary" if item["in_summary"] else "body"] += text
 
 
 class CatalogueTests(unittest.TestCase):
@@ -73,17 +76,21 @@ class CatalogueTests(unittest.TestCase):
             self.assertIn(f'id="{item["id"]}"', text)
         self.assertNotIn("{source:", text)
 
-    def test_closed_disclosures_keep_brief_facts_and_full_details(self):
+    def test_two_levels_keep_only_name_then_brief_facts_then_conditions(self):
         parsed = Disclosures(render(self.data))
         self.assertEqual(len(parsed.items), len(self.data["competitions"]))
         by_id = {item["attrs"]["id"]: item for item in parsed.items}
         for contest in self.data["competitions"]:
             item = by_id[contest["id"]]
             self.assertNotIn("open", item["attrs"])
-            self.assertIn(contest["name"], item["summary"])
+            self.assertEqual(contest["name"], item["summary"].strip())
             for label in ("Частота:", "Дедлайн:", "Взнос:", "Приз:"):
-                self.assertIn(label, item["summary"])
-            self.assertIn(contest["eligibility"]["description"], item["body"])
+                self.assertIn(label, item["body"])
+            self.assertEqual(len(item["children"]), 1)
+            more = item["children"][0]
+            self.assertNotIn("open", more["attrs"])
+            self.assertEqual(more["summary"], "Подробнее")
+            self.assertIn(contest["eligibility"]["description"], more["body"])
 
     def test_rendering_does_not_modify_research(self):
         before = copy.deepcopy(self.data)
@@ -111,8 +118,11 @@ class CatalogueTests(unittest.TestCase):
         self.assertEqual(len(parsed.items), len(data["competitions"]))
         for item in parsed.items:
             self.assertNotIn("open", item["attrs"])
+            self.assertEqual(len(item["children"]), 1)
+            self.assertNotIn("open", item["children"][0]["attrs"])
             for label in ("Частота:", "Дедлайн:", "Взнос:", "Приз:"):
-                self.assertIn(label, item["summary"])
+                self.assertNotIn(label, item["summary"])
+                self.assertIn(label, item["body"])
 
     def test_mixed_catalogue_language_fails(self):
         self.data["submission_language"] = "uk"
@@ -124,11 +134,11 @@ class CatalogueTests(unittest.TestCase):
         item = next(c for c in data["competitions"] if c["id"] == "uk-smoloskyp-2026")
         self.assertTrue(fee_text(item).startswith("от 300 UAH"))
         by_id = {d["attrs"]["id"]: d for d in Disclosures(render(data)).items}
-        self.assertIn("по постоянным правилам", by_id[item["id"]]["summary"])
+        self.assertIn("по постоянным правилам", by_id[item["id"]]["body"])
         item = next(c for c in data["competitions"] if c["id"] == "uk-granoslov-2026")
         self.assertIsNone(item["entry_fee"]["amount"])
-        self.assertIn("денежная сумма не указана", by_id[item["id"]]["summary"])
-        self.assertNotIn("0 UAH", by_id[item["id"]]["summary"])
+        self.assertIn("денежная сумма не указана", by_id[item["id"]]["body"])
+        self.assertNotIn("0 UAH", by_id[item["id"]]["body"])
 
     def test_event_history_outputs_are_synchronized(self):
         generated = history_products()

@@ -109,7 +109,7 @@ def prize_text(item):
 
 
 def render_item(item, sources):
-    """Native details keeps the summary visible and works without JavaScript."""
+    """Two native disclosure levels: name, brief facts, then full conditions."""
     frequency = item["recurrence"]["description"]
     if item["recurrence"].get("verification") == "inferred_from_editions":
         frequency += " (по истории сезонов)"
@@ -131,14 +131,18 @@ def render_item(item, sources):
         f'<details id="{escape(item["id"], quote=True)}" class="competition">',
         '<summary>',
         f'<span class="competition-title">{escape(item["name"])}</span>',
+        '</summary>',
+        '<div class="competition-overview">',
         f'<span class="competition-subtitle">{escape(subtitle)}</span>',
         '<span class="competition-facts">',
     ]
     for label, value in (("Частота", frequency), ("Дедлайн", short_deadline), ("Взнос", fee), ("Приз", prize_text(item))):
         lines.append(f'<span><strong>{label}:</strong> {escape(value)}</span>')
     lines += [
-        '</span>', '<span class="competition-toggle" aria-hidden="true"></span>',
-        '</summary>', '<div class="competition-body">', '<dl>',
+        '</span>',
+        '<details class="competition-more">',
+        '<summary>Подробнее</summary>',
+        '<div class="competition-body">', '<dl>',
     ]
 
     def row(label, text, evidence=None):
@@ -174,7 +178,7 @@ def render_item(item, sources):
     )
     if indexed:
         lines.append('<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>')
-    lines += ['</div>', '</details>', '</li>']
+    lines += ['</div>', '</details>', '</div>', '</details>', '</li>']
     return "\n".join(lines)
 
 
@@ -194,7 +198,7 @@ def render(data):
         data.get("language_description", "Речь о языке произведений. Описания составлены по-русски.") + " Даты и статусы отражают сохранённую проверку, а не проверку в реальном времени. Суммы оставлены в исходных валютах; указан главный приз, а не общий призовой фонд.", "",
         f"[Скачать данные JSON]({{{{ '/data/{language}-catalogue.json' | relative_url }}}}) · "
         "[Как устроен поиск](https://github.com/l3chat/4os/blob/main/literary-competitions/research/README.md)", "",
-        "Нажмите на название конкурса, чтобы раскрыть подробные условия и источники. В краткой записи видны частота, дедлайн, взнос и главный приз. Можно раскрыть несколько конкурсов одновременно.", "",
+        "Нажмите на название конкурса, чтобы увидеть краткие сведения: частоту, дедлайн, взнос и главный приз. Затем нажмите «Подробнее», чтобы раскрыть полные условия и источники. Повторное нажатие сворачивает выбранный уровень. Можно раскрыть несколько конкурсов одновременно.", "",
         "Тариф может относиться к пакету работ, ранней подаче или последнему объявленному сезону. Пометка † означает, что сумму нужно подтвердить для нового сезона.", "",
     ]
     groups = [
