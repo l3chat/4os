@@ -22,7 +22,7 @@ section: contests
 
 ## Подтверждённые ближайшие даты
 
-<ul class="competition-list">
+<ol class="competition-list" start="1">
 <li class="competition-item">
 <details id="en-national-poetry-2026" class="competition">
 <summary>
@@ -608,11 +608,11 @@ section: contests
 </div>
 </details>
 </li>
-</ul>
+</ol>
 
 ## Конкурсы с ограничением гражданства или проживания
 
-<ul class="competition-list">
+<ol class="competition-list" start="18">
 <li class="competition-item">
 <details id="en-avbob-english-2026" class="competition">
 <summary>
@@ -683,11 +683,11 @@ section: contests
 </div>
 </details>
 </li>
-</ul>
+</ol>
 
 ## Ожидаем точную дату или новый сезон
 
-<ul class="competition-list">
+<ol class="competition-list" start="20">
 <li class="competition-item">
 <details id="en-bath-flash-2026-oct" class="competition">
 <summary>
@@ -791,4 +791,4 @@ section: contests
 </div>
 </details>
 </li>
-</ul>
+</ol>

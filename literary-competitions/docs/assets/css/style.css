@@ -25,8 +25,10 @@ pre { overflow-x: auto; padding: 1rem; background: #edf1e9; }
 footer { display: flex; flex-wrap: wrap; gap: .5rem 2rem; border-top: 1px solid var(--line); color: var(--muted); font-size: .85rem; }
 .skip-link { position: absolute; left: 1rem; top: -10rem; background: white; padding: .7rem; z-index: 1; }
 .skip-link:focus { top: 1rem; }
-.competition-list { list-style: none; padding: 0; max-width: none; margin: 1.2rem 0 2rem; }
-.competition-item { margin: 0 0 .8rem; }
+.competition-list { list-style: decimal outside; padding-left: 2.2rem; max-width: none; margin: 1.5rem 0 3rem; }
+.competition-item { margin: 0; padding-left: .35rem; }
+.competition-item + .competition-item { margin-top: 3rem; }
+.competition-item::marker { color: var(--accent); font-weight: 700; font-size: 1.1em; }
 .competition { border: 1px solid var(--line); border-radius: .5rem; background: #fff; overflow: hidden; }
 .competition summary { cursor: pointer; padding: 1rem 1.2rem; }
 .competition summary::marker { color: var(--accent); }

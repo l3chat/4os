@@ -202,11 +202,13 @@ def render(data):
         ("Конкурсы с ограничением гражданства или проживания", [r for r in records if r["next_deadline"]["date"] and r["eligibility"]["geographic_scope"] == "restricted"]),
         ("Ожидаем точную дату или новый сезон", [r for r in records if not r["next_deadline"]["date"]]),
     ]
+    next_number = 1
     for title, items in groups:
-        lines += [f"## {title}", "", '<ul class="competition-list">']
+        lines += [f"## {title}", "", f'<ol class="competition-list" start="{next_number}">']
         for item in items:
             lines.append(render_item(item, data["sources"]))
-        lines += ['</ul>', ""]
+        lines += ['</ol>', ""]
+        next_number += len(items)
     return "\n".join(lines).rstrip() + "\n"
 
 

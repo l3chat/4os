@@ -22,7 +22,7 @@ section: contests
 
 ## Подтверждённые ближайшие даты
 
-<ul class="competition-list">
+<ol class="competition-list" start="1">
 <li class="competition-item">
 <details id="uk-open-world-2026" class="competition">
 <summary>
@@ -315,11 +315,11 @@ section: contests
 </div>
 </details>
 </li>
-</ul>
+</ol>
 
 ## Конкурсы с ограничением гражданства или проживания
 
-<ul class="competition-list">
+<ol class="competition-list" start="9">
 <li class="competition-item">
 <details id="uk-sholom-aleichem-2027" class="competition">
 <summary>
@@ -357,11 +357,11 @@ section: contests
 </div>
 </details>
 </li>
-</ul>
+</ol>
 
 ## Ожидаем точную дату или новый сезон
 
-<ul class="competition-list">
+<ol class="competition-list" start="10">
 <li class="competition-item">
 <details id="uk-granoslov-2026" class="competition">
 <summary>
@@ -653,4 +653,4 @@ section: contests
 </div>
 </details>
 </li>
-</ul>
+</ol>
