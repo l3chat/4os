@@ -1,4 +1,4 @@
-name: Build and publish Pages
+name: Literary competitions — build and publish Pages
 
 on:
   push:
@@ -23,14 +23,14 @@ jobs:
       - name: Build Markdown with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./docs
-          destination: ./_site
+          source: ./literary-competitions/docs
+          destination: ./literary-competitions/_site
       - name: Check internal links and anchors
-        run: python3 scripts/check_links.py _site --base-path /4os
+        run: python3 literary-competitions/scripts/check_links.py literary-competitions/_site --base-path /4os
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: ./_site
+          path: ./literary-competitions/_site
 
   deploy:
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
