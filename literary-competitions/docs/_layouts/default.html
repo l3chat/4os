@@ -10,6 +10,7 @@
   <body>
     <a class="skip-link" href="#main">{{ page.skip_label | default: 'К содержимому / Skip to content' }}</a>
     <header class="site-header">
+      <p><a href="{{ site.repository_baseurl | append: '/' | escape }}">Все проекты / All projects</a></p>
       <a class="brand" href="{{ '/' | relative_url }}">Литературные конкурсы<span>Literary competitions</span></a>
       <nav aria-label="Languages">
         {% for language in site.languages %}

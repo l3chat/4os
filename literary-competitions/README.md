@@ -8,7 +8,7 @@
 
 Подготовлена инфраструктура. Списки пока не заполнены. Конкурсы из прежних документов будут перенесены отдельно после проверки источников.
 
-Предполагаемый адрес после включения Pages: **https://l3chat.github.io/4os/**. Фактический адрес показывает Settings → Pages; наличие этой ссылки в README не означает, что сайт уже опубликован.
+Адрес раздела: **https://l3chat.github.io/4os/literary-competitions/**. В корне сайта находится [список всех проектов](https://l3chat.github.io/4os/). Состояние последней публикации показывает Actions.
 
 ## Разделы
 
@@ -32,7 +32,7 @@
 | `docs/_config.yml` | Настройки Jekyll, адрес и базовый путь сайта |
 | `docs/_layouts/`, `docs/assets/` | Общий шаблон страниц и оформление |
 | `templates/contest-list.md` | Шаблон годового списка и карточки конкурса |
-| [`../.github/workflows/literary-competitions-pages.yml`](../.github/workflows/literary-competitions-pages.yml) | Сборка, проверка ссылок и публикация; исполняемый workflow хранится в корне репозитория |
+| [`../.github/workflows/pages.yml`](../.github/workflows/pages.yml) | Общая сборка, проверка ссылок и публикация всех разделов; исполняемый workflow хранится в корне репозитория |
 | `scripts/check_links.py` | Проверка внутренних ссылок собранного сайта |
 | `CONTRIBUTING.md` | Правила добавления и обновления |
 | `AGENTS.md` | Инструкции для ИИ-агентов |
@@ -41,7 +41,7 @@
 
 1. Открыть [Settings → Pages](https://github.com/l3chat/4os/settings/pages).
 2. В **Build and deployment → Source** выбрать **GitHub Actions**.
-3. Открыть [Actions](https://github.com/l3chat/4os/actions), выбрать **Literary competitions — build and publish Pages** и нажать **Run workflow** для ветки `main`.
+3. Открыть [Actions](https://github.com/l3chat/4os/actions), выбрать **Build and publish project sites** и нажать **Run workflow** для ветки `main`.
 4. Проверить успешное завершение `build` и `deploy`. Адрес сайта появится в результате `deploy` и в Settings → Pages.
 
 После настройки каждый push в `main` запускает сборку и публикацию. Для pull request выполняется только сборка и проверка; сайт обновляется после слияния в `main`.
@@ -50,7 +50,7 @@
 
 Документация GitHub: [публикация сайта](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), [собственный workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
-Все пути ниже, кроме пути к workflow, указаны относительно папки `literary-competitions/`. Сайт публикуется с прежним базовым путём `/4os`; расположение исходников в репозитории не добавляет к адресу сайта сегмент `literary-competitions`.
+Пути к исходным файлам указаны относительно папки `literary-competitions/`, кроме явно указанных корневых файлов. Раздел публикуется с базовым путём `/4os/literary-competitions`; пути языковых списков продолжаются после него, например `/4os/literary-competitions/contests/en/`.
 
 ## Как добавить список
 
@@ -63,16 +63,15 @@
 
 ## Проверка
 
-GitHub Actions собирает настоящий сайт Jekyll, затем проверяет локальные ссылки, изображения и якоря в итоговом HTML. При ошибке публикация не выполняется. Внешние ссылки автоматически не проверяются: доступность страницы не подтверждает актуальность условий конкурса.
+GitHub Actions собирает раздел Jekyll в корневой `_site/literary-competitions/`, добавляет главную страницу общего сайта и проверяет локальные ссылки, изображения и якоря во всём итоговом HTML. При ошибке публикация не выполняется. Внешние ссылки автоматически не проверяются: доступность страницы не подтверждает актуальность условий конкурса.
 
-Если сайт уже собран локально в `literary-competitions/_site`, ту же проверку можно запустить с Python 3 из папки проекта:
+Если общий сайт уже собран локально в `_site`, ту же проверку можно запустить с Python 3 из корня репозитория:
 
 ```bash
-cd literary-competitions
-python3 scripts/check_links.py _site --base-path /4os
+python3 literary-competitions/scripts/check_links.py _site --base-path /4os
 ```
 
-Для нового домена или переименования репозитория изменить `url` и `baseurl` в `docs/_config.yml`, а также `--base-path` в workflow. Секреты и дополнительные токены для обычной публикации не нужны: workflow использует штатный `GITHUB_TOKEN`.
+Для нового домена или переименования репозитория изменить `url`, `baseurl` и `repository_baseurl` в `docs/_config.yml`, корневую страницу `404.html` и `--base-path` в workflow. При переименовании папки проекта также обновить каталог результата сборки и ссылку на главной странице сайта. Секреты и дополнительные токены для обычной публикации не нужны: workflow использует штатный `GITHUB_TOKEN`.
 
 ## Редакционные правила
 

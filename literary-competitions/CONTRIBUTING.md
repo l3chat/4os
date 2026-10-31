@@ -1,6 +1,6 @@
 # Добавление и обновление конкурсов
 
-Эти правила относятся к проекту `literary-competitions/`. Все пути в тексте указаны относительно этой папки. Исполняемый workflow находится в `../.github/workflows/literary-competitions-pages.yml`.
+Эти правила относятся к проекту `literary-competitions/`. Все пути в тексте указаны относительно этой папки. Общий исполняемый workflow находится в `../.github/workflows/pages.yml`. Раздел сайта публикуется по адресу `/4os/literary-competitions/`.
 
 ## Источники
 

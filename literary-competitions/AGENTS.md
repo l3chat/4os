@@ -10,8 +10,8 @@ This directory maintains multilingual literary competition lists and publishes t
 - Keep factual rules separate from editorial advice. Mark missing or conflicting information explicitly.
 - Do not populate empty lists with invented sample contests. Templates belong outside `docs/`.
 - Preserve closed seasons for reference. Update all language copies when shared facts change.
-- Use Jekyll `relative_url` for site links so the `/4os` base path works.
+- Use Jekyll `relative_url` for project links so the `/4os/literary-competitions` base path works. `repository_baseurl` points to the global project directory at `/4os/`.
 - GitHub Pages is the selected host. Do not introduce another hosting platform, analytics, external fonts, or a backend without a task requiring them.
 - Do not change repository visibility or claim publication succeeded unless deployment is verified.
-- The executable workflow lives at `../.github/workflows/literary-competitions-pages.yml` because GitHub Actions requires workflows at the repository root. Its source is `literary-competitions/docs/`; preserve the public `/4os` base path unless the task changes it.
+- The shared executable workflow lives at `../.github/workflows/pages.yml`. It builds `literary-competitions/docs/` into the repository-level `_site/literary-competitions/`, adds the global project directory, validates the combined site and publishes it once. Preserve the project subdirectory in public URLs. Never deploy this project alone over the global Pages site.
 - Run appropriate checks. The Pages workflow builds Jekyll and runs `scripts/check_links.py` before deploying. Report any verification that could not be completed.
