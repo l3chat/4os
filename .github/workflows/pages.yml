@@ -20,13 +20,15 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
+      - name: Add project directory and global error page
+        run: |
+          mkdir -p _site
+          cp index.html 404.html _site/
       - name: Build literary competitions with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./literary-competitions/docs
           destination: ./_site/literary-competitions
-      - name: Add project directory and global error page
-        run: cp index.html 404.html _site/
       - name: Check internal links and anchors
         run: python3 literary-competitions/scripts/check_links.py _site --base-path /4os
       - name: Upload Pages artifact
