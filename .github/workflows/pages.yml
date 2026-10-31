@@ -20,8 +20,10 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
-      - name: Validate saved research and generated catalogue
+      - name: Validate saved research and generated catalogues
         run: python3 literary-competitions/scripts/render_catalogue.py --check
+      - name: Validate event history
+        run: python3 literary-competitions/scripts/render_history.py --check
       - name: Test catalogue data handling
         run: python3 -m unittest discover -s literary-competitions/scripts -p 'test_catalogue.py'
       - name: Add project directory and global error page

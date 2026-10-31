@@ -1,0 +1,1388 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-31",
+  "submission_language": "uk",
+  "description_language": "ru",
+  "catalogue_title": "Украинские и украиноязычные литературные конкурсы",
+  "language_description": "Включены конкурсы украинских организаторов и зарубежные конкурсы, принимающие украинские тексты. Это не ограничение местом проживания автора. Описания — по-русски; официальные названия сохранены. Для премий за изданные книги и специальных номинаций ограничения указаны отдельно.",
+  "coverage": {
+    "status": "initial_batch",
+    "records": 17,
+    "organizer_countries": [
+      "Ukraine",
+      "United States"
+    ],
+    "geography_description": "География организаторов: Украина, США и международные организации.",
+    "not_exhaustive": true,
+    "scope": "Конкурсы рукописей и премии за опубликованные книги; не исчерпывающий список. INK-7 разделён на три категории из-за разных тарифов и призов; Фонд Ковалевих — на поэзию и прозу."
+  },
+  "sources": {
+    "smoloskyp": {
+      "url": "https://www.smoloskyp.org.ua/umovy-uchasti/",
+      "title": "Смолоскип: постійні умови конкурсу",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": "Пряма загрузка дала 502; официальный индекс содержит полный текст условий. Календарь ежегодный, без отдельного заголовка сезона 2026."
+    },
+    "openworld": {
+      "url": "https://openworld.ho.ua/",
+      "title": "Open World: конкурс 2026, правила и награды",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "ink-rules": {
+      "url": "https://bobelarto.ink/uk/regularo/",
+      "title": "INK-7: офіційні правила",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "ink-main": {
+      "url": "https://bobelarto.ink/uk/konkurso/",
+      "title": "INK-7: українська сторінка",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "ink-fees": {
+      "url": "https://bobelarto.ink/eo/pago/",
+      "title": "INK-7: тарифи за категоріями",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": "Официальная платежная страница на эсперанто: опытные 18 EUR, начинающие 12 EUR, юные 6 EUR; необязательные пожертвования не включены."
+    },
+    "korona": {
+      "url": "https://koronatsiya.com/umovi-uchasti-2/koronacziya-slova/",
+      "title": "Коронація слова: правила",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": "Страница говорит о 5 января текущего года без года сезона; не используется как подтверждение 5 января 2027."
+    },
+    "granoslov": {
+      "url": "https://nspu.com.ua/aktualno/granoslov-konkurs-feniks-2/",
+      "title": "Гранослов: положення 2026 та історія перерв",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "granoslov-result": {
+      "url": "https://nspu.com.ua/konkursi-i-premiji/viznacheno-peremozhciv-mizhnarodnogo-literaturnogo-konkursu-granoslov/",
+      "title": "Гранослов: результати 2 жовтня 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "granoslov-extension": {
+      "url": "https://nspu.com.ua/aktualno/vidbulosya-chergove-zasidannya-sekretariatu-nacionalnoi-spilki-pismennikiv-ukraini-25/",
+      "title": "НСПУ: обговорення продовження строків 21 вересня 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": "Факт обсуждения продления не содержит точного нового дедлайна; старый срок не выдаётся за окончательный."
+    },
+    "lion": {
+      "url": "https://nspu.com.ua/aktualno/ogoloshennya-krilatogo-leva/",
+      "title": "Крилатий Лев: оголошення 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "lion-result": {
+      "url": "https://nspu.com.ua/konkursi-i-premiji/krilatij-lev-vruchiv-nagorodi/",
+      "title": "Крилатий Лев: нагородження 15 вересня 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "shevelov": {
+      "url": "https://pen.org.ua/rozpochavsya-konkurs-na-zdobuttya-premiyi-shevelova-za-2026-rik",
+      "title": "ПЕН: Премія Шевельова 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "shevelov-standing": {
+      "url": "https://pen.org.ua/premiya-im-yuriya-shevelova",
+      "title": "ПЕН: постійні умови Премії Шевельова",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": "Постоянные условия дают 15 октября, сезонное объявление 2026 — 14 октября. Приоритет у сезонного объявления."
+    },
+    "sholom": {
+      "url": "https://www.kmu.gov.ua/news/derzhmystetstv-oholosylo-konkurs-na-zdobuttia-premii-imeni-sholom-aleikhema-u-2027-rotsi",
+      "title": "Уряд: премія Шолом-Алейхема 2027",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "sholom-language": {
+      "url": "https://mincult.gov.ua/announcements/derzhavne-agentstvo-ukrayiny-z-pytan-mystecztv-ta-mysteczkoyi-osvityogoloshuye-konkurs-na-zdobuttya-premiyi-imeni-sholom-alejhema-u-2027-roczi/",
+      "title": "Мінкульт: українська мова конкурсних творів 2027",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "lesia": {
+      "url": "https://comin.gov.ua/news/startuvav-pryiom-zaiavok-na-uchast-u-konkursi-na-zdobuttia-premii-imeni-lesi-ukrainky",
+      "title": "Держкомтелерадіо: премія Лесі Українки 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": "Пряма загрузка не завершилась; полный официальный текст доступен в индексе."
+    },
+    "lesia-money": {
+      "url": "https://comin.gov.ua/news/114-tvoriv-zmahatymutsia-za-premiiu-imeni-lesi-ukrainky-v-chotyrokh-nominatsiiakh",
+      "title": "Держкомтелерадіо: щорічність та розмір 20 тис. грн",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": "Размер из более раннего сообщения организатора; отдельное подтверждение неизменности для 2026 не найдено."
+    },
+    "nestayko-library": {
+      "url": "https://chl.kiev.ua/Default.aspx?id=12052",
+      "title": "НБУ для дітей: Всеукраїнська премія Нестайка 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": "Сезон 2026 и допустимые книги 2024–2026 подтверждены; прямой доступ к странице давал тайм-аут."
+    },
+    "nestayko-rules": {
+      "url": "https://chl.kiev.ua/novunu/2024/240429/11094/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F.pdf",
+      "title": "НБУ для дітей: постійне положення про премію Нестайка",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": "Постоянное положение: ежегодно, подача до 1 ноября; не путать с другой премией НСПУ и Карітас для рукописей."
+    },
+    "samovydets": {
+      "url": "https://transcendent-tartufo-74c2a3.netlify.app/",
+      "title": "Слово самовидця: сайт, на який посилається Мінкульт",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": "Сайт указан ссылкой в официальном анонсе Минкульта; его собственные условия уже, чем описание участников в министерском сообщении."
+    },
+    "samovydets-mincult": {
+      "url": "https://mincult.gov.ua/news/slovo-samovydczya-startuye-vseukrayinskyj-literaturnyj-konkurs-poklykanyj-zberegty-svidchennya-pro-vijnu/",
+      "title": "Мінкульт: початок Слова самовидця 2026/27",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "kovaliv-main": {
+      "url": "https://unwla.org/projects/support-authors/",
+      "title": "Союз українок Америки: щорічна відзнака Фонду Ковалевих",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "kovaliv-call": {
+      "url": "https://unwla.org/news/culture/the-kovaliv-fund-announces-a-competition-on-a-ukrainian-historical-theme/",
+      "title": "UNWLA: Literary and Historical Awards 2025",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": "Последний найденный полный анонс литературных категорий относится к 2025; не переносить его сроки на 2026 или 2027."
+    },
+    "kovaliv-result": {
+      "url": "https://unwla.org/news/unwla-kovaliv-fund-2026-laureat/",
+      "title": "UNWLA: сторінка з заголовком 2026, але текстом про нагороду 2025",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": "Дата в заголовке и год внутри текста расходятся; не считать это новым объявлением литературного конкурса."
+    },
+    "nazva": {
+      "url": "https://philology.lnu.edu.ua/news/pro-vseukrayinskyy-molodizhnyy-literaturnyy-konkurs-nazva",
+      "title": "ЛНУ: Назва 26/27, повідомлення факультету 29 жовтня 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": "Ссылка на положение DOCX есть, но содержимое файла не удалось извлечь веб-инструментом; точный дедлайн и взнос не подтверждены."
+    },
+    "volia": {
+      "url": "https://voliabookprize.gov.ua/",
+      "title": "Воля: премія 2026, винагорода та календар",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "volia-rules": {
+      "url": "https://voliabookprize.gov.ua/api/media/file/%D0%9F%D0%9E%D0%9B%D0%9E%D0%96%D0%95%D0%9D%D0%9D%D0%AF_%D0%9F%D0%A0%D0%9E_%D0%9B%D0%86%D0%A2%D0%95%D0%A0%D0%90%D0%A2%D0%A3%D0%A0%D0%9D%D0%A3_%D0%9F%D0%A0%D0%95%D0%9C%D0%86%D0%AE_%D0%92%D0%9E%D0%9B%D0%AF.pdf",
+      "title": "Воля: офіційне положення 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "ink-authentic": {
+      "url": "https://bobelarto.ink/eo/regularo/",
+      "title": "INK-7: юридически приоритетный текст на эсперанто",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": "Разрешение ИИ, дата 30 июня 2027, призы и правила прав сверены также с исходной языковой версией."
+    }
+  },
+  "competitions": [
+    {
+      "id": "uk-smoloskyp-2026",
+      "name": "Літературний конкурс «Смолоскип»",
+      "organizer": "Видавництво «Смолоскип»",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "поэзия",
+        "проза",
+        "эссеистика"
+      ],
+      "edition": "подача 2026; итоги 2027",
+      "submission_type": "неопубликованные рукописи",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "smoloskyp"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": "2026-09-01",
+      "next_deadline": {
+        "date": "2026-12-31",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "31 декабря — постоянное ежегодное правило, а не отдельный новый сезонный анонс. Время и часовой пояс не объявлены.",
+        "source_ids": [
+          "smoloskyp"
+        ],
+        "basis": "standing_calendar"
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 300,
+        "currency": "UAH",
+        "unit": "участие с обязательным подтверждением взноса",
+        "note": "В правилах назван добровольным благотворительным взносом, но участие обусловлено его уплатой; минимум 300 грн. Печать и пересылка рукописи оплачиваются дополнительно.",
+        "applies_to": "подача 2026; итоги 2027",
+        "source_ids": [
+          "smoloskyp"
+        ],
+        "is_minimum": true
+      },
+      "top_prize": {
+        "cash_amount": 10000,
+        "currency": "UAH",
+        "note": "Лауреат диплома I степени получает 10 000 грн; рукописи I и II степени издаются отдельными книгами.",
+        "applies_to": "подача 2026; итоги 2027",
+        "source_ids": [
+          "smoloskyp"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Украиноязычные авторы: поэзия — 18–35 лет, проза и эссеистика — 18–40; ранее неопубликованные рукописи. Географическое ограничение в доступных правилах не сформулировано.",
+        "source_ids": [
+          "smoloskyp"
+        ]
+      },
+      "notes": [
+        "Срок вычислен по прямо установленному официальному ежегодному окну 1 сентября — 31 декабря; отдельный датированный анонс 2026 не найден. Перед отправкой подтвердить актуальность правил.",
+        "Поэзия — не менее 50 страниц, проза и эссеистика — не менее 100. Нужны бумажная рукопись и электронный дубль.",
+        "Лауреаты I и II степени прошлых лет не допускаются."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-open-world-2026",
+      "name": "Open World — «Українська готика: крізь темряву»",
+      "organizer": "Open World / ГО «Мистецька студія Орфей»",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "рассказ",
+        "готическая проза"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованные рукописи",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "openworld"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": "2026-05-01",
+      "next_deadline": {
+        "date": "2026-11-01",
+        "local_time": "23:59",
+        "timezone": "Europe/Kyiv",
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "openworld"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 0,
+        "currency": "UAH",
+        "unit": "первые два рассказа автора",
+        "note": "Начиная с третьего текста — 100 грн за каждый дополнительный рассказ.",
+        "applies_to": "2026",
+        "source_ids": [
+          "openworld"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 10000,
+        "currency": "UAH",
+        "note": "Второе место 7 500 грн, третье 5 000 грн, спецотметка за Сумщину 3 000 грн; короткому списку без основных призов — по 1 000 грн; публикация в сборнике.",
+        "applies_to": "2026",
+        "source_ids": [
+          "openworld"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира, от 18 лет; рассказы на украинском, 1 500–3 000 слов, на объявленную тему.",
+        "source_ids": [
+          "openworld"
+        ]
+      },
+      "notes": [
+        "Одновременное участие текста в других конкурсах и ранее опубликованные тексты не допускаются.",
+        "Генеративный ИИ для создания конкурсного текста не приветствуется. Правила предоставляют организатору неисключительные права на публикацию и перевод."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-ink7-experienced-2027",
+      "name": "INK-7 — визнані письменники",
+      "organizer": "Akademio Literatura de Esperanto / Bobelarto / UEA",
+      "organizer_country": "International",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "новелла",
+        "микропроза"
+      ],
+      "edition": "INK-7; дедлайн 2027, награждение 2028",
+      "submission_type": "неопубликованные рукописи",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодные серии; результаты объявляются позже дедлайна",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "ink-main"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2027-06-30",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "ink-rules"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 18,
+        "currency": "EUR",
+        "unit": "одна конкурсная новелла в этой категории",
+        "note": "Организационный взнос обязателен; отдельное пожертвование в форме необязательно. Тариф зависит от выбранной категории.",
+        "applies_to": "INK-7; дедлайн 2027, награждение 2028",
+        "source_ids": [
+          "ink-fees"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 2000,
+        "currency": "EUR",
+        "note": "Первый приз именно в этой категории. Другим финалистам, не получившим место, — по 100 EUR. Призы выплачиваются после объявления результатов в августе 2028.",
+        "applies_to": "INK-7; дедлайн 2027, награждение 2028",
+        "source_ids": [
+          "ink-rules"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Категория опытных авторов; взрослый автор может сам выбрать её вместо категории начинающих. Украинский принимается напрямую без перевода; до 2 000 слов, тема «Між двома епохами».",
+        "source_ids": [
+          "ink-rules",
+          "ink-authentic"
+        ]
+      },
+      "notes": [
+        "INK-7 прямо разрешает тексты, созданные с использованием ИИ; это не общее правило остальных конкурсов.",
+        "Правила предусматривают исключительные права организаторов на публикацию и перевод; условия их возврата нужно изучить перед подачей.",
+        "Ежегодность выведена из последовательных объявлений результатов INK-5, INK-6 и INK-7 (2026, 2027, 2028), а не из гарантии неизменного будущего расписания."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-ink7-emerging-2027",
+      "name": "INK-7 — письменники-початківці",
+      "organizer": "Akademio Literatura de Esperanto / Bobelarto / UEA",
+      "organizer_country": "International",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "новелла",
+        "микропроза"
+      ],
+      "edition": "INK-7; дедлайн 2027, награждение 2028",
+      "submission_type": "неопубликованные рукописи",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодные серии; результаты объявляются позже дедлайна",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "ink-main"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2027-06-30",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "ink-rules"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 12,
+        "currency": "EUR",
+        "unit": "одна конкурсная новелла в этой категории",
+        "note": "Организационный взнос обязателен; отдельное пожертвование в форме необязательно. Тариф зависит от выбранной категории.",
+        "applies_to": "INK-7; дедлайн 2027, награждение 2028",
+        "source_ids": [
+          "ink-fees"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1000,
+        "currency": "EUR",
+        "note": "Первый приз именно в этой категории. Другим финалистам, не получившим место, — по 100 EUR. Призы выплачиваются после объявления результатов в августе 2028.",
+        "applies_to": "INK-7; дедлайн 2027, награждение 2028",
+        "source_ids": [
+          "ink-rules"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Совершеннолетние авторы, не выбирающие категорию опытных. Украинский принимается напрямую без перевода; до 2 000 слов, тема «Між двома епохами».",
+        "source_ids": [
+          "ink-rules",
+          "ink-authentic"
+        ]
+      },
+      "notes": [
+        "INK-7 прямо разрешает тексты, созданные с использованием ИИ; это не общее правило остальных конкурсов.",
+        "Правила предусматривают исключительные права организаторов на публикацию и перевод; условия их возврата нужно изучить перед подачей.",
+        "Ежегодность выведена из последовательных объявлений результатов INK-5, INK-6 и INK-7 (2026, 2027, 2028), а не из гарантии неизменного будущего расписания."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-ink7-youth-2027",
+      "name": "INK-7 — юні письменники",
+      "organizer": "Akademio Literatura de Esperanto / Bobelarto / UEA",
+      "organizer_country": "International",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "новелла",
+        "микропроза"
+      ],
+      "edition": "INK-7; дедлайн 2027, награждение 2028",
+      "submission_type": "неопубликованные рукописи",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодные серии; результаты объявляются позже дедлайна",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "ink-main"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2027-06-30",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "ink-rules"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 6,
+        "currency": "EUR",
+        "unit": "одна конкурсная новелла в этой категории",
+        "note": "Организационный взнос обязателен; отдельное пожертвование в форме необязательно. Тариф зависит от выбранной категории.",
+        "applies_to": "INK-7; дедлайн 2027, награждение 2028",
+        "source_ids": [
+          "ink-fees"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 250,
+        "currency": "EUR",
+        "note": "Первый приз именно в этой категории. Другим финалистам, не получившим место, — по 100 EUR. Призы выплачиваются после объявления результатов в августе 2028.",
+        "applies_to": "INK-7; дедлайн 2027, награждение 2028",
+        "source_ids": [
+          "ink-rules"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Авторы младше 18 лет; если несовершеннолетний по праву страны проживания — требуется согласие родителей или опекуна. Украинский принимается напрямую без перевода; до 2 000 слов, тема «Між двома епохами».",
+        "source_ids": [
+          "ink-rules",
+          "ink-authentic"
+        ]
+      },
+      "notes": [
+        "INK-7 прямо разрешает тексты, созданные с использованием ИИ; это не общее правило остальных конкурсов.",
+        "Правила предусматривают исключительные права организаторов на публикацию и перевод; условия их возврата нужно изучить перед подачей.",
+        "Ежегодность выведена из последовательных объявлений результатов INK-5, INK-6 и INK-7 (2026, 2027, 2028), а не из гарантии неизменного будущего расписания."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-koronatsiya-standing",
+      "name": "«Коронація слова» — основные номинации",
+      "organizer": "Міжнародний літературний конкурс «Коронація слова»",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "роман",
+        "пьеса",
+        "сценарий",
+        "песенная лирика",
+        "малая проза"
+      ],
+      "edition": "постоянные правила без подтверждённого года следующего сезона",
+      "submission_type": "неопубликованные рукописи",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодный календарь; следующий сезон требует подтверждения",
+        "verification": "confirmed",
+        "source_ids": [
+          "korona"
+        ]
+      },
+      "entry_status_at_check": "needs_verification",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unannounced",
+        "note": "На странице написано «до 5 января текущего года». Это не подтверждение 5 января 2027.",
+        "source_ids": [
+          "korona"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": null,
+        "currency": null,
+        "unit": "одна заявка",
+        "note": "Размер взноса в доступном официальном объявлении не указан; бесплатность не подтверждена.",
+        "applies_to": "постоянные правила без подтверждённого года следующего сезона",
+        "source_ids": [
+          "korona"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": null,
+        "currency": null,
+        "note": "Денежная сумма не опубликована в доступных условиях.",
+        "applies_to": "постоянные правила без подтверждённого года следующего сезона",
+        "source_ids": [
+          "korona"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Тексты обязательно на украинском. Есть международная отметка для украинцев за рубежом; отдельные правила каждой номинации.",
+        "source_ids": [
+          "korona"
+        ]
+      },
+      "notes": [
+        "Приём в «Молоду КороНацію» и «Дитячу КороНацію» на этой странице временно приостановлен; они не представлены как открытые категории.",
+        "Детальные правила номинаций и регламент нужно сверить с организатором до отправки."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-granoslov-2026",
+      "name": "«Гранослов» — перша книга поета",
+      "organizer": "НСПУ / Фонд «Магдебурзьке право»",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "поэтический сборник"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованные рукописи",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Обычно ежегодно; организатор описывает перерывы в проведении",
+        "verification": "confirmed",
+        "source_ids": [
+          "granoslov"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unannounced",
+        "note": "Сезон закрыт; анонса следующего сезона не найдено.",
+        "source_ids": [
+          "granoslov",
+          "granoslov-extension",
+          "granoslov-result"
+        ]
+      },
+      "last_announced_deadline": "2026-08-01",
+      "entry_fee": {
+        "amount": null,
+        "currency": null,
+        "unit": "одна заявка",
+        "note": "Размер взноса в доступном официальном объявлении не указан; бесплатность не подтверждена.",
+        "applies_to": "2026",
+        "source_ids": [
+          "granoslov"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": null,
+        "currency": null,
+        "note": "Три лауреата 2026 получают издание отдельных книг в «Українському письменнику». Отдельная денежная сумма не объявлена.",
+        "applies_to": "2026",
+        "source_ids": [
+          "granoslov-result"
+        ],
+        "non_cash_summary": "издание первой книги"
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Украиноязычная целостная поэтическая рукопись до 100 страниц; авторы до 35 лет без ранее изданных поэтических книг. Гражданство требует уточнения формулировки правил.",
+        "source_ids": [
+          "granoslov"
+        ]
+      },
+      "notes": [
+        "Первоначально опубликовано окно 1 мая — 1 августа. Позже НСПУ сообщила об обсуждении продления; точный окончательный срок не найден.",
+        "Победители уже объявлены 2 октября 2026; следующий срок нельзя рассчитывать по первоначальному окну."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-krylatyi-lev-2026",
+      "name": "«Крилатий Лев» — конкурс рукописів прози",
+      "organizer": "Львівська письменницька організація НСПУ / партнёры",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "проза",
+        "перевод прозы на украинский"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованные рукописи",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "lion"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unannounced",
+        "note": "Дедлайн следующего сезона не объявлен.",
+        "source_ids": [
+          "lion",
+          "lion-result"
+        ]
+      },
+      "last_announced_deadline": "2026-06-01",
+      "entry_fee": {
+        "amount": null,
+        "currency": null,
+        "unit": "одна заявка",
+        "note": "Размер взноса в доступном официальном объявлении не указан; бесплатность не подтверждена.",
+        "applies_to": "2026",
+        "source_ids": [
+          "lion"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": null,
+        "currency": null,
+        "note": "Книга победителя издаётся «Гельветикой»; указаны денежные премии от Львовского горсовета, но их суммы в анонсе отсутствуют. Для других лауреатов упомянута 20-процентная скидка на издание, не бесплатная публикация.",
+        "applies_to": "2026",
+        "source_ids": [
+          "lion"
+        ],
+        "non_cash_summary": "издание книги и денежная премия неуказанного размера"
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Без возрастных рамок и ограничения проживанием в Украине; рукопись прозовой книги на украинском или перевод на украинский; детские тексты и фантастика исключены.",
+        "source_ids": [
+          "lion"
+        ]
+      },
+      "notes": [
+        "Материалы 2026 принимались на бумаге. Победители награждены в сентябре 2026."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-shevelov-2026",
+      "name": "Премія імені Юрія Шевельова",
+      "organizer": "Український ПЕН и соучредители",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "эссеистика"
+      ],
+      "edition": "2026",
+      "submission_type": "изданная книга; выдвижение организацией",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "shevelov"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unannounced",
+        "note": "",
+        "source_ids": [
+          "shevelov"
+        ]
+      },
+      "last_announced_deadline": "2026-10-14",
+      "entry_fee": {
+        "amount": null,
+        "currency": null,
+        "unit": "одна заявка",
+        "note": "Размер взноса в доступном официальном объявлении не указан; бесплатность не подтверждена.",
+        "applies_to": "2026",
+        "source_ids": [
+          "shevelov"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": null,
+        "currency": null,
+        "note": "Денежная сумма не опубликована в доступных условиях.",
+        "applies_to": "2026",
+        "source_ids": [
+          "shevelov-standing"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Украинские авторы и книги художественной или научной эссеистики на украинском, изданные на бумаге в 2026 году. Выдвигают культурные учреждения, издательства, научные центры и творческие объединения.",
+        "source_ids": [
+          "shevelov"
+        ]
+      },
+      "notes": [
+        "Постоянная страница даёт 15 октября, но анонс сезона 2026 — 14 октября. Сохранён сезонный срок; дедлайн 2027 не вычисляется.",
+        "Это премия за изданную книгу, а не приём одного неопубликованного эссе."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-sholom-aleichem-2027",
+      "name": "Премія імені Шолом-Алейхема",
+      "organizer": "Держмистецтв / Міністерство культури України",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "литературно-художественные произведения"
+      ],
+      "edition": "2027",
+      "submission_type": "опубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": null,
+        "description": "Повторяющаяся премия; интервал в текущем анонсе не указан",
+        "verification": "unknown",
+        "source_ids": [
+          "sholom"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": "2026-07-01",
+      "next_deadline": {
+        "date": "2026-11-01",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "sholom"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": null,
+        "currency": null,
+        "unit": "одна заявка",
+        "note": "Размер взноса в доступном официальном объявлении не указан; бесплатность не подтверждена.",
+        "applies_to": "2027",
+        "source_ids": [
+          "sholom"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 20000,
+        "currency": "UAH",
+        "note": "Одна премия 20 000 грн; не размер за каждый поданный текст.",
+        "applies_to": "2027",
+        "source_ids": [
+          "sholom"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "restricted",
+        "description": "Граждане Украины; оригинальные произведения на украинском, популяризирующие культурное наследие украинского и еврейского народов, опубликованные за последние три года не позднее месяца до выдвижения.",
+        "source_ids": [
+          "sholom",
+          "sholom-language"
+        ]
+      },
+      "notes": [
+        "Допускается подача отдельным автором. Документы через государственный реестр; альтернативный email только при объективной невозможности работы с реестром.",
+        "Произведения, уже отмеченные другими премиями или государственными наградами, не выдвигаются."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-lesia-ukrainka-literature-2026",
+      "name": "Премія Лесі Українки — літературні твори для дітей та юнацтва",
+      "organizer": "Держкомтелерадіо / Кабінет Міністрів України",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "детская и юношеская литература"
+      ],
+      "edition": "2026",
+      "submission_type": "опубликованное произведение; выдвижение организацией",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "lesia-money"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": "2026-09-01",
+      "next_deadline": {
+        "date": "2026-11-01",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "lesia"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": null,
+        "currency": null,
+        "unit": "одна заявка",
+        "note": "Размер взноса в доступном официальном объявлении не указан; бесплатность не подтверждена.",
+        "applies_to": "2026",
+        "source_ids": [
+          "lesia"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 20000,
+        "currency": "UAH",
+        "note": "В прежнем официальном сообщении указаны 20 000 грн в каждой номинации. Сезонный анонс 2026 сумму не повторяет.",
+        "applies_to": "постоянный размер из прежнего сообщения организатора; для 2026 перепроверить",
+        "source_ids": [
+          "lesia-money"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Литературные произведения для детей и юношества, завершённо опубликованные за последние три года, но минимум за полгода до подачи; выдвижение творческими объединениями, обществами или издательствами.",
+        "source_ids": [
+          "lesia"
+        ]
+      },
+      "notes": [
+        "В каталог включена литературная номинация, а не театральные, кино- и художественно-оформительские награды той же премии.",
+        "В доступном анонсе язык не сформулирован отдельным запретом на иные языки: украинские книги подходят, но полный языковой допуск нужно сверить с положением."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-nestayko-library-2026",
+      "name": "Всеукраїнська премія імені Всеволода Нестайка — НБУ для дітей",
+      "organizer": "UA IBBY / Національна бібліотека України для дітей / родина Нестайка",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "детская проза"
+      ],
+      "edition": "2026",
+      "submission_type": "изданная книга; выдвижение организацией",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "nestayko-rules"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2026-11-01",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "nestayko-library",
+          "nestayko-rules"
+        ],
+        "basis": "standing_calendar_with_current_edition"
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": null,
+        "currency": null,
+        "unit": "одна заявка",
+        "note": "Размер взноса в доступном официальном объявлении не указан; бесплатность не подтверждена.",
+        "applies_to": "2026",
+        "source_ids": [
+          "nestayko-rules"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": null,
+        "currency": null,
+        "note": "Официальный анонс говорит о денежной награде, дипломе и памятной отметке, но не называет сумму.",
+        "applies_to": "2026",
+        "source_ids": [
+          "nestayko-library"
+        ],
+        "non_cash_summary": "диплом, памятная отметка и денежная награда неуказанного размера"
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Современные украинские детские авторы; полная прозаическая книга для младшего и среднего школьного возраста, изданная в 2024–2026. Выдвигают организации и учреждения по положению.",
+        "source_ids": [
+          "nestayko-library",
+          "nestayko-rules"
+        ]
+      },
+      "notes": [
+        "Сезон 2026 подтверждён текущей страницей; 1 ноября — срок из действующего постоянного положения.",
+        "Не путать с премией «Карітас Бердичів» / НСПУ: у той другой организатор, неопубликованные рукописи и иной дедлайн."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-slovo-samovydtsia-2026-27",
+      "name": "«Слово самовидця»",
+      "organizer": "Ветеранський корпус",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "мемуары",
+        "документальная проза",
+        "повесть",
+        "роман"
+      ],
+      "edition": "2026/27",
+      "submission_type": "неопубликованная рукопись; специальный допуск участников",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "samovydets"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": "2026-10-01",
+      "next_deadline": {
+        "date": "2027-03-31",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "samovydets",
+          "samovydets-mincult"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": null,
+        "currency": null,
+        "unit": "одна заявка",
+        "note": "Размер взноса в доступном официальном объявлении не указан; бесплатность не подтверждена.",
+        "applies_to": "2026/27",
+        "source_ids": [
+          "samovydets"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": null,
+        "currency": null,
+        "note": "Тексты лауреатов будут изданы и распространены; обещаны гонорары без названной суммы.",
+        "applies_to": "2026/27",
+        "source_ids": [
+          "samovydets"
+        ],
+        "non_cash_summary": "издание книги и гонорар неуказанного размера"
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "По сайту конкурса — военные и ветераны Сил обороны Украины, участвовавшие в боевых действиях с 2022 года. Министерский анонс шире и упоминает волонтёров и медиков: их самостоятельный допуск требует уточнения.",
+        "source_ids": [
+          "samovydets",
+          "samovydets-mincult"
+        ]
+      },
+      "notes": [
+        "Украинский язык указан непосредственно на сайте конкурса; рекомендуемый объём от 20 000 слов.",
+        "Министерский текст называет объём минимальным, сайт — рекомендацией. Различие сохранено; полное положение доступно по ссылке Google Docs.",
+        "Тема на сайте названа свободной; общий замысел конкурса — свидетельства о войне. Не подменять это дополнительной выдуманной обязательной темой."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-kovaliv-poetry-2025",
+      "name": "Фонд Лесі та Петра Ковалевих — Поезія",
+      "organizer": "Ukrainian National Women’s League of America / Фонд Ковалевих",
+      "organizer_country": "United States",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "поэзия"
+      ],
+      "edition": "последний полный литературный анонс: 2025",
+      "submission_type": "изданная книга; подача издательством",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "kovaliv-main"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unannounced",
+        "note": "Следующий литературный сезон ожидает отдельного объявления.",
+        "source_ids": [
+          "kovaliv-call",
+          "kovaliv-main"
+        ]
+      },
+      "last_announced_deadline": "2025-06-10",
+      "entry_fee": {
+        "amount": null,
+        "currency": null,
+        "unit": "одна заявка",
+        "note": "Размер взноса в доступном официальном объявлении не указан; бесплатность не подтверждена.",
+        "applies_to": "последний полный литературный анонс: 2025",
+        "source_ids": [
+          "kovaliv-call"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1000,
+        "currency": "USD",
+        "note": "По 1 000 USD победителю литературной категории в анонсе 2025. Сумма будущего сезона не подтверждена.",
+        "applies_to": "последний полный литературный анонс: 2025",
+        "source_ids": [
+          "kovaliv-call"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Украиноязычные книги 2022–2024 годов в анонсе 2025; PDF подаёт издательство, с биобиблиографией автора. Требования будущего сезона не опубликованы в найденном полном анонсе.",
+        "source_ids": [
+          "kovaliv-call"
+        ]
+      },
+      "notes": [
+        "Зарубежный организатор, но литературные категории требуют украинского языка.",
+        "Не переносить на поэзию и прозу сроки исторической категории; это отдельная номинация.",
+        "Страница награждения с заголовком 2026 содержит внутри сведения о премии 2025; она не подтверждает новый приём."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-kovaliv-prose-2025",
+      "name": "Фонд Лесі та Петра Ковалевих — Проза",
+      "organizer": "Ukrainian National Women’s League of America / Фонд Ковалевих",
+      "organizer_country": "United States",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "проза"
+      ],
+      "edition": "последний полный литературный анонс: 2025",
+      "submission_type": "изданная книга; подача издательством",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "kovaliv-main"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unannounced",
+        "note": "Следующий литературный сезон ожидает отдельного объявления.",
+        "source_ids": [
+          "kovaliv-call",
+          "kovaliv-main"
+        ]
+      },
+      "last_announced_deadline": "2025-06-10",
+      "entry_fee": {
+        "amount": null,
+        "currency": null,
+        "unit": "одна заявка",
+        "note": "Размер взноса в доступном официальном объявлении не указан; бесплатность не подтверждена.",
+        "applies_to": "последний полный литературный анонс: 2025",
+        "source_ids": [
+          "kovaliv-call"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1000,
+        "currency": "USD",
+        "note": "По 1 000 USD победителю литературной категории в анонсе 2025. Сумма будущего сезона не подтверждена.",
+        "applies_to": "последний полный литературный анонс: 2025",
+        "source_ids": [
+          "kovaliv-call"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Украиноязычные книги 2022–2024 годов в анонсе 2025; PDF подаёт издательство, с биобиблиографией автора. Требования будущего сезона не опубликованы в найденном полном анонсе.",
+        "source_ids": [
+          "kovaliv-call"
+        ]
+      },
+      "notes": [
+        "Зарубежный организатор, но литературные категории требуют украинского языка.",
+        "Не переносить на поэзию и прозу сроки исторической категории; это отдельная номинация.",
+        "Страница награждения с заголовком 2026 содержит внутри сведения о премии 2025; она не подтверждает новый приём."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-nazva-2026-27",
+      "name": "«Назва 26/27» — молодіжний літературний конкурс",
+      "organizer": "Оргкомитет «Назва»; объявление Филологического факультета ЛНУ",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "поэзия",
+        "проза",
+        "эссе",
+        "критика",
+        "идеи сценариев"
+      ],
+      "edition": "2026/27",
+      "submission_type": "неопубликованные рукописи",
+      "recurrence": {
+        "rounds_per_year": null,
+        "description": "Точная периодичность не подтверждена",
+        "verification": "unknown",
+        "source_ids": [
+          "nazva"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unannounced",
+        "note": "Точный срок в доступном HTML-анонсе не указан.",
+        "source_ids": [
+          "nazva"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": null,
+        "currency": null,
+        "unit": "одна заявка",
+        "note": "Размер взноса в доступном официальном объявлении не указан; бесплатность не подтверждена.",
+        "applies_to": "2026/27",
+        "source_ids": [
+          "nazva"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": null,
+        "currency": null,
+        "note": "Анонс обещает победителям и финалистам публикационный дебют в «Дзвін»; денежная сумма не указана.",
+        "applies_to": "2026/27",
+        "source_ids": [
+          "nazva"
+        ],
+        "non_cash_summary": "публикация в молодёжном номере «Дзвін»"
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Молодые авторы 14–23 лет; украинские тексты. Для поэзии — три стихотворения с общим названием; точные прочие лимиты см. полное положение.",
+        "source_ids": [
+          "nazva"
+        ]
+      },
+      "notes": [
+        "На странице есть ссылка на положение DOCX; его текст требует отдельного чтения. Не выдавать отсутствие дедлайна в коротком анонсе за бессрочный приём."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-volia-2026",
+      "name": "Літературна премія «Воля»",
+      "organizer": "НаУКМА / Міністерство культури України, за підтримки ПриватБанку",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "художественная проза",
+        "документальная книга"
+      ],
+      "edition": "2026",
+      "submission_type": "изданная книга; заявитель — украинское издательство",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "volia-rules"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unannounced",
+        "note": "",
+        "source_ids": [
+          "volia"
+        ]
+      },
+      "last_announced_deadline": "2026-08-19",
+      "entry_fee": {
+        "amount": null,
+        "currency": null,
+        "unit": "одна заявка",
+        "note": "Размер взноса в доступном официальном объявлении не указан; бесплатность не подтверждена.",
+        "applies_to": "2026",
+        "source_ids": [
+          "volia-rules"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 400000,
+        "currency": "UAH",
+        "note": "400 000 грн первому лауреату каждой из трёх категорий, а не общий фонд 400 000 грн на всех.",
+        "applies_to": "2026",
+        "source_ids": [
+          "volia"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "restricted",
+        "description": "Книги с ISBN на украинском, выпущенные зарегистрированными в Украине издательствами. В первых двух категориях автор — гражданин Украины; третья — украинский перевод документальной книги иностранного автора об Украине.",
+        "source_ids": [
+          "volia-rules",
+          "volia"
+        ]
+      },
+      "notes": [
+        "Первый цикл рассматривает украинские оригинальные книги периода 1 мая 2025 — 30 апреля 2026; у перевода иностранной документальной книги отдельное трёхлетнее окно.",
+        "Заявитель — только украинское издательство; не более трёх книг в каждой категории.",
+        "Срок 19 августа относится к 2026. Будущий дедлайн не выводится из ежегодности."
+      ],
+      "checked_on": "2026-10-31"
+    }
+  ]
+}

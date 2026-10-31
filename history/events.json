@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "timezone": "Europe/Berlin",
+  "note": "Старые события восстановлены по фактическим коммитам. Событие current-change-set описывает содержащие его изменения; ссылка на собственный коммит намеренно не записывается, чтобы не создавать самоссылку. Успех публикации подтверждается отдельно в GitHub Actions.",
+  "events": [
+    {
+      "id": "commit-f702605",
+      "occurred_at": "2026-10-31T06:28:31Z",
+      "project": "repository",
+      "kind": "infrastructure",
+      "title": "Создан репозиторий задач",
+      "description": "Создан первый README репозитория 4os.",
+      "commit": "f7026051f82c44339230accf3b4a26ec47d8d270",
+      "evidence": "git-commit"
+    },
+    {
+      "id": "commit-0f6f390",
+      "occurred_at": "2026-10-31T06:28:58Z",
+      "project": "literary-competitions",
+      "kind": "infrastructure",
+      "title": "Подготовлена инфраструктура литературных конкурсов",
+      "description": "Добавлены Jekyll, языковые разделы, шаблон конкурса, инструкции и GitHub Actions.",
+      "commit": "0f6f390346d78c3a211c641d29d0be7bc74a82a8",
+      "evidence": "git-commit"
+    },
+    {
+      "id": "commit-63f7e35",
+      "occurred_at": "2026-10-31T06:40:17Z",
+      "project": "literary-competitions",
+      "kind": "infrastructure",
+      "title": "Проект конкурсов выделен в отдельную папку",
+      "description": "Материалы литературных конкурсов перенесены в literary-competitions/; корневой README описывает собрание разных задач.",
+      "commit": "63f7e35ec667a3f9bf9ba8a85a4f9f3405b16ead",
+      "evidence": "git-commit"
+    },
+    {
+      "id": "commit-796b398",
+      "occurred_at": "2026-10-31T07:15:05Z",
+      "project": "literary-competitions",
+      "kind": "infrastructure",
+      "title": "Структура сайта согласована с подпроектами",
+      "description": "В корне сайта добавлен каталог проектов; литературные конкурсы публикуются в /4os/literary-competitions/.",
+      "commit": "796b398288b50f532b7dd263d7d1cbd713ea5314",
+      "evidence": "git-commit"
+    },
+    {
+      "id": "commit-9864d57",
+      "occurred_at": "2026-10-31T07:16:16Z",
+      "project": "literary-competitions",
+      "kind": "fix",
+      "title": "Исправлена подготовка каталога сборки",
+      "description": "Корневые страницы подготавливаются до запуска контейнера Jekyll, что устраняет ошибку прав доступа.",
+      "commit": "9864d57d1047ab0fb20c6e6a9c5732eff792f4a8",
+      "evidence": "git-commit"
+    },
+    {
+      "id": "commit-0cc0b1c",
+      "occurred_at": "2026-10-31T07:42:39Z",
+      "project": "literary-competitions",
+      "kind": "research",
+      "title": "Сохранено исследование англоязычных конкурсов",
+      "description": "Первичная база: 22 англоязычные конкурсные категории, 39 официальных страниц. Исследование отделено от представления.",
+      "commit": "0cc0b1c68b53d906fbc8d7aa01143b6d03b7f939",
+      "evidence": "git-commit"
+    },
+    {
+      "id": "commit-a8fe583",
+      "occurred_at": "2026-10-31T07:43:06Z",
+      "project": "literary-competitions",
+      "kind": "presentation",
+      "title": "Добавлено независимое представление исследования",
+      "description": "Добавлен офлайн-генератор Markdown и JSON для скачивания, проверки данных и публикация каталога.",
+      "commit": "a8fe5835b340580418a2bafe8f02eebf27129ffa",
+      "evidence": "git-commit"
+    },
+    {
+      "id": "commit-21c9aa2",
+      "occurred_at": "2026-10-31T07:51:01Z",
+      "project": "literary-competitions",
+      "kind": "presentation",
+      "title": "Таблицы заменены раскрываемым списком",
+      "description": "Каталог представлен краткими записями с раскрываемыми условиями и источниками; первичные данные сохранены.",
+      "commit": "21c9aa2b829cd838f5357d29777cbcb3549d50ad",
+      "evidence": "git-commit"
+    },
+    {
+      "id": "uk-catalogue-and-multilingual-infrastructure-2026-10-31",
+      "occurred_at": "2026-10-31T08:06:14.511580+00:00",
+      "project": "literary-competitions",
+      "kind": "research",
+      "title": "Украинский каталог и общая инфраструктура языковых исследований",
+      "description": "Добавлена первая украинская партия: 17 конкурсных категорий, отдельные данные и очередь уточнений. Общий генератор обрабатывает все каталоги research/*/catalogue.json и сохраняет раскрываемое представление. Введён журнал событий с проверкой порядка и генерацией истории.",
+      "commit": null,
+      "evidence": "current-change-set"
+    }
+  ]
+}

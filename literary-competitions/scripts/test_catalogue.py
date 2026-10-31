@@ -5,7 +5,8 @@ import json
 from html.parser import HTMLParser
 import unittest
 
-from render_catalogue import PROJECT, render, validate
+from render_catalogue import PROJECT, fee_text, products, render, validate
+from render_history import products as history_products
 
 
 class Disclosures(HTMLParser):
@@ -95,6 +96,46 @@ class CatalogueTests(unittest.TestCase):
         text = render(self.data)
         self.assertIn("15 000 NZD †", text)
         self.assertIn("3 000 EUR (в т.ч. поездка)", text)
+
+    def test_ukrainian_catalogue_has_separate_outputs_and_disclosures(self):
+        data = json.loads((PROJECT / "research/uk/catalogue.json").read_text(encoding="utf-8"))
+        generated = products(data)
+        self.assertEqual(set(generated), {
+            PROJECT / "docs/contests/uk/catalogue.md",
+            PROJECT / "docs/data/uk-catalogue.json",
+        })
+        text = generated[PROJECT / "docs/contests/uk/catalogue.md"]
+        self.assertIn("catalogue_language: uk", text)
+        self.assertIn("/data/uk-catalogue.json", text)
+        parsed = Disclosures(text)
+        self.assertEqual(len(parsed.items), len(data["competitions"]))
+        for item in parsed.items:
+            self.assertNotIn("open", item["attrs"])
+            for label in ("Частота:", "Дедлайн:", "Взнос:", "Приз:"):
+                self.assertIn(label, item["summary"])
+
+    def test_mixed_catalogue_language_fails(self):
+        self.data["submission_language"] = "uk"
+        with self.assertRaisesRegex(ValueError, "language mismatch"):
+            validate(self.data)
+
+    def test_ukrainian_minimum_fee_and_calendar_basis_remain_visible(self):
+        data = json.loads((PROJECT / "research/uk/catalogue.json").read_text(encoding="utf-8"))
+        item = next(c for c in data["competitions"] if c["id"] == "uk-smoloskyp-2026")
+        self.assertTrue(fee_text(item).startswith("от 300 UAH"))
+        by_id = {d["attrs"]["id"]: d for d in Disclosures(render(data)).items}
+        self.assertIn("по постоянным правилам", by_id[item["id"]]["summary"])
+        item = next(c for c in data["competitions"] if c["id"] == "uk-granoslov-2026")
+        self.assertIsNone(item["entry_fee"]["amount"])
+        self.assertIn("денежная сумма не указана", by_id[item["id"]]["summary"])
+        self.assertNotIn("0 UAH", by_id[item["id"]]["summary"])
+
+    def test_event_history_outputs_are_synchronized(self):
+        generated = history_products()
+        self.assertEqual(len(generated), 2)
+        for path, text in generated.items():
+            self.assertEqual(path.read_text(encoding="utf-8"), text)
+            self.assertIn("Украинский каталог", text)
 
 
 if __name__ == "__main__":
