@@ -2,7 +2,9 @@
 
 This directory maintains multilingual literary competition lists and publishes them with GitHub Pages. The repository also contains unrelated tasks. These instructions apply only to `literary-competitions/`; all project-relative paths below are relative to this directory. Follow its README.md and CONTRIBUTING.md.
 
-- Keep canonical content in Markdown under `docs/contests/<language>/`.
+- Keep research independent from presentation. For the English catalogue, the canonical facts and provenance are in `research/en/catalogue.json`, with follow-up work in `research/en/backlog.json`. See `research/README.md` for the schema and research workflow.
+- Run `python3 scripts/render_catalogue.py` after research or rendering changes. It generates `docs/contests/en/catalogue.md` and `docs/data/en-catalogue.json` without network access. Never edit these generated files directly or perform a fresh web search merely to restyle results. Other manually maintained lists may remain Markdown under `docs/contests/<language>/`.
+- Preserve null for unconfirmed facts, distinguish historical fees/prizes from the current edition, and keep explicit sources for frequency, deadlines, fees, prizes and eligibility. Never claim the initial batch is exhaustive.
 - Read the latest repository files before changing them; preserve concurrent edits.
 - Preserve stable competition IDs and any original reference numbers.
 - Verify changeable facts against official sources for the correct season; record verification dates. Never invent deadlines, fees, eligibility, prizes, or AI policies.

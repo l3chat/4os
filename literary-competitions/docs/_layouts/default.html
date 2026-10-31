@@ -13,9 +13,10 @@
       <p><a href="{{ site.repository_baseurl | append: '/' | escape }}">Все проекты / All projects</a></p>
       <a class="brand" href="{{ '/' | relative_url }}">Литературные конкурсы<span>Literary competitions</span></a>
       <nav aria-label="Languages">
+        {% assign active_language = page.catalogue_language | default: page.lang %}
         {% for language in site.languages %}
           {% assign language_url = '/contests/' | append: language.code | append: '/' %}
-          <a href="{{ language_url | relative_url }}" lang="{{ language.code }}"{% if page.lang == language.code and page.section == 'contests' %} aria-current="page"{% endif %}>{{ language.name }}</a>
+          <a href="{{ language_url | relative_url }}" lang="{{ language.code }}"{% if active_language == language.code and page.section == 'contests' %} aria-current="page"{% endif %}>{{ language.name }}</a>
         {% endfor %}
       </nav>
     </header>
