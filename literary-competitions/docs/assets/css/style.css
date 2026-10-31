@@ -26,12 +26,12 @@ footer { display: flex; flex-wrap: wrap; gap: .5rem 2rem; border-top: 1px solid 
 .skip-link { position: absolute; left: 1rem; top: -10rem; background: white; padding: .7rem; z-index: 1; }
 .skip-link:focus { top: 1rem; }
 .competition-list { list-style: decimal outside; padding-left: 2.2rem; max-width: none; margin: 1.5rem 0 3rem; }
-.competition-item { margin: .3rem 0; padding-left: .35rem; }
-.competition-item:has(> .competition[open]) { margin-block: 2.5rem; }
+.competition-item { margin: 0; padding-left: .35rem; line-height: 1.3; }
+.competition-item:has(> .competition[open]) { margin-block: 2.5rem; line-height: 1.7; }
 .competition-item::marker { color: var(--accent); font-weight: 700; font-size: 1.1em; }
 .competition { border: 1px solid transparent; border-radius: .5rem; }
 .competition[open] { border-color: var(--line); background: #fff; }
-.competition > summary { cursor: pointer; padding: .3rem .65rem; border-radius: .5rem; }
+.competition > summary { cursor: pointer; padding: 0 .65rem; border-radius: .5rem; }
 .competition > summary::marker, .competition-more > summary::marker { color: var(--accent); }
 .competition > summary:hover, .competition-more > summary:hover { background: #f2f5ee; }
 .competition > summary:focus-visible, .competition-more > summary:focus-visible { outline: 3px solid #bb6e22; outline-offset: -3px; }
