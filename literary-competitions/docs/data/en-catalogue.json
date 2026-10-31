@@ -4,19 +4,21 @@
   "submission_language": "en",
   "description_language": "ru",
   "coverage": {
-    "status": "initial_batch",
-    "records": 22,
+    "status": "expanded_batches",
+    "records": 50,
     "organizer_countries": [
       "Australia",
       "Canada",
+      "India",
       "Ireland",
       "New Zealand",
       "South Africa",
+      "Spain",
       "United Kingdom",
       "United States"
     ],
     "not_exhaustive": true,
-    "scope": "Конкурсы, принимающие тексты на английском; преимущественно отдельные произведения, также один конкурс поэтических сборников. География организатора не равна географии допуска авторов."
+    "scope": "Конкурсы английских текстов разных жанров, рукописей и опубликованных произведений. Набор включает международные и ограниченные географией конкурсы; закрытые сезоны сохранены отдельно."
   },
   "sources": {
     "npc-rules": {
@@ -288,6 +290,363 @@
     "avbob-free": {
       "url": "https://www.avbobpoetry.co.za/Articles/writing-competitions-with-free-entry-avbob-poetry-project",
       "title": "AVBOB: free entry",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "bath-story-rules": {
+      "url": "https://www.bathshortstoryaward.org/rules-2/",
+      "title": "Bath Short Story Award: правила 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "bath-story-home": {
+      "url": "https://www.bathshortstoryaward.org/",
+      "title": "Bath Short Story Award: итоги 2026 и будущий сезон 2027",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "bath-novel-2027": {
+      "url": "https://bathnovelaward.co.uk/the-bath-novel-award-international-writing-prize/",
+      "title": "Bath Novel Award: сезон 2027",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "bath-novel-2026": {
+      "url": "https://bathnovelaward.co.uk/rules-2/",
+      "title": "Bath Novel Award: тариф и правила 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "bath-childrens": {
+      "url": "https://bathnovelaward.co.uk/rules-3/",
+      "title": "Bath Children’s Novel Award: условия 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "caledonia": {
+      "url": "https://thecaledonianovelaward.com/rules-entry/",
+      "title": "Caledonia Novel Award: правила 2027",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "oxford-poetry": {
+      "url": "https://www.oxfordpoetry.com/prize.html",
+      "title": "Oxford Poetry Prize: правила 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "winchester-2026": {
+      "url": "https://www.winchesterpoetryfestival.org/wpp26",
+      "title": "Winchester Poetry Prize: условия 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "winchester-annual": {
+      "url": "https://www.winchesterpoetryfestival.org/prize",
+      "title": "Winchester Poetry Prize: ежегодная периодичность",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "ledbury": {
+      "url": "https://ledburypoetry.org.uk/home/ledbury-poetry-competition-2026/",
+      "title": "Ledbury Poetry Competition: сезон 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "magma-current": {
+      "url": "https://magmapoetry.com/magma-poetry-competition-2026-27/",
+      "title": "Magma Poetry Competition: анонс 2026/27",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "magma-form": {
+      "url": "https://magmapoetry.submittable.com/submit",
+      "title": "Magma: актуальная конкурсная форма 2026/27",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "magma-history": {
+      "url": "https://magmapoetry.com/competition/page/26/",
+      "title": "Magma: последовательные ежегодные сезоны",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "aesthetica-entry": {
+      "url": "https://aestheticamagazine.com/creative-writing-award/how-to-enter/",
+      "title": "Aesthetica: тарифы, призы и окончательное закрытие 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "aesthetica-faq": {
+      "url": "https://aestheticamagazine.com/creative-writing-award/faq/",
+      "title": "Aesthetica: международный допуск",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "wells-main": {
+      "url": "https://wellsfestivalofliterature.org.uk/competitions/",
+      "title": "Wells: призы и архив сезонов",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "wells-rules": {
+      "url": "https://wellsfestivalofliterature.org.uk/competitions/rules-competitions/",
+      "title": "Wells: отдельные правила",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "wells-terms": {
+      "url": "https://wellsfestivalofliterature.org.uk/competitions/1108-2/",
+      "title": "Wells: сроки и международный допуск 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "chad-guidelines": {
+      "url": "https://www.bpj.org/submit/chad-walsh-chapbook-series-guidelines",
+      "title": "Chad Walsh: постоянные правила",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "chad-current": {
+      "url": "https://beloitpoetryjournal.submittable.com/submit",
+      "title": "Chad Walsh: форма 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "montreal-2026": {
+      "url": "https://www.montrealpoetryprize.com/2026-competition",
+      "title": "Montreal: сезон 2026, тарифы и двухлетний цикл",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "montreal-home": {
+      "url": "https://www.montrealpoetryprize.com/",
+      "title": "Montreal: размер приза и лимит строк",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "cbc-2027": {
+      "url": "https://cbcliteraryprizes.submittable.com/submit",
+      "title": "CBC: открытая форма Short Story Prize 2027",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "backhouse": {
+      "url": "https://www.backhousepress.com/prize",
+      "title": "Dinah Marshall Backhouse Prize: первый сезон 2026/27",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "nqw-main": {
+      "url": "https://notquitewritepodcast.com/prize/",
+      "title": "Not Quite Write: итоги календаря 2026 и ожидание 2027",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "nqw-faq": {
+      "url": "https://notquitewritepodcast.com/prize/faq/",
+      "title": "Not Quite Write: допуск и призы",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "wingword": {
+      "url": "https://www.wingword.in/",
+      "title": "Wingword Poetry Competition: правила и продление 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "masters-excerpt": {
+      "url": "https://mastersreview.com/novel-excerpt-contest/",
+      "title": "The Masters Review: Novel Excerpt Contest 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "desperate": {
+      "url": "https://desperateliterature.com/prize/",
+      "title": "Desperate Literature Short Fiction Prize: правила и результаты 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "flash500": {
+      "url": "https://flash500.com/flash-fiction/",
+      "title": "Flash 500: четыре раунда 2026, тарифы и призы",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "flash500-rules": {
+      "url": "https://flash500.com/flash-fiction-competition-rules/",
+      "title": "Flash 500: международные правила",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "friction-contest": {
+      "url": "https://frictioncontests.submittable.com/submit",
+      "title": "F(r)iction: формы конкурсов осени 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "friction-dates": {
+      "url": "https://frictionlit.org/contests/",
+      "title": "F(r)iction: календарь весеннего и осеннего раундов 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "ww-calendar": {
+      "url": "https://winningwriters.com/",
+      "title": "Winning Writers: объявленные дедлайны 2027",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "ww-poetry-form": {
+      "url": "https://winningwriters.submittable.com/submit/58274/tom-howard-margaret-reid-poetry-contest",
+      "title": "Tom Howard/Margaret Reid: подробные условия формы",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "ww-fiction-form": {
+      "url": "https://winningwriters.submittable.com/submit/49862/tom-howard-john-h-reid-fiction-essay-contest",
+      "title": "Tom Howard/John H. Reid: форма и тариф",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "ww-fiction-release": {
+      "url": "https://www.prnewswire.com/news-releases/winning-writers-announces-the-winners-of-the-34th-annual-tom-howardjohn-h-reid-fiction--essay-contest-302909441.html",
+      "title": "Winning Writers: собственное сообщение о закрытии 2026 и старте 2027",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "wergle-form": {
+      "url": "https://winningwriters.submittable.com/submit/362449/wergle-flomp-humor-poetry-contest-2026-2027-no-fee",
+      "title": "Wergle Flomp: форма 2026–2027 без взноса",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "anthology-poetry": {
+      "url": "https://anthology-magazine.com/awards/poetry-competition/",
+      "title": "Anthology Poetry Competition: правила 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "bedford-home": {
+      "url": "https://bedfordwritingcompetition.co.uk/",
+      "title": "The Bedford Competition: международный допуск и ежегодное окно",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "bedford-poetry-rules": {
+      "url": "https://bedfordwritingcompetition.co.uk/poetry-rules/",
+      "title": "Bedford: опубликованные правила с заголовком 2025",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "caine-rules": {
+      "url": "https://www.caineprize.com/submissions",
+      "title": "Caine Prize: противоречащие друг другу даты приёма 2027",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "caine-prize": {
+      "url": "https://www.caineprize.com/the-prize",
+      "title": "Caine Prize: ежегодность и денежный приз",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "wasafiri-call": {
+      "url": "https://wasafiri.org/news-and-events/2026-queen-mary-wasafiri-new-writing-prize-open-for-entries/",
+      "title": "Wasafiri: анонс и сроки 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "wasafiri-closed": {
+      "url": "https://wasafiri.org/writing-prizes/queen-mary-wasafiri-new-writing-prize/enter-the-2026-queen-mary-wasafiri-new-writing-prize/",
+      "title": "Wasafiri: подтверждение закрытия 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "new-writers-novel": {
+      "url": "https://newwriters.org.uk/novel-prize/",
+      "title": "New Writers Novel Prize: первый конкурс 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "desperate-conditions": {
+      "url": "https://desperateliterature.com/elegibility-conditions/",
+      "title": "Desperate Literature: возраст, права, переводы и разночтения лимита заявок",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "bath-awards-annual": {
+      "url": "https://bathnovelaward.co.uk/",
+      "title": "Bath Novel Awards: ежегодный цикл двух премий",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "backhouse-location": {
+      "url": "https://www.backhousepress.com/prize-terms",
+      "title": "Backhouse Press: местонахождение и условия",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "ww-poetry-annual": {
+      "url": "https://www.prnewswire.com/news-releases/winning-writers-announces-the-winners-of-the-23rd-annual-tom-howardmargaret-reid-poetry-contest-302742695.html",
+      "title": "Winning Writers: собственный ежегодный отчёт о поэтическом конкурсе",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": ""
+    },
+    "ww-releases": {
+      "url": "https://www.prnewswire.com/news/winning-writers/",
+      "title": "Winning Writers: архив собственных ежегодных пресс-релизов",
       "checked_on": "2026-10-31",
       "access_method": "indexed_primary_page",
       "note": ""
@@ -1736,6 +2095,1970 @@
       ],
       "checked_on": "2026-10-31",
       "organizer": "AVBOB Mutual Assurance Society"
+    },
+    {
+      "id": "en-bath-short-story-2026",
+      "name": "Bath Short Story Award",
+      "organizer": "Bath Short Story Award",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "рассказ"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "bath-story-rules",
+          "bath-story-home"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unconfirmed",
+        "note": "Следующий точный срок не объявлен в проверенных источниках.",
+        "source_ids": [
+          "bath-story-rules",
+          "bath-story-home"
+        ]
+      },
+      "last_announced_deadline": "2026-04-27",
+      "entry_fee": {
+        "amount": 9,
+        "currency": "GBP",
+        "unit": "один рассказ",
+        "note": "",
+        "applies_to": "2026",
+        "source_ids": [
+          "bath-story-rules",
+          "bath-story-home"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1200,
+        "currency": "GBP",
+        "note": "Второе место 300 GBP, третье 100 GBP; дополнительные местная и Acorn-награды.",
+        "applies_to": "2026",
+        "source_ids": [
+          "bath-story-rules",
+          "bath-story-home"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира, от 16 лет; до 2200 слов, для взрослых или YA; детские тексты младше 13 лет и нон-фикшн не принимаются.",
+        "source_ids": [
+          "bath-story-rules",
+          "bath-story-home"
+        ]
+      },
+      "notes": [
+        "На сайте от 20 октября 2026 объявлено открытие сезона 2027 в следующем месяце; точный день и новый дедлайн ещё не указаны.",
+        "Анонимная подача; не публиковать текст до итогов."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-bath-novel-2027",
+      "name": "Bath Novel Award",
+      "organizer": "The Bath Novel Awards",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "роман",
+        "YA"
+      ],
+      "edition": "2027",
+      "submission_type": "рукопись романа",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "bath-novel-2027",
+          "bath-novel-2026",
+          "bath-awards-annual"
+        ]
+      },
+      "entry_status_at_check": "opens_later",
+      "opening_date": "2026-12-01",
+      "next_deadline": {
+        "date": "2027-05-31",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "bath-novel-2027",
+          "bath-novel-2026"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": null,
+        "currency": "GBP",
+        "unit": "роман",
+        "note": "Тариф 2027 ещё не подтверждён. В правилах 2026 — 33 GBP; автоматически переносить его нельзя.",
+        "applies_to": "2027",
+        "source_ids": [
+          "bath-novel-2027",
+          "bath-novel-2026"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 5000,
+        "currency": "GBP",
+        "note": "Главный денежный приз 5000 GBP; дополнительные отзывы и учебные возможности.",
+        "applies_to": "2027",
+        "source_ids": [
+          "bath-novel-2027",
+          "bath-novel-2026"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Любой возраст, гражданство и место проживания; авторы без агента, неопубликованные, самиздат или независимое издание без аванса.",
+        "source_ids": [
+          "bath-novel-2027",
+          "bath-novel-2026"
+        ]
+      },
+      "notes": [
+        "Время закрытия сезона 2027 не опубликовано на прочитанной странице."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-bath-childrens-novel-2026",
+      "name": "Bath Children’s Novel Award",
+      "organizer": "The Bath Novel Awards",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "детский роман",
+        "YA",
+        "книжка-картинка"
+      ],
+      "edition": "2026",
+      "submission_type": "начало детской книги и синопсис",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "bath-childrens",
+          "bath-awards-annual"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": "2026-02-26",
+      "next_deadline": {
+        "date": "2026-11-30",
+        "local_time": "23:59",
+        "timezone": "Europe/London",
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "bath-childrens"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 33,
+        "currency": "GBP",
+        "unit": "роман или до трёх текстов книжек-картинок",
+        "note": "С НДС; есть ограниченные оплаченные спонсорами места.",
+        "applies_to": "2026",
+        "source_ids": [
+          "bath-childrens"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 5000,
+        "currency": "GBP",
+        "note": "При совместной победе денежная сумма делится; финалистам — отзывы.",
+        "applies_to": "2026",
+        "source_ids": [
+          "bath-childrens"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Любой возраст, гражданство и место проживания; начинающие авторы без агента и договора с авансом. Подача на английском, допускаются переводы.",
+        "source_ids": [
+          "bath-childrens"
+        ]
+      },
+      "notes": [
+        "Для романа — до 5000 слов и одностраничный синопсис. Для книжек-картинок — до трёх полных текстов.",
+        "Генеративный ИИ при создании и редактировании запрещён."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-caledonia-novel-2027",
+      "name": "Caledonia Novel Award",
+      "organizer": "Caledonia Novel Award",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "роман",
+        "YA"
+      ],
+      "edition": "2027",
+      "submission_type": "первые 20 страниц романа и синопсис на 200 слов",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "caledonia"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unconfirmed",
+        "note": "Следующий точный срок не объявлен в проверенных источниках.",
+        "source_ids": [
+          "caledonia"
+        ]
+      },
+      "last_announced_deadline": "2026-10-15",
+      "entry_fee": {
+        "amount": 28,
+        "currency": "GBP",
+        "unit": "один роман",
+        "note": "Есть спонсорские места для авторов с низким доходом.",
+        "applies_to": "2027",
+        "source_ids": [
+          "caledonia"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 2000,
+        "currency": "GBP",
+        "note": "Highly Commended — 500 GBP; отдельное обучение для лучшей работы с Британских островов и Ирландии.",
+        "applies_to": "2027",
+        "source_ids": [
+          "caledonia"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира, старше 18 лет; неопубликованные или самиздатные романисты без агента. Роман — не менее 50000 слов.",
+        "source_ids": [
+          "caledonia"
+        ]
+      },
+      "notes": [
+        "Год в названии — 2027, но подача уже закрылась 15 октября 2026.",
+        "Рукопись не должна быть создана ИИ."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-oxford-poetry-2026",
+      "name": "Oxford Poetry Prize",
+      "organizer": "Partus Press / Oxford Poetry",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "поэзия"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "oxford-poetry"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unconfirmed",
+        "note": "Следующий точный срок не объявлен в проверенных источниках.",
+        "source_ids": [
+          "oxford-poetry"
+        ]
+      },
+      "last_announced_deadline": "2026-08-31",
+      "entry_fee": {
+        "amount": 10,
+        "currency": "GBP",
+        "unit": "одно стихотворение",
+        "note": "",
+        "applies_to": "2026",
+        "source_ids": [
+          "oxford-poetry"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 2000,
+        "currency": "GBP",
+        "note": "Второе место 1000 GBP, третье 500 GBP; публикация.",
+        "applies_to": "2026",
+        "source_ids": [
+          "oxford-poetry"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира, от 18 лет; оригинальное преимущественно англоязычное неопубликованное стихотворение до 60 строк.",
+        "source_ids": [
+          "oxford-poetry"
+        ]
+      },
+      "notes": [
+        "Самостоятельный перевод автором возможен при соблюдении правил неопубликованности.",
+        "Генеративный ИИ запрещён; подача анонимная через Submittable."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-winchester-poetry-2026",
+      "name": "Winchester Poetry Prize",
+      "organizer": "Winchester Poetry Festival",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "поэзия"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "winchester-2026",
+          "winchester-annual"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unconfirmed",
+        "note": "Следующий точный срок не объявлен в проверенных источниках.",
+        "source_ids": [
+          "winchester-2026",
+          "winchester-annual"
+        ]
+      },
+      "last_announced_deadline": "2026-07-31",
+      "entry_fee": {
+        "amount": 7,
+        "currency": "GBP",
+        "unit": "первое стихотворение",
+        "note": "Следующие стихи в той же заявке — 5 GBP; есть Pay It Forward.",
+        "applies_to": "2026",
+        "source_ids": [
+          "winchester-2026",
+          "winchester-annual"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1000,
+        "currency": "GBP",
+        "note": "Второе место 500 GBP, третье 250 GBP.",
+        "applies_to": "2026",
+        "source_ids": [
+          "winchester-2026",
+          "winchester-annual"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Международный конкурс, от 16 лет; до 40 строк, английский язык, ранее неопубликованная работа.",
+        "source_ids": [
+          "winchester-2026",
+          "winchester-annual"
+        ]
+      },
+      "notes": [
+        "Не допускаются тексты в других конкурсах на момент подачи; дополнительные ограничения при дальнейшем отборе.",
+        "Тексты, созданные с использованием ИИ, не допускаются."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-ledbury-poetry-2026",
+      "name": "Ledbury Poetry Competition",
+      "organizer": "Ledbury Poetry",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "поэзия"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "ledbury"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unconfirmed",
+        "note": "Следующий точный срок не объявлен в проверенных источниках.",
+        "source_ids": [
+          "ledbury"
+        ]
+      },
+      "last_announced_deadline": "2026-07-27",
+      "entry_fee": {
+        "amount": 6,
+        "currency": "GBP",
+        "unit": "одно стихотворение",
+        "note": "",
+        "applies_to": "2026",
+        "source_ids": [
+          "ledbury"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1000,
+        "currency": "GBP",
+        "note": "Кроме 1000 GBP — недельный курс Arvon. Второе место 500 GBP, третье 250 GBP.",
+        "applies_to": "2026",
+        "source_ids": [
+          "ledbury"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира, от 18 лет; до 40 строк, на английском, не опубликовано и не награждено ранее.",
+        "source_ids": [
+          "ledbury"
+        ]
+      },
+      "notes": [
+        "До 10 стихотворений; отдельный PDF для каждого."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-magma-poetry-2026-27",
+      "name": "Magma Poetry Competition",
+      "organizer": "Magma Poetry",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "поэзия"
+      ],
+      "edition": "2026/27",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно; два раздела в одном раунде",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "magma-current",
+          "magma-form",
+          "magma-history"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2027-01-31",
+        "local_time": "23:59",
+        "timezone": "Europe/London",
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "magma-current",
+          "magma-form",
+          "magma-history"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 8,
+        "currency": "GBP",
+        "unit": "первое стихотворение",
+        "note": "Следующие стихи 6 GBP; подписчикам — 4 GBP за первое и 3 GBP за следующие.",
+        "applies_to": "2026/27",
+        "source_ids": [
+          "magma-current",
+          "magma-form",
+          "magma-history"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1000,
+        "currency": "GBP",
+        "note": "По 1000 GBP первому победителю каждого раздела, затем 500 и 250 GBP.",
+        "applies_to": "2026/27",
+        "source_ids": [
+          "magma-current",
+          "magma-form",
+          "magma-history"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Judge’s Prize — 11–50 строк; Editors’ Prize — до 10 строк. Идентифицирующие сведения удаляются. Географические ограничения в прочитанной форме не указаны.",
+        "source_ids": [
+          "magma-current",
+          "magma-form",
+          "magma-history"
+        ]
+      },
+      "notes": [
+        "На основной странице осталась старая инструкция с датами 2025/26. Новый дедлайн 31 января 2027 подтверждается заголовком и текущей формой."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-aesthetica-creative-writing-2026",
+      "name": "Aesthetica Creative Writing Award",
+      "organizer": "Aesthetica Magazine",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "поэзия",
+        "рассказ"
+      ],
+      "edition": "2026",
+      "submission_type": "стихотворение или короткий рассказ",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "aesthetica-entry",
+          "aesthetica-faq"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unconfirmed",
+        "note": "Следующий точный срок не объявлен в проверенных источниках.",
+        "source_ids": [
+          "aesthetica-entry",
+          "aesthetica-faq"
+        ]
+      },
+      "last_announced_deadline": "2026-09-06",
+      "entry_fee": {
+        "amount": 12,
+        "currency": "GBP",
+        "unit": "стихотворение по обычному тарифу",
+        "note": "Обычный рассказ — 18 GBP. Поздняя подача 1–6 сентября: 18 GBP поэзия, 24 GBP рассказ.",
+        "applies_to": "2026",
+        "source_ids": [
+          "aesthetica-entry",
+          "aesthetica-faq"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 2500,
+        "currency": "GBP",
+        "note": "По 2500 GBP победителю каждого из двух разделов, а не 5000 GBP одному автору; публикация.",
+        "applies_to": "2026",
+        "source_ids": [
+          "aesthetica-entry",
+          "aesthetica-faq"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Любой возраст и гражданство; поэзия до 40 строк или рассказ до 2000 слов; допускаются ранее опубликованные работы.",
+        "source_ids": [
+          "aesthetica-entry",
+          "aesthetica-faq"
+        ]
+      },
+      "notes": [
+        "Обычный срок 31 августа продлён поздним окном до 6 сентября. Следующий сезон не объявлен."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-wells-open-poetry-2026",
+      "name": "Wells Festival of Literature — Open Poetry",
+      "organizer": "Wells Festival of Literature",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "поэзия"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "wells-main",
+          "wells-rules",
+          "wells-terms"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unconfirmed",
+        "note": "Следующий точный срок не объявлен в проверенных источниках.",
+        "source_ids": [
+          "wells-main",
+          "wells-rules",
+          "wells-terms"
+        ]
+      },
+      "last_announced_deadline": "2026-06-30",
+      "entry_fee": {
+        "amount": 8,
+        "currency": "GBP",
+        "unit": "одно стихотворение",
+        "note": "",
+        "applies_to": "2026",
+        "source_ids": [
+          "wells-main",
+          "wells-rules",
+          "wells-terms"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1000,
+        "currency": "GBP",
+        "note": "Второе место 500 GBP, третье 250 GBP; отдельная местная награда.",
+        "applies_to": "2026",
+        "source_ids": [
+          "wells-main",
+          "wells-rules",
+          "wells-terms"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира; младше 16 лет — с согласием родителей. Английский язык, не более 40 строк.",
+        "source_ids": [
+          "wells-main",
+          "wells-rules",
+          "wells-terms"
+        ]
+      },
+      "notes": [
+        "Young Poets — отдельная категория с другим сроком и тарифом; здесь она не считается дополнительной записью."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-chad-walsh-chapbook-2026",
+      "name": "Chad Walsh Chapbook Series",
+      "organizer": "Beloit Poetry Journal",
+      "organizer_country": "United States",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "поэтический сборник"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодное окно 1 октября — 30 ноября",
+        "verification": "confirmed",
+        "source_ids": [
+          "chad-guidelines",
+          "chad-current"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2026-11-30",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "В правилах указано midnight Eastern Time без уточнения начала/конца дня; точное время оставлено пустым.",
+        "source_ids": [
+          "chad-guidelines",
+          "chad-current"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 20,
+        "currency": "USD",
+        "unit": "рукопись сборника",
+        "note": "Есть ограниченные бесплатные места по финансовой необходимости; подписка необязательна.",
+        "applies_to": "2026",
+        "source_ids": [
+          "chad-guidelines",
+          "chad-current"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 2500,
+        "currency": "USD",
+        "note": "Публикация, 50 экземпляров и редакторская консультация.",
+        "applies_to": "2026",
+        "source_ids": [
+          "chad-guidelines",
+          "chad-current"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Поэты, пишущие на английском, независимо от опыта публикаций; 20–35 страниц. Переводы и соавторские сборники не принимаются.",
+        "source_ids": [
+          "chad-guidelines",
+          "chad-current"
+        ]
+      },
+      "notes": [
+        "Тексты, созданные ИИ/LLM, не рассматриваются."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-montreal-poetry-2026",
+      "name": "Montreal International Poetry Prize",
+      "organizer": "McGill University, Department of English",
+      "organizer_country": "Canada",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "поэзия"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 0.5,
+        "description": "Раз в два года, в чётные годы",
+        "verification": "confirmed",
+        "source_ids": [
+          "montreal-2026",
+          "montreal-home"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unconfirmed",
+        "note": "Следующий точный срок не объявлен в проверенных источниках.",
+        "source_ids": [
+          "montreal-2026",
+          "montreal-home"
+        ]
+      },
+      "last_announced_deadline": "2026-05-15",
+      "entry_fee": {
+        "amount": 25,
+        "currency": "CAD",
+        "unit": "первое стихотворение по обычному тарифу",
+        "note": "Поздняя подача 2–15 мая — 28 CAD, последующие или спонсируемые заявки — 20 CAD.",
+        "applies_to": "2026",
+        "source_ids": [
+          "montreal-2026",
+          "montreal-home"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 20000,
+        "currency": "CAD",
+        "note": "Один главный приз; шорт-лист публикуется в антологии.",
+        "applies_to": "2026",
+        "source_ids": [
+          "montreal-2026",
+          "montreal-home"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Международный англоязычный конкурс одного стихотворения до 40 строк; дополнительные ограничения смотреть в правилах.",
+        "source_ids": [
+          "montreal-2026",
+          "montreal-home"
+        ]
+      },
+      "notes": [
+        "Не ежегодный конкурс. Следующий точный срок не записан как 2028 без отдельного анонса."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-cbc-short-story-2027",
+      "name": "CBC Short Story Prize",
+      "organizer": "CBC / Canada Council for the Arts / Banff Centre",
+      "organizer_country": "Canada",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "рассказ"
+      ],
+      "edition": "2027",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "cbc-2027"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": "2026-09-01",
+      "next_deadline": {
+        "date": "2026-11-01",
+        "local_time": "16:59",
+        "timezone": "America/Toronto",
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "cbc-2027"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 25,
+        "currency": "CAD",
+        "unit": "одна заявка с налогами",
+        "note": "",
+        "applies_to": "2027",
+        "source_ids": [
+          "cbc-2027"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 6000,
+        "currency": "CAD",
+        "note": "Также двухнедельная резиденция и публикация; четырём финалистам по 1000 CAD.",
+        "applies_to": "2027",
+        "source_ids": [
+          "cbc-2027"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "restricted",
+        "description": "Только граждане Канады и постоянные жители Канады; оригинальный неопубликованный англоязычный рассказ до 2500 слов.",
+        "source_ids": [
+          "cbc-2027"
+        ]
+      },
+      "notes": [
+        "Название сезона 2027 не означает, что дедлайн будет в 2027 году."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-backhouse-fiction-2026-27",
+      "name": "Dinah Marshall Backhouse Prize for Short Fiction",
+      "organizer": "Backhouse Press",
+      "organizer_country": "Canada",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "рассказ"
+      ],
+      "edition": "2026/27",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": null,
+        "description": "Первый сезон; дальнейшая периодичность не объявлена",
+        "verification": "confirmed",
+        "source_ids": [
+          "backhouse"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": "2026-10-20",
+      "next_deadline": {
+        "date": "2026-12-31",
+        "local_time": "23:59",
+        "timezone": "America/Halifax",
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "backhouse"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 25,
+        "currency": "CAD",
+        "unit": "один рассказ",
+        "note": "",
+        "applies_to": "2026/27",
+        "source_ids": [
+          "backhouse"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1000,
+        "currency": "CAD",
+        "note": "Второе место 300 CAD, третье 200 CAD; публикация по отдельному договору.",
+        "applies_to": "2026/27",
+        "source_ids": [
+          "backhouse"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира, от 18 лет; 1000–5000 слов на английском, ранее неопубликованная работа одного автора.",
+        "source_ids": [
+          "backhouse",
+          "backhouse-location"
+        ]
+      },
+      "notes": [
+        "Тексты или существенная переработка генеративным ИИ не допускаются; обычная проверка правописания разрешена."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-not-quite-write-2026-oct",
+      "name": "Not Quite Write Prize for Flash Fiction",
+      "organizer": "Not Quite Write",
+      "organizer_country": "Australia",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "микропроза"
+      ],
+      "edition": "октябрь 2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 4,
+        "description": "Четыре раунда в 2026 году",
+        "verification": "confirmed",
+        "source_ids": [
+          "nqw-main",
+          "nqw-faq"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unconfirmed",
+        "note": "Следующий точный срок не объявлен в проверенных источниках.",
+        "source_ids": [
+          "nqw-main",
+          "nqw-faq"
+        ]
+      },
+      "last_announced_deadline": "2026-10-25",
+      "entry_fee": {
+        "amount": null,
+        "currency": "AUD",
+        "unit": "участие в раунде",
+        "note": "Участие платное, но точная цена в доступных официальных фрагментах не извлечена; не считать бесплатным.",
+        "applies_to": "октябрь 2026",
+        "source_ids": [
+          "nqw-main",
+          "nqw-faq"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1500,
+        "currency": "AUD",
+        "note": "1500 AUD одному победителю, а 4000 AUD — весь фонд раунда.",
+        "applies_to": "октябрь 2026",
+        "source_ids": [
+          "nqw-main",
+          "nqw-faq"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира; младше 18 лет — с разрешения родителей. Английский текст по выдаваемым заданиям.",
+        "source_ids": [
+          "nqw-main",
+          "nqw-faq"
+        ]
+      },
+      "notes": [
+        "2027 Round Tickets Coming Soon: новые даты ещё не объявлены.",
+        "Права публикации и размеры текста нужно сверить с правилами следующего раунда."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-wingword-poetry-2026",
+      "name": "Wingword Poetry Competition — English/Hindi main category",
+      "organizer": "Wingword Poetry Prize",
+      "organizer_country": "India",
+      "submission_languages": [
+        "en",
+        "hi"
+      ],
+      "genres": [
+        "поэзия"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "wingword"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2026-11-15",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "Указано 23:59, но часовой пояс не назван; время не нормализовано догадкой.",
+        "source_ids": [
+          "wingword"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 1100,
+        "currency": "INR",
+        "unit": "одно стихотворение",
+        "note": "Три стихотворения — 2200 INR, пять — 3000 INR.",
+        "applies_to": "2026",
+        "source_ids": [
+          "wingword"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 50000,
+        "currency": "INR",
+        "note": "Главный приз 50000 INR и публикация книги; весь фонд 500000 INR не равен одному призу.",
+        "applies_to": "2026",
+        "source_ids": [
+          "wingword"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "restricted",
+        "description": "Граждане Индии и лица индийского происхождения, от 15 лет. Принимаются английский и хинди; Junior и региональные языки — другие категории.",
+        "source_ids": [
+          "wingword"
+        ]
+      },
+      "notes": [
+        "Это конкурс с ограничением происхождения, несмотря на приём английских текстов."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-masters-review-novel-excerpt-2026",
+      "name": "The Masters Review — Novel Excerpt Contest",
+      "organizer": "The Masters Review",
+      "organizer_country": "United States",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "отрывок романа"
+      ],
+      "edition": "2026",
+      "submission_type": "самостоятельно читающийся отрывок до 6000 слов",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "masters-excerpt"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": "2026-09-01",
+      "next_deadline": {
+        "date": "2026-11-08",
+        "local_time": "23:59",
+        "timezone": "America/Los_Angeles",
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "masters-excerpt"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 20,
+        "currency": "USD",
+        "unit": "одна заявка",
+        "note": "",
+        "applies_to": "2026",
+        "source_ids": [
+          "masters-excerpt"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 3000,
+        "currency": "USD",
+        "note": "Публикация и консультация агента; второе место 300 USD, третье 200 USD.",
+        "applies_to": "2026",
+        "source_ids": [
+          "masters-excerpt"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Международно, на английском; начинающие авторы без книги в крупном издательстве. Самиздат и независимые издательства допускаются; переводы не принимаются.",
+        "source_ids": [
+          "masters-excerpt"
+        ]
+      },
+      "notes": [
+        "ИИ-генерация и ИИ-помощь запрещены.",
+        "Лимит бесплатных заявок для недостаточно представленных групп уже исчерпан."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-desperate-literature-2026",
+      "name": "Desperate Literature Short Fiction Prize",
+      "organizer": "Desperate Literature",
+      "organizer_country": "Spain",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "рассказ"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "desperate"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unconfirmed",
+        "note": "Следующий точный срок не объявлен в проверенных источниках.",
+        "source_ids": [
+          "desperate"
+        ]
+      },
+      "last_announced_deadline": "2026-04-30",
+      "entry_fee": {
+        "amount": 20,
+        "currency": "EUR",
+        "unit": "первый рассказ",
+        "note": "Первый рассказ 20 EUR, следующие по 10 EUR при совместной оплате. Лимит числа заявок различается: пять на главной странице и десять в подробных правилах.",
+        "applies_to": "2026",
+        "source_ids": [
+          "desperate",
+          "desperate-conditions"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 2000,
+        "currency": "EUR",
+        "note": "Кроме денег — резиденция и профессиональные консультации; два вторых приза по 1000 EUR.",
+        "applies_to": "2026",
+        "source_ids": [
+          "desperate"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира, старше 18 лет; английский неопубликованный рассказ до 2000 слов, включая переводы с согласия правообладателей.",
+        "source_ids": [
+          "desperate",
+          "desperate-conditions"
+        ]
+      },
+      "notes": [
+        "Первоначальный срок 19 апреля продлён до 30 апреля 2026. Следующий сезон ещё не объявлен.",
+        "Тексты, созданные или существенно написанные ИИ, не допускаются. Ни оригинал, ни перевод не должны быть ранее опубликованы."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-flash500-2026-dec",
+      "name": "Flash 500 — Flash Fiction Competition",
+      "organizer": "Flash 500",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "микропроза"
+      ],
+      "edition": "декабрь 2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 4,
+        "description": "Четыре раунда в год",
+        "verification": "confirmed",
+        "source_ids": [
+          "flash500",
+          "flash500-rules"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2026-12-31",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "В правилах midnight UK time; точное начало/окончание суток не уточнено.",
+        "source_ids": [
+          "flash500",
+          "flash500-rules"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 5,
+        "currency": "GBP",
+        "unit": "один рассказ",
+        "note": "Два текста 8 GBP, три 11 GBP, четыре 14 GBP; рецензия за 15 GBP необязательна.",
+        "applies_to": "декабрь 2026",
+        "source_ids": [
+          "flash500",
+          "flash500-rules"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 300,
+        "currency": "GBP",
+        "note": "Второе место 200 GBP, третье 100 GBP; публикация.",
+        "applies_to": "декабрь 2026",
+        "source_ids": [
+          "flash500",
+          "flash500-rules"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира; неопубликованный рассказ на английском до 500 слов.",
+        "source_ids": [
+          "flash500",
+          "flash500-rules"
+        ]
+      },
+      "notes": [
+        "Не путать с отдельным проектом flashfiction500.com."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-friction-short-story-2026-fall",
+      "name": "F(r)iction Short Story Contest",
+      "organizer": "Brink Literacy Project / F(r)iction",
+      "organizer_country": "United States",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "рассказ"
+      ],
+      "edition": "осень 2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 2,
+        "description": "Два раунда в 2026 году — весна и осень",
+        "verification": "confirmed",
+        "source_ids": [
+          "friction-contest",
+          "friction-dates"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": "2026-07-01",
+      "next_deadline": {
+        "date": "2026-11-13",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "friction-contest",
+          "friction-dates"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 15,
+        "currency": "USD",
+        "unit": "один рассказ",
+        "note": "",
+        "applies_to": "осень 2026",
+        "source_ids": [
+          "friction-contest",
+          "friction-dates"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1000,
+        "currency": "USD",
+        "note": "Рассмотрение для публикации; публикация не гарантирована всем финалистам.",
+        "applies_to": "осень 2026",
+        "source_ids": [
+          "friction-contest",
+          "friction-dates"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Рассказ 1001–7500 слов; дополнительные ограничения допуска в прочитанном фрагменте не сформулированы.",
+        "source_ids": [
+          "friction-contest",
+          "friction-dates"
+        ]
+      },
+      "notes": [
+        "1600 USD на общей странице — суммарный фонд нескольких жанров; здесь только конкурс рассказа."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-tom-howard-margaret-reid-2027",
+      "name": "Tom Howard/Margaret Reid Poetry Contest",
+      "organizer": "Winning Writers",
+      "organizer_country": "United States",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "поэзия"
+      ],
+      "edition": "2027",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "ww-calendar",
+          "ww-poetry-form",
+          "ww-poetry-annual"
+        ]
+      },
+      "entry_status_at_check": "needs_verification",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2027-10-01",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "ww-calendar",
+          "ww-poetry-form"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 25,
+        "currency": "USD",
+        "unit": "пакет из 1–3 стихотворений",
+        "note": "25 USD указаны в форме без года; тариф 2027 необходимо подтвердить.",
+        "applies_to": "последняя доступная форма без обозначения года",
+        "source_ids": [
+          "ww-calendar",
+          "ww-poetry-form"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 3500,
+        "currency": "USD",
+        "note": "По 3500 USD за свободный и традиционный/рифмованный стих; условия суммы 2027 уточнить.",
+        "applies_to": "последняя доступная форма без обозначения года",
+        "source_ids": [
+          "ww-calendar",
+          "ww-poetry-form"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "restricted",
+        "description": "Любой возраст; исключены Иран, Северная Корея, Крым, Россия и Беларусь по правилам организатора. Допускаются опубликованные и неопубликованные работы. До 250 строк в каждом стихотворении.",
+        "source_ids": [
+          "ww-calendar",
+          "ww-poetry-form"
+        ]
+      },
+      "notes": [
+        "Дедлайн 2027 есть в календаре организатора, но новый датированный полный комплект условий не найден.",
+        "ИИ-текст запрещён; ограничения территории не подменять ограничениями языка."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-tom-howard-john-reid-2027",
+      "name": "Tom Howard/John H. Reid Fiction & Essay Contest",
+      "organizer": "Winning Writers",
+      "organizer_country": "United States",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "рассказ",
+        "эссе"
+      ],
+      "edition": "2027",
+      "submission_type": "рассказ или эссе, можно ранее опубликованное",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "ww-calendar",
+          "ww-fiction-form",
+          "ww-fiction-release"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2027-05-01",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "ww-calendar",
+          "ww-fiction-form",
+          "ww-fiction-release"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 27,
+        "currency": "USD",
+        "unit": "один рассказ или эссе",
+        "note": "",
+        "applies_to": "2027",
+        "source_ids": [
+          "ww-calendar",
+          "ww-fiction-form",
+          "ww-fiction-release"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 3500,
+        "currency": "USD",
+        "note": "Отдельно по 3500 USD за лучший рассказ и эссе; десять поощрений по 500 USD.",
+        "applies_to": "2027",
+        "source_ids": [
+          "ww-calendar",
+          "ww-fiction-form",
+          "ww-fiction-release"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "restricted",
+        "description": "Любой возраст; исключены Иран, Северная Корея, Крым, Россия и Беларусь по правилам организатора. Допускаются опубликованные и неопубликованные работы. До 6000 слов.",
+        "source_ids": [
+          "ww-calendar",
+          "ww-fiction-form",
+          "ww-fiction-release"
+        ]
+      },
+      "notes": [
+        "Генерация и переписывание текста ИИ запрещены; корректура и читательская обратная связь ИИ ограниченно разрешены."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-wergle-flomp-2027",
+      "name": "Wergle Flomp Humor Poetry Contest",
+      "organizer": "Winning Writers",
+      "organizer_country": "United States",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "юмористическая поэзия"
+      ],
+      "edition": "2026/27",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "ww-calendar",
+          "wergle-form",
+          "ww-releases"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2027-04-01",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "ww-calendar",
+          "wergle-form"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 0,
+        "currency": "USD",
+        "unit": "одно стихотворение",
+        "note": "Официальная форма прямо подтверждает отсутствие взноса.",
+        "applies_to": "2026/27",
+        "source_ids": [
+          "ww-calendar",
+          "wergle-form"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 2000,
+        "currency": "USD",
+        "note": "Кроме 2000 USD — неденежные подписки. Второе место 750 USD, третье 350 USD; не путать с фондом 5100 USD.",
+        "applies_to": "2026/27",
+        "source_ids": [
+          "ww-calendar",
+          "wergle-form"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "restricted",
+        "description": "Любой возраст; исключены Иран, Северная Корея, Крым, Россия и Беларусь по правилам организатора. Допускаются опубликованные и неопубликованные работы. Только одно юмористическое стихотворение до 250 строк на английском.",
+        "source_ids": [
+          "ww-calendar",
+          "wergle-form"
+        ]
+      },
+      "notes": [
+        "Текст должен быть авторским; опубликованные работы допускаются."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-anthology-poetry-2026",
+      "name": "Anthology Poetry Competition",
+      "organizer": "Anthology Publishing",
+      "organizer_country": "Ireland",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "поэзия"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "anthology-poetry"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2026-10-31",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "anthology-poetry"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 18,
+        "currency": "EUR",
+        "unit": "одно стихотворение по стандартному тарифу",
+        "note": "",
+        "applies_to": "2026",
+        "source_ids": [
+          "anthology-poetry"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1000,
+        "currency": "EUR",
+        "note": "Второе место 250 EUR, третье 150 EUR; выплата главного приза после публикации.",
+        "applies_to": "2026",
+        "source_ids": [
+          "anthology-poetry"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Любой возраст; англоязычное оригинальное неопубликованное стихотворение до 40 строк. Географических ограничений в правилах нет.",
+        "source_ids": [
+          "anthology-poetry"
+        ]
+      },
+      "notes": [
+        "Генеративный ИИ запрещён; сохраняются авторские права, организатор получает право первой публикации.",
+        "Время и часовой пояс закрытия на прочитанной странице не указаны."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-bedford-2026",
+      "name": "The Bedford Competition — Short Story & Poetry",
+      "organizer": "The Bedford Competition",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "рассказ",
+        "поэзия"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "bedford-home",
+          "bedford-poetry-rules"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2026-10-31",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "Дата взята из прямо заявленного ежегодного окна 1 мая — 31 октября; правила имеют старый заголовок.",
+        "source_ids": [
+          "bedford-home",
+          "bedford-poetry-rules"
+        ],
+        "basis": "standing_calendar"
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 8.5,
+        "currency": "GBP",
+        "unit": "один текст по последним подробным правилам",
+        "note": "Три текста 17 GBP; студентам 6 GBP или 12 GBP за три. Заголовок правил остался 2025: тариф 2026 перед оплатой сверить.",
+        "applies_to": "публичные подробные правила с заголовком 2025; текущий главный приз на главной странице",
+        "source_ids": [
+          "bedford-home",
+          "bedford-poetry-rules"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 2000,
+        "currency": "GBP",
+        "note": "По 2000 GBP за главный рассказ и стихотворение; дополнительные категории имеют другие суммы.",
+        "applies_to": "публичные подробные правила с заголовком 2025; текущий главный приз на главной странице",
+        "source_ids": [
+          "bedford-home",
+          "bedford-poetry-rules"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира, от 17 лет; стихотворение до 40 строк или рассказ до 3000 слов; для зарубежных авторов только онлайн.",
+        "source_ids": [
+          "bedford-home",
+          "bedford-poetry-rules"
+        ]
+      },
+      "notes": [
+        "Не переносить суммы второго и третьего мест из старых правил в новый сезон."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-caine-prize-2027",
+      "name": "Caine Prize for African Writing",
+      "organizer": "The Caine Prize for African Writing",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "опубликованный рассказ"
+      ],
+      "edition": "2027",
+      "submission_type": "опубликованный рассказ; номинация издателем",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "caine-rules",
+          "caine-prize"
+        ]
+      },
+      "entry_status_at_check": "needs_verification",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unconfirmed",
+        "note": "На одной странице блок календаря: 23 ноября 2026 — 25 января 2027; FAQ: 21 ноября — 31 января 2027. Нельзя выбрать точную дату без уточнения.",
+        "source_ids": [
+          "caine-rules",
+          "caine-prize"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": null,
+        "currency": "GBP",
+        "unit": "номинация издателем",
+        "note": "В прочитанном официальном тексте размер взноса не указан; это не подтверждение бесплатности.",
+        "applies_to": "2027",
+        "source_ids": [
+          "caine-rules",
+          "caine-prize"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 10000,
+        "currency": "GBP",
+        "note": "500 GBP каждому автору шорт-листа. Для перевода предусмотрено распределение автору и переводчику.",
+        "applies_to": "2027",
+        "source_ids": [
+          "caine-rules",
+          "caine-prize"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "restricted",
+        "description": "Авторы от 18 лет, граждане африканской страны или имеющие родителя-африканца по рождению/гражданству. Подаёт независимый издатель; опубликованный рассказ на английском, 3000–10000 слов.",
+        "source_ids": [
+          "caine-rules",
+          "caine-prize"
+        ]
+      },
+      "notes": [
+        "На той же странице различается окно допустимых публикаций: вводный текст — пять лет, специальные правила 2027 — три года. Уточнить у организатора.",
+        "Самоподача автором, самиздат и неопубликованные рассказы не допускаются."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-wasafiri-new-writing-2026",
+      "name": "Queen Mary Wasafiri New Writing Prize",
+      "organizer": "Wasafiri / Queen Mary University of London",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "рассказ",
+        "поэзия",
+        "автобиографическая проза"
+      ],
+      "edition": "2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "inferred_from_editions",
+        "source_ids": [
+          "wasafiri-call",
+          "wasafiri-closed"
+        ]
+      },
+      "entry_status_at_check": "closed",
+      "opening_date": null,
+      "next_deadline": {
+        "date": null,
+        "local_time": null,
+        "timezone": null,
+        "verification": "unconfirmed",
+        "note": "Следующий точный срок не объявлен в проверенных источниках.",
+        "source_ids": [
+          "wasafiri-call",
+          "wasafiri-closed"
+        ]
+      },
+      "last_announced_deadline": "2026-06-30",
+      "entry_fee": {
+        "amount": null,
+        "currency": "GBP",
+        "unit": "одна заявка",
+        "note": "В прочитанном официальном тексте размер взноса не указан; это не подтверждение бесплатности.",
+        "applies_to": "2026",
+        "source_ids": [
+          "wasafiri-call",
+          "wasafiri-closed"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1000,
+        "currency": "GBP",
+        "note": "По 1000 GBP победителю каждого раздела и публикация. В случае перевода деньги делятся поровну.",
+        "applies_to": "2026",
+        "source_ids": [
+          "wasafiri-call",
+          "wasafiri-closed"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира, без возрастных ограничений; авторы, ещё не публиковавшие книгу. Принимаются переводы на английский.",
+        "source_ids": [
+          "wasafiri-call",
+          "wasafiri-closed"
+        ]
+      },
+      "notes": [
+        "В прочитанных официальных фрагментах тариф не указан: суммы из сторонних подборок не перенесены."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "en-new-writers-novel-2026",
+      "name": "New Writers Novel Prize",
+      "organizer": "New Writers UK / The Novel Factory",
+      "organizer_country": "United Kingdom",
+      "submission_languages": [
+        "en"
+      ],
+      "genres": [
+        "начало романа",
+        "начало повести"
+      ],
+      "edition": "2026",
+      "submission_type": "первые 500 слов романа или повести",
+      "recurrence": {
+        "rounds_per_year": null,
+        "description": "Первый конкурс; дальнейшая периодичность не подтверждена",
+        "verification": "confirmed",
+        "source_ids": [
+          "new-writers-novel"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2026-10-31",
+        "local_time": "23:59",
+        "timezone": "Europe/London",
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "new-writers-novel"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 12,
+        "currency": "GBP",
+        "unit": "одна заявка",
+        "note": "Два текста 22 GBP, три 31 GBP. Заявки на бесплатные места закончились 22 октября.",
+        "applies_to": "2026",
+        "source_ids": [
+          "new-writers-novel"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 1000,
+        "currency": "GBP",
+        "note": "Также пожизненная лицензия The Novel Factory; второе место 300 GBP, третье 200 GBP.",
+        "applies_to": "2026",
+        "source_ids": [
+          "new-writers-novel"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Со всего мира, от 18 лет; первые 500 слов неопубликованного романа или повести для взрослых/YA. Законченная рукопись не обязательна.",
+        "source_ids": [
+          "new-writers-novel"
+        ]
+      },
+      "notes": [
+        "Допускаются переводы человеком; генеративная или машинная трансляция и генерация текста запрещены."
+      ],
+      "checked_on": "2026-10-31"
+    }
+  ],
+  "research_batches": [
+    {
+      "id": "initial-2026-10-31",
+      "checked_on": "2026-10-31",
+      "added_records": 22,
+      "note": "Первая партия, сохранённая в исходной истории Git; существующие записи не изменены при расширении."
+    },
+    {
+      "id": "expansion-2026-10-31",
+      "checked_on": "2026-10-31",
+      "added_records": 28,
+      "note": "Дополнительная партия. Сезонные сроки не перенесены догадкой; неизвестные значения сохранены как null."
     }
   ]
 }

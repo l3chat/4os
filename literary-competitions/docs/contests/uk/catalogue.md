@@ -10,7 +10,7 @@ section: contests
 
 # Украинские и украиноязычные литературные конкурсы
 
-**Срез проверки: 2026-10-31.** Конкурсов и конкурсных категорий в первой партии: 17; География организаторов: Украина, США и международные организации. Это не полный мировой реестр; расширение выполняется отдельными партиями.
+**Срез проверки: 2026-10-31.** Конкурсов и конкурсных категорий в каталоге: 20; География организаторов: Украина, США и международные организации. Это не полный мировой реестр; расширение выполняется отдельными партиями.
 
 Включены конкурсы украинских организаторов и зарубежные конкурсы, принимающие украинские тексты. Это не ограничение местом проживания автора. Описания — по-русски; официальные названия сохранены. Для премий за изданные книги и специальных номинаций ограничения указаны отдельно. Даты и статусы отражают сохранённую проверку, а не проверку в реальном времени. Суммы оставлены в исходных валютах; указан главный приз, а не общий призовой фонд.
 
@@ -23,6 +23,45 @@ section: contests
 ## Подтверждённые ближайшие даты
 
 <ol class="competition-list" start="1">
+<li class="competition-item">
+<details id="uk-balabony-long-story-2026" class="competition">
+<summary>
+<span class="competition-title">Балабони — «Це довга історія»</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">Ukraine · прозаический сериал · синопсис и первый эпизод сериала</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> По сезонам; следующий приём 1–14 апреля 2027</span>
+<span><strong>Дедлайн:</strong> 31.10.2026</span>
+<span><strong>Взнос:</strong> 0 UAH / заявка</span>
+<span><strong>Приз:</strong> 20 000 UAH</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>сезон 1, 2026/27</dd>
+<dt>Что подаётся</dt><dd>синопсис и первый эпизод сериала</dd>
+<dt>Жанры</dt><dd>прозаический сериал</dd>
+<dt>Организатор</dt><dd>ЛОГО «Інститут громадянського суспільства» / Balabony; Ukraine</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>По сезонам; следующий приём 1–14 апреля 2027 <a href="https://balabony.com/konkursy" title="Балабони: действующие конкурсы и авторские условия">источник</a> <a href="https://litgazeta.com.ua/podiji-literaturi/loho-instytut-hromadianskoho-suspilstva-oholoshuie-chotyry-literaturni-konkursy/" title="Заявление организатора в «Літературній Україні»: бесплатное участие">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>31.10.2026 · точное время не установлено.  <a href="https://balabony.com/konkursy" title="Балабони: действующие конкурсы и авторские условия">источник</a> <a href="https://litgazeta.com.ua/podiji-literaturi/loho-instytut-hromadianskoho-suspilstva-oholoshuie-chotyry-literaturni-konkursy/" title="Заявление организатора в «Літературній Україні»: бесплатное участие">источник</a></dd>
+<dt>Взнос</dt><dd>0 UAH / заявка.  Применимость: сезон 1, 2026/27. <a href="https://balabony.com/konkursy" title="Балабони: действующие конкурсы и авторские условия">источник</a> <a href="https://litgazeta.com.ua/podiji-literaturi/loho-instytut-hromadianskoho-suspilstva-oholoshuie-chotyry-literaturni-konkursy/" title="Заявление организатора в «Літературній Україні»: бесплатное участие">источник</a></dd>
+<dt>Главный приз</dt><dd>20 000 UAH. 20000 UAH до налогов и озвучение. Применимость: сезон 1, 2026/27. <a href="https://balabony.com/konkursy" title="Балабони: действующие конкурсы и авторские условия">источник</a> <a href="https://litgazeta.com.ua/podiji-literaturi/loho-instytut-hromadianskoho-suspilstva-oholoshuie-chotyry-literaturni-konkursy/" title="Заявление организатора в «Літературній Україні»: бесплатное участие">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Украинский оригинал: 10 эпизодов по 1500–1800 слов. Для публикации нужны авторский договор и реквизиты. <a href="https://balabony.com/konkursy" title="Балабони: действующие конкурсы и авторские условия">источник</a> <a href="https://litgazeta.com.ua/podiji-literaturi/loho-instytut-hromadianskoho-suspilstva-oholoshuie-chotyry-literaturni-konkursy/" title="Заявление организатора в «Літературній Україні»: бесплатное участие">источник</a></dd>
+<dt>ID</dt><dd>uk-balabony-long-story-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>50% оценки — редакция, 50% — дочитывания; важно заранее изучить авторский договор и лицензию на три года.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
 <li class="competition-item">
 <details id="uk-open-world-2026" class="competition">
 <summary>
@@ -139,6 +178,84 @@ section: contests
 <li>В доступном анонсе язык не сформулирован отдельным запретом на иные языки: украинские книги подходят, но полный языковой допуск нужно сверить с положением.</li>
 </ul>
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="uk-balabony-christmas-2026" class="competition">
+<summary>
+<span class="competition-title">Балабони — «Одного разу перед Різдвом»</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">Ukraine · сказки · комплект из трёх сказок</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Первый объявленный сезон; повторяемость не подтверждена</span>
+<span><strong>Дедлайн:</strong> 10.11.2026</span>
+<span><strong>Взнос:</strong> не подтверждено / комплект сказок</span>
+<span><strong>Приз:</strong> 5 000 UAH</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026/27</dd>
+<dt>Что подаётся</dt><dd>комплект из трёх сказок</dd>
+<dt>Жанры</dt><dd>сказки</dd>
+<dt>Организатор</dt><dd>ЛОГО «Інститут громадянського суспільства» / Balabony; Ukraine</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Первый объявленный сезон; повторяемость не подтверждена <a href="https://balabony.com/konkursy" title="Балабони: действующие конкурсы и авторские условия">источник</a> <a href="https://litgazeta.com.ua/podiji-literaturi/loho-instytut-hromadianskoho-suspilstva-oholoshuie-chotyry-literaturni-konkursy/" title="Заявление организатора в «Літературній Україні»: бесплатное участие">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>10.11.2026 · точное время не установлено.  <a href="https://balabony.com/konkursy" title="Балабони: действующие конкурсы и авторские условия">источник</a> <a href="https://litgazeta.com.ua/podiji-literaturi/loho-instytut-hromadianskoho-suspilstva-oholoshuie-chotyry-literaturni-konkursy/" title="Заявление организатора в «Літературній Україні»: бесплатное участие">источник</a></dd>
+<dt>Взнос</dt><dd>не подтверждено / комплект сказок. Бесплатность объявлена для первоначальных конкурсов платформы; отдельный тариф новой рождественской категории не сформулирован. Применимость: 2026/27. <a href="https://balabony.com/konkursy" title="Балабони: действующие конкурсы и авторские условия">источник</a> <a href="https://litgazeta.com.ua/podiji-literaturi/loho-instytut-hromadianskoho-suspilstva-oholoshuie-chotyry-literaturni-konkursy/" title="Заявление организатора в «Літературній Україні»: бесплатное участие">источник</a></dd>
+<dt>Главный приз</dt><dd>5 000 UAH. 5000 UAH до налогов — первый приз; 13000 UAH — общий фонд. Применимость: 2026/27. <a href="https://balabony.com/konkursy" title="Балабони: действующие конкурсы и авторские условия">источник</a> <a href="https://litgazeta.com.ua/podiji-literaturi/loho-instytut-hromadianskoho-suspilstva-oholoshuie-chotyry-literaturni-konkursy/" title="Заявление организатора в «Літературній Україні»: бесплатное участие">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Ровно три оригинальные украинские сказки одним файлом; суммарно 2400–4500 слов. Для публикации нужен договор. <a href="https://balabony.com/konkursy" title="Балабони: действующие конкурсы и авторские условия">источник</a> <a href="https://litgazeta.com.ua/podiji-literaturi/loho-instytut-hromadianskoho-suspilstva-oholoshuie-chotyry-literaturni-konkursy/" title="Заявление организатора в «Літературній Україні»: бесплатное участие">источник</a></dd>
+<dt>ID</dt><dd>uk-balabony-christmas-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Исключительная лицензия на три года; ИИ разрешён для правописания, но не для сюжета и текста.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="uk-nestayko-caritas-2026" class="competition">
+<summary>
+<span class="competition-title">Премія імені Всеволода Нестайка — «Карітас Бердичів»</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">Ukraine · детская литература · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно</span>
+<span><strong>Дедлайн:</strong> 30.11.2026</span>
+<span><strong>Взнос:</strong> не подтверждено / рукопись</span>
+<span><strong>Приз:</strong> финансирование издания рукописи (денежная сумма не указана)</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>IV конкурс; подача 2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>детская литература</dd>
+<dt>Организатор</dt><dd>БФ «Карітас Бердичів УГКЦ» / НСПУ; Ukraine</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Ежегодно <a href="https://berdychiv.caritas.ua/nestayko" title="Карітас Бердичів: IV конкурс Нестайка, дедлайн 2026">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>30.11.2026 · точное время не установлено.  <a href="https://berdychiv.caritas.ua/nestayko" title="Карітас Бердичів: IV конкурс Нестайка, дедлайн 2026">источник</a></dd>
+<dt>Взнос</dt><dd>не подтверждено / рукопись. В прочитанном официальном тексте размер взноса не указан; это не подтверждение бесплатности. Применимость: IV конкурс; подача 2026. <a href="https://berdychiv.caritas.ua/nestayko" title="Карітас Бердичів: IV конкурс Нестайка, дедлайн 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>финансирование издания рукописи (денежная сумма не указана). Организатор оплачивает издание победившей рукописи; фиксированная денежная сумма в текущем анонсе отсутствует. Применимость: IV конкурс; подача 2026. <a href="https://berdychiv.caritas.ua/nestayko" title="Карітас Бердичів: IV конкурс Нестайка, дедлайн 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Авторы украинских детских и подростковых произведений, в том числе диаспора; возможны коллективы авторов. Рукопись не должна быть ранее опубликована в завершённом виде. <a href="https://berdychiv.caritas.ua/nestayko" title="Карітас Бердичів: IV конкурс Нестайка, дедлайн 2026">источник</a></dd>
+<dt>ID</dt><dd>uk-nestayko-caritas-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Другая премия, чем награда НБУ для детей: здесь рукопись, самостоятельная подача и срок 30 ноября.</li>
+<li>Нужны заявление, документы и Word-файл Times New Roman 14; состав документов уточнить на официальной странице.</li>
+</ul>
 </div>
 </details>
 </div>
@@ -351,7 +468,7 @@ section: contests
 
 ## Конкурсы с ограничением гражданства или проживания
 
-<ol class="competition-list" start="9">
+<ol class="competition-list" start="12">
 <li class="competition-item">
 <details id="uk-sholom-aleichem-2027" class="competition">
 <summary>
@@ -397,7 +514,7 @@ section: contests
 
 ## Ожидаем точную дату или новый сезон
 
-<ol class="competition-list" start="10">
+<ol class="competition-list" start="13">
 <li class="competition-item">
 <details id="uk-granoslov-2026" class="competition">
 <summary>

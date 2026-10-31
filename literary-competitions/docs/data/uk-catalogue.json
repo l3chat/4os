@@ -6,8 +6,8 @@
   "catalogue_title": "Украинские и украиноязычные литературные конкурсы",
   "language_description": "Включены конкурсы украинских организаторов и зарубежные конкурсы, принимающие украинские тексты. Это не ограничение местом проживания автора. Описания — по-русски; официальные названия сохранены. Для премий за изданные книги и специальных номинаций ограничения указаны отдельно.",
   "coverage": {
-    "status": "initial_batch",
-    "records": 17,
+    "status": "expanded_batches",
+    "records": 20,
     "organizer_countries": [
       "Ukraine",
       "United States"
@@ -212,6 +212,27 @@
       "checked_on": "2026-10-31",
       "access_method": "page",
       "note": "Разрешение ИИ, дата 30 июня 2027, призы и правила прав сверены также с исходной языковой версией."
+    },
+    "caritas-nestayko": {
+      "url": "https://berdychiv.caritas.ua/nestayko",
+      "title": "Карітас Бердичів: IV конкурс Нестайка, дедлайн 2026",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "balabony-rules": {
+      "url": "https://balabony.com/konkursy",
+      "title": "Балабони: действующие конкурсы и авторские условия",
+      "checked_on": "2026-10-31",
+      "access_method": "page",
+      "note": ""
+    },
+    "balabony-announcement": {
+      "url": "https://litgazeta.com.ua/podiji-literaturi/loho-instytut-hromadianskoho-suspilstva-oholoshuie-chotyry-literaturni-konkursy/",
+      "title": "Заявление организатора в «Літературній Україні»: бесплатное участие",
+      "checked_on": "2026-10-31",
+      "access_method": "indexed_primary_page",
+      "note": "Первичное объявление от имени организатора; действующие подробности сверены с balabony.com."
     }
   },
   "competitions": [
@@ -1383,6 +1404,227 @@
         "Срок 19 августа относится к 2026. Будущий дедлайн не выводится из ежегодности."
       ],
       "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-nestayko-caritas-2026",
+      "name": "Премія імені Всеволода Нестайка — «Карітас Бердичів»",
+      "organizer": "БФ «Карітас Бердичів УГКЦ» / НСПУ",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "детская литература"
+      ],
+      "edition": "IV конкурс; подача 2026",
+      "submission_type": "неопубликованное произведение",
+      "recurrence": {
+        "rounds_per_year": 1,
+        "description": "Ежегодно",
+        "verification": "confirmed",
+        "source_ids": [
+          "caritas-nestayko"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2026-11-30",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "caritas-nestayko"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": null,
+        "currency": "UAH",
+        "unit": "рукопись",
+        "note": "В прочитанном официальном тексте размер взноса не указан; это не подтверждение бесплатности.",
+        "applies_to": "IV конкурс; подача 2026",
+        "source_ids": [
+          "caritas-nestayko"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": null,
+        "currency": "UAH",
+        "note": "Организатор оплачивает издание победившей рукописи; фиксированная денежная сумма в текущем анонсе отсутствует.",
+        "applies_to": "IV конкурс; подача 2026",
+        "source_ids": [
+          "caritas-nestayko"
+        ],
+        "non_cash_summary": "финансирование издания рукописи"
+      },
+      "eligibility": {
+        "geographic_scope": "worldwide",
+        "description": "Авторы украинских детских и подростковых произведений, в том числе диаспора; возможны коллективы авторов. Рукопись не должна быть ранее опубликована в завершённом виде.",
+        "source_ids": [
+          "caritas-nestayko"
+        ]
+      },
+      "notes": [
+        "Другая премия, чем награда НБУ для детей: здесь рукопись, самостоятельная подача и срок 30 ноября.",
+        "Нужны заявление, документы и Word-файл Times New Roman 14; состав документов уточнить на официальной странице."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-balabony-long-story-2026",
+      "name": "Балабони — «Це довга історія»",
+      "organizer": "ЛОГО «Інститут громадянського суспільства» / Balabony",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "прозаический сериал"
+      ],
+      "edition": "сезон 1, 2026/27",
+      "submission_type": "синопсис и первый эпизод сериала",
+      "recurrence": {
+        "rounds_per_year": null,
+        "description": "По сезонам; следующий приём 1–14 апреля 2027",
+        "verification": "confirmed",
+        "source_ids": [
+          "balabony-rules",
+          "balabony-announcement"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2026-10-31",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "balabony-rules",
+          "balabony-announcement"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": 0,
+        "currency": "UAH",
+        "unit": "заявка",
+        "note": "",
+        "applies_to": "сезон 1, 2026/27",
+        "source_ids": [
+          "balabony-rules",
+          "balabony-announcement"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 20000,
+        "currency": "UAH",
+        "note": "20000 UAH до налогов и озвучение.",
+        "applies_to": "сезон 1, 2026/27",
+        "source_ids": [
+          "balabony-rules",
+          "balabony-announcement"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Украинский оригинал: 10 эпизодов по 1500–1800 слов. Для публикации нужны авторский договор и реквизиты.",
+        "source_ids": [
+          "balabony-rules",
+          "balabony-announcement"
+        ]
+      },
+      "notes": [
+        "50% оценки — редакция, 50% — дочитывания; важно заранее изучить авторский договор и лицензию на три года."
+      ],
+      "checked_on": "2026-10-31"
+    },
+    {
+      "id": "uk-balabony-christmas-2026",
+      "name": "Балабони — «Одного разу перед Різдвом»",
+      "organizer": "ЛОГО «Інститут громадянського суспільства» / Balabony",
+      "organizer_country": "Ukraine",
+      "submission_languages": [
+        "uk"
+      ],
+      "genres": [
+        "сказки"
+      ],
+      "edition": "2026/27",
+      "submission_type": "комплект из трёх сказок",
+      "recurrence": {
+        "rounds_per_year": null,
+        "description": "Первый объявленный сезон; повторяемость не подтверждена",
+        "verification": "confirmed",
+        "source_ids": [
+          "balabony-rules",
+          "balabony-announcement"
+        ]
+      },
+      "entry_status_at_check": "open",
+      "opening_date": null,
+      "next_deadline": {
+        "date": "2026-11-10",
+        "local_time": null,
+        "timezone": null,
+        "verification": "confirmed",
+        "note": "",
+        "source_ids": [
+          "balabony-rules",
+          "balabony-announcement"
+        ]
+      },
+      "last_announced_deadline": null,
+      "entry_fee": {
+        "amount": null,
+        "currency": "UAH",
+        "unit": "комплект сказок",
+        "note": "Бесплатность объявлена для первоначальных конкурсов платформы; отдельный тариф новой рождественской категории не сформулирован.",
+        "applies_to": "2026/27",
+        "source_ids": [
+          "balabony-rules",
+          "balabony-announcement"
+        ]
+      },
+      "top_prize": {
+        "cash_amount": 5000,
+        "currency": "UAH",
+        "note": "5000 UAH до налогов — первый приз; 13000 UAH — общий фонд.",
+        "applies_to": "2026/27",
+        "source_ids": [
+          "balabony-rules",
+          "balabony-announcement"
+        ]
+      },
+      "eligibility": {
+        "geographic_scope": "not_stated",
+        "description": "Ровно три оригинальные украинские сказки одним файлом; суммарно 2400–4500 слов. Для публикации нужен договор.",
+        "source_ids": [
+          "balabony-rules",
+          "balabony-announcement"
+        ]
+      },
+      "notes": [
+        "Исключительная лицензия на три года; ИИ разрешён для правописания, но не для сюжета и текста."
+      ],
+      "checked_on": "2026-10-31"
+    }
+  ],
+  "research_batches": [
+    {
+      "id": "initial-2026-10-31",
+      "checked_on": "2026-10-31",
+      "added_records": 17,
+      "note": "Первая украинская партия, сохранённая в истории Git."
+    },
+    {
+      "id": "expansion-2026-10-31",
+      "checked_on": "2026-10-31",
+      "added_records": 3,
+      "note": "Дополнительная партия. Сезонные сроки не перенесены догадкой; неизвестные значения сохранены как null."
     }
   ]
 }

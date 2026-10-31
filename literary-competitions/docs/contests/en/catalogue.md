@@ -10,7 +10,7 @@ section: contests
 
 # Англоязычные литературные конкурсы
 
-**Срез проверки: 2026-10-31.** Конкурсов и конкурсных категорий в первой партии: 22; Стран организаторов: 7. Это не полный мировой реестр; расширение выполняется отдельными партиями.
+**Срез проверки: 2026-10-31.** Конкурсов и конкурсных категорий в каталоге: 50; Стран организаторов: 9. Это не полный мировой реестр; расширение выполняется отдельными партиями.
 
 Речь о языке произведений. Описания составлены по-русски. Даты и статусы отражают сохранённую проверку, а не проверку в реальном времени. Суммы оставлены в исходных валютах; указан главный приз, а не общий призовой фонд.
 
@@ -23,6 +23,46 @@ section: contests
 ## Подтверждённые ближайшие даты
 
 <ol class="competition-list" start="1">
+<li class="competition-item">
+<details id="en-anthology-poetry-2026" class="competition">
+<summary>
+<span class="competition-title">Anthology Poetry Competition</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">Ireland · поэзия · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно</span>
+<span><strong>Дедлайн:</strong> 31.10.2026</span>
+<span><strong>Взнос:</strong> 18 EUR / одно стихотворение по стандартному тарифу</span>
+<span><strong>Приз:</strong> 1 000 EUR</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>поэзия</dd>
+<dt>Организатор</dt><dd>Anthology Publishing; Ireland</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Ежегодно <a href="https://anthology-magazine.com/awards/poetry-competition/" title="Anthology Poetry Competition: правила 2026">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>31.10.2026 · точное время не установлено.  <a href="https://anthology-magazine.com/awards/poetry-competition/" title="Anthology Poetry Competition: правила 2026">источник</a></dd>
+<dt>Взнос</dt><dd>18 EUR / одно стихотворение по стандартному тарифу.  Применимость: 2026. <a href="https://anthology-magazine.com/awards/poetry-competition/" title="Anthology Poetry Competition: правила 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>1 000 EUR. Второе место 250 EUR, третье 150 EUR; выплата главного приза после публикации. Применимость: 2026. <a href="https://anthology-magazine.com/awards/poetry-competition/" title="Anthology Poetry Competition: правила 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Любой возраст; англоязычное оригинальное неопубликованное стихотворение до 40 строк. Географических ограничений в правилах нет. <a href="https://anthology-magazine.com/awards/poetry-competition/" title="Anthology Poetry Competition: правила 2026">источник</a></dd>
+<dt>ID</dt><dd>en-anthology-poetry-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Генеративный ИИ запрещён; сохраняются авторские права, организатор получает право первой публикации.</li>
+<li>Время и часовой пояс закрытия на прочитанной странице не указаны.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
 <li class="competition-item">
 <details id="en-national-poetry-2026" class="competition">
 <summary>
@@ -55,6 +95,84 @@ section: contests
 <ul>
 <li>Дедлайн приходится на дату проверки. На отдельной странице Young Poets Network остался старый взнос 8 GBP; приоритет у правил 2026: 9 GBP.</li>
 <li>Имена авторов в тексте не указываются; генеративный ИИ запрещён.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-new-writers-novel-2026" class="competition">
+<summary>
+<span class="competition-title">New Writers Novel Prize</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · начало романа, начало повести · первые 500 слов романа или повести</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Первый конкурс; дальнейшая периодичность не подтверждена</span>
+<span><strong>Дедлайн:</strong> 31.10.2026</span>
+<span><strong>Взнос:</strong> 12 GBP / одна заявка</span>
+<span><strong>Приз:</strong> 1 000 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>первые 500 слов романа или повести</dd>
+<dt>Жанры</dt><dd>начало романа, начало повести</dd>
+<dt>Организатор</dt><dd>New Writers UK / The Novel Factory; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Первый конкурс; дальнейшая периодичность не подтверждена <a href="https://newwriters.org.uk/novel-prize/" title="New Writers Novel Prize: первый конкурс 2026">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>31.10.2026 · 23:59 (Europe/London).  <a href="https://newwriters.org.uk/novel-prize/" title="New Writers Novel Prize: первый конкурс 2026">источник</a></dd>
+<dt>Взнос</dt><dd>12 GBP / одна заявка. Два текста 22 GBP, три 31 GBP. Заявки на бесплатные места закончились 22 октября. Применимость: 2026. <a href="https://newwriters.org.uk/novel-prize/" title="New Writers Novel Prize: первый конкурс 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>1 000 GBP. Также пожизненная лицензия The Novel Factory; второе место 300 GBP, третье 200 GBP. Применимость: 2026. <a href="https://newwriters.org.uk/novel-prize/" title="New Writers Novel Prize: первый конкурс 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Со всего мира, от 18 лет; первые 500 слов неопубликованного романа или повести для взрослых/YA. Законченная рукопись не обязательна. <a href="https://newwriters.org.uk/novel-prize/" title="New Writers Novel Prize: первый конкурс 2026">источник</a></dd>
+<dt>ID</dt><dd>en-new-writers-novel-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Допускаются переводы человеком; генеративная или машинная трансляция и генерация текста запрещены.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-bedford-2026" class="competition">
+<summary>
+<span class="competition-title">The Bedford Competition — Short Story &amp; Poetry</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · рассказ, поэзия · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно</span>
+<span><strong>Дедлайн:</strong> 31.10.2026 (по постоянным правилам)</span>
+<span><strong>Взнос:</strong> 8.5 GBP / один текст по последним подробным правилам</span>
+<span><strong>Приз:</strong> 2 000 GBP †</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>рассказ, поэзия</dd>
+<dt>Организатор</dt><dd>The Bedford Competition; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Ежегодно <a href="https://bedfordwritingcompetition.co.uk/" title="The Bedford Competition: международный допуск и ежегодное окно">источник</a> <a href="https://bedfordwritingcompetition.co.uk/poetry-rules/" title="Bedford: опубликованные правила с заголовком 2025">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>31.10.2026 · точное время не установлено. Дата взята из прямо заявленного ежегодного окна 1 мая — 31 октября; правила имеют старый заголовок. <a href="https://bedfordwritingcompetition.co.uk/" title="The Bedford Competition: международный допуск и ежегодное окно">источник</a> <a href="https://bedfordwritingcompetition.co.uk/poetry-rules/" title="Bedford: опубликованные правила с заголовком 2025">источник</a></dd>
+<dt>Взнос</dt><dd>8.5 GBP / один текст по последним подробным правилам. Три текста 17 GBP; студентам 6 GBP или 12 GBP за три. Заголовок правил остался 2025: тариф 2026 перед оплатой сверить. Применимость: публичные подробные правила с заголовком 2025; текущий главный приз на главной странице. <a href="https://bedfordwritingcompetition.co.uk/" title="The Bedford Competition: международный допуск и ежегодное окно">источник</a> <a href="https://bedfordwritingcompetition.co.uk/poetry-rules/" title="Bedford: опубликованные правила с заголовком 2025">источник</a></dd>
+<dt>Главный приз</dt><dd>2 000 GBP †. По 2000 GBP за главный рассказ и стихотворение; дополнительные категории имеют другие суммы. Применимость: публичные подробные правила с заголовком 2025; текущий главный приз на главной странице. <a href="https://bedfordwritingcompetition.co.uk/" title="The Bedford Competition: международный допуск и ежегодное окно">источник</a> <a href="https://bedfordwritingcompetition.co.uk/poetry-rules/" title="Bedford: опубликованные правила с заголовком 2025">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Со всего мира, от 17 лет; стихотворение до 40 строк или рассказ до 3000 слов; для зарубежных авторов только онлайн. <a href="https://bedfordwritingcompetition.co.uk/" title="The Bedford Competition: международный допуск и ежегодное окно">источник</a> <a href="https://bedfordwritingcompetition.co.uk/poetry-rules/" title="Bedford: опубликованные правила с заголовком 2025">источник</a></dd>
+<dt>ID</dt><dd>en-bedford-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Не переносить суммы второго и третьего мест из старых правил в новый сезон.</li>
 </ul>
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
@@ -173,6 +291,87 @@ section: contests
 </details>
 </li>
 <li class="competition-item">
+<details id="en-masters-review-novel-excerpt-2026" class="competition">
+<summary>
+<span class="competition-title">The Masters Review — Novel Excerpt Contest</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United States · отрывок романа · самостоятельно читающийся отрывок до 6000 слов</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно</span>
+<span><strong>Дедлайн:</strong> 08.11.2026</span>
+<span><strong>Взнос:</strong> 20 USD / одна заявка</span>
+<span><strong>Приз:</strong> 3 000 USD</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>самостоятельно читающийся отрывок до 6000 слов</dd>
+<dt>Жанры</dt><dd>отрывок романа</dd>
+<dt>Организатор</dt><dd>The Masters Review; United States</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Ежегодно <a href="https://mastersreview.com/novel-excerpt-contest/" title="The Masters Review: Novel Excerpt Contest 2026">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>08.11.2026 · 23:59 (America/Los_Angeles).  <a href="https://mastersreview.com/novel-excerpt-contest/" title="The Masters Review: Novel Excerpt Contest 2026">источник</a></dd>
+<dt>Объявленное открытие</dt><dd>2026-09-01</dd>
+<dt>Взнос</dt><dd>20 USD / одна заявка.  Применимость: 2026. <a href="https://mastersreview.com/novel-excerpt-contest/" title="The Masters Review: Novel Excerpt Contest 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>3 000 USD. Публикация и консультация агента; второе место 300 USD, третье 200 USD. Применимость: 2026. <a href="https://mastersreview.com/novel-excerpt-contest/" title="The Masters Review: Novel Excerpt Contest 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Международно, на английском; начинающие авторы без книги в крупном издательстве. Самиздат и независимые издательства допускаются; переводы не принимаются. <a href="https://mastersreview.com/novel-excerpt-contest/" title="The Masters Review: Novel Excerpt Contest 2026">источник</a></dd>
+<dt>ID</dt><dd>en-masters-review-novel-excerpt-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>ИИ-генерация и ИИ-помощь запрещены.</li>
+<li>Лимит бесплатных заявок для недостаточно представленных групп уже исчерпан.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-friction-short-story-2026-fall" class="competition">
+<summary>
+<span class="competition-title">F(r)iction Short Story Contest</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United States · рассказ · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Два раунда в 2026 году — весна и осень</span>
+<span><strong>Дедлайн:</strong> 13.11.2026</span>
+<span><strong>Взнос:</strong> 15 USD / один рассказ</span>
+<span><strong>Приз:</strong> 1 000 USD</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>осень 2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>рассказ</dd>
+<dt>Организатор</dt><dd>Brink Literacy Project / F(r)iction; United States</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Два раунда в 2026 году — весна и осень <a href="https://frictioncontests.submittable.com/submit" title="F(r)iction: формы конкурсов осени 2026">источник</a> <a href="https://frictionlit.org/contests/" title="F(r)iction: календарь весеннего и осеннего раундов 2026">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>13.11.2026 · точное время не установлено.  <a href="https://frictioncontests.submittable.com/submit" title="F(r)iction: формы конкурсов осени 2026">источник</a> <a href="https://frictionlit.org/contests/" title="F(r)iction: календарь весеннего и осеннего раундов 2026">источник</a></dd>
+<dt>Объявленное открытие</dt><dd>2026-07-01</dd>
+<dt>Взнос</dt><dd>15 USD / один рассказ.  Применимость: осень 2026. <a href="https://frictioncontests.submittable.com/submit" title="F(r)iction: формы конкурсов осени 2026">источник</a> <a href="https://frictionlit.org/contests/" title="F(r)iction: календарь весеннего и осеннего раундов 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>1 000 USD. Рассмотрение для публикации; публикация не гарантирована всем финалистам. Применимость: осень 2026. <a href="https://frictioncontests.submittable.com/submit" title="F(r)iction: формы конкурсов осени 2026">источник</a> <a href="https://frictionlit.org/contests/" title="F(r)iction: календарь весеннего и осеннего раундов 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Рассказ 1001–7500 слов; дополнительные ограничения допуска в прочитанном фрагменте не сформулированы. <a href="https://frictioncontests.submittable.com/submit" title="F(r)iction: формы конкурсов осени 2026">источник</a> <a href="https://frictionlit.org/contests/" title="F(r)iction: календарь весеннего и осеннего раундов 2026">источник</a></dd>
+<dt>ID</dt><dd>en-friction-short-story-2026-fall</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>1600 USD на общей странице — суммарный фонд нескольких жанров; здесь только конкурс рассказа.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
 <details id="en-narrative-fall-2026" class="competition">
 <summary>
 <span class="competition-title">Narrative Fall Story Contest</span>
@@ -249,6 +448,86 @@ section: contests
 </details>
 </li>
 <li class="competition-item">
+<details id="en-bath-childrens-novel-2026" class="competition">
+<summary>
+<span class="competition-title">Bath Children’s Novel Award</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · детский роман, YA, книжка-картинка · начало детской книги и синопсис</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
+<span><strong>Дедлайн:</strong> 30.11.2026</span>
+<span><strong>Взнос:</strong> 33 GBP / роман или до трёх текстов книжек-картинок</span>
+<span><strong>Приз:</strong> 5 000 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>начало детской книги и синопсис</dd>
+<dt>Жанры</dt><dd>детский роман, YA, книжка-картинка</dd>
+<dt>Организатор</dt><dd>The Bath Novel Awards; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Ежегодно (по истории сезонов) <a href="https://bathnovelaward.co.uk/rules-3/" title="Bath Children’s Novel Award: условия 2026">источник</a> <a href="https://bathnovelaward.co.uk/" title="Bath Novel Awards: ежегодный цикл двух премий">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>30.11.2026 · 23:59 (Europe/London).  <a href="https://bathnovelaward.co.uk/rules-3/" title="Bath Children’s Novel Award: условия 2026">источник</a></dd>
+<dt>Объявленное открытие</dt><dd>2026-02-26</dd>
+<dt>Взнос</dt><dd>33 GBP / роман или до трёх текстов книжек-картинок. С НДС; есть ограниченные оплаченные спонсорами места. Применимость: 2026. <a href="https://bathnovelaward.co.uk/rules-3/" title="Bath Children’s Novel Award: условия 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>5 000 GBP. При совместной победе денежная сумма делится; финалистам — отзывы. Применимость: 2026. <a href="https://bathnovelaward.co.uk/rules-3/" title="Bath Children’s Novel Award: условия 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Любой возраст, гражданство и место проживания; начинающие авторы без агента и договора с авансом. Подача на английском, допускаются переводы. <a href="https://bathnovelaward.co.uk/rules-3/" title="Bath Children’s Novel Award: условия 2026">источник</a></dd>
+<dt>ID</dt><dd>en-bath-childrens-novel-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Для романа — до 5000 слов и одностраничный синопсис. Для книжек-картинок — до трёх полных текстов.</li>
+<li>Генеративный ИИ при создании и редактировании запрещён.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-chad-walsh-chapbook-2026" class="competition">
+<summary>
+<span class="competition-title">Chad Walsh Chapbook Series</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United States · поэтический сборник · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодное окно 1 октября — 30 ноября</span>
+<span><strong>Дедлайн:</strong> 30.11.2026</span>
+<span><strong>Взнос:</strong> 20 USD / рукопись сборника</span>
+<span><strong>Приз:</strong> 2 500 USD</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>поэтический сборник</dd>
+<dt>Организатор</dt><dd>Beloit Poetry Journal; United States</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Ежегодное окно 1 октября — 30 ноября <a href="https://www.bpj.org/submit/chad-walsh-chapbook-series-guidelines" title="Chad Walsh: постоянные правила">источник</a> <a href="https://beloitpoetryjournal.submittable.com/submit" title="Chad Walsh: форма 2026">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>30.11.2026 · точное время не установлено. В правилах указано midnight Eastern Time без уточнения начала/конца дня; точное время оставлено пустым. <a href="https://www.bpj.org/submit/chad-walsh-chapbook-series-guidelines" title="Chad Walsh: постоянные правила">источник</a> <a href="https://beloitpoetryjournal.submittable.com/submit" title="Chad Walsh: форма 2026">источник</a></dd>
+<dt>Взнос</dt><dd>20 USD / рукопись сборника. Есть ограниченные бесплатные места по финансовой необходимости; подписка необязательна. Применимость: 2026. <a href="https://www.bpj.org/submit/chad-walsh-chapbook-series-guidelines" title="Chad Walsh: постоянные правила">источник</a> <a href="https://beloitpoetryjournal.submittable.com/submit" title="Chad Walsh: форма 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>2 500 USD. Публикация, 50 экземпляров и редакторская консультация. Применимость: 2026. <a href="https://www.bpj.org/submit/chad-walsh-chapbook-series-guidelines" title="Chad Walsh: постоянные правила">источник</a> <a href="https://beloitpoetryjournal.submittable.com/submit" title="Chad Walsh: форма 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Поэты, пишущие на английском, независимо от опыта публикаций; 20–35 страниц. Переводы и соавторские сборники не принимаются. <a href="https://www.bpj.org/submit/chad-walsh-chapbook-series-guidelines" title="Chad Walsh: постоянные правила">источник</a> <a href="https://beloitpoetryjournal.submittable.com/submit" title="Chad Walsh: форма 2026">источник</a></dd>
+<dt>ID</dt><dd>en-chad-walsh-chapbook-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Тексты, созданные ИИ/LLM, не рассматриваются.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
 <details id="en-fish-short-story-2026-27" class="competition">
 <summary>
 <span class="competition-title">Fish Short Story Prize</span>
@@ -280,6 +559,85 @@ section: contests
 <ul>
 <li>Время закрытия и часовой пояс в доступном тексте не указаны.</li>
 <li>Сведения получены из индексированной официальной страницы; перед оплатой повторно открыть правила.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-backhouse-fiction-2026-27" class="competition">
+<summary>
+<span class="competition-title">Dinah Marshall Backhouse Prize for Short Fiction</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">Canada · рассказ · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Первый сезон; дальнейшая периодичность не объявлена</span>
+<span><strong>Дедлайн:</strong> 31.12.2026</span>
+<span><strong>Взнос:</strong> 25 CAD / один рассказ</span>
+<span><strong>Приз:</strong> 1 000 CAD</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026/27</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>рассказ</dd>
+<dt>Организатор</dt><dd>Backhouse Press; Canada</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Первый сезон; дальнейшая периодичность не объявлена <a href="https://www.backhousepress.com/prize" title="Dinah Marshall Backhouse Prize: первый сезон 2026/27">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>31.12.2026 · 23:59 (America/Halifax).  <a href="https://www.backhousepress.com/prize" title="Dinah Marshall Backhouse Prize: первый сезон 2026/27">источник</a></dd>
+<dt>Объявленное открытие</dt><dd>2026-10-20</dd>
+<dt>Взнос</dt><dd>25 CAD / один рассказ.  Применимость: 2026/27. <a href="https://www.backhousepress.com/prize" title="Dinah Marshall Backhouse Prize: первый сезон 2026/27">источник</a></dd>
+<dt>Главный приз</dt><dd>1 000 CAD. Второе место 300 CAD, третье 200 CAD; публикация по отдельному договору. Применимость: 2026/27. <a href="https://www.backhousepress.com/prize" title="Dinah Marshall Backhouse Prize: первый сезон 2026/27">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Со всего мира, от 18 лет; 1000–5000 слов на английском, ранее неопубликованная работа одного автора. <a href="https://www.backhousepress.com/prize" title="Dinah Marshall Backhouse Prize: первый сезон 2026/27">источник</a> <a href="https://www.backhousepress.com/prize-terms" title="Backhouse Press: местонахождение и условия">источник</a></dd>
+<dt>ID</dt><dd>en-backhouse-fiction-2026-27</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Тексты или существенная переработка генеративным ИИ не допускаются; обычная проверка правописания разрешена.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-flash500-2026-dec" class="competition">
+<summary>
+<span class="competition-title">Flash 500 — Flash Fiction Competition</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · микропроза · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Четыре раунда в год</span>
+<span><strong>Дедлайн:</strong> 31.12.2026</span>
+<span><strong>Взнос:</strong> 5 GBP / один рассказ</span>
+<span><strong>Приз:</strong> 300 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>декабрь 2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>микропроза</dd>
+<dt>Организатор</dt><dd>Flash 500; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Четыре раунда в год <a href="https://flash500.com/flash-fiction/" title="Flash 500: четыре раунда 2026, тарифы и призы">источник</a> <a href="https://flash500.com/flash-fiction-competition-rules/" title="Flash 500: международные правила">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>31.12.2026 · точное время не установлено. В правилах midnight UK time; точное начало/окончание суток не уточнено. <a href="https://flash500.com/flash-fiction/" title="Flash 500: четыре раунда 2026, тарифы и призы">источник</a> <a href="https://flash500.com/flash-fiction-competition-rules/" title="Flash 500: международные правила">источник</a></dd>
+<dt>Взнос</dt><dd>5 GBP / один рассказ. Два текста 8 GBP, три 11 GBP, четыре 14 GBP; рецензия за 15 GBP необязательна. Применимость: декабрь 2026. <a href="https://flash500.com/flash-fiction/" title="Flash 500: четыре раунда 2026, тарифы и призы">источник</a> <a href="https://flash500.com/flash-fiction-competition-rules/" title="Flash 500: международные правила">источник</a></dd>
+<dt>Главный приз</dt><dd>300 GBP. Второе место 200 GBP, третье 100 GBP; публикация. Применимость: декабрь 2026. <a href="https://flash500.com/flash-fiction/" title="Flash 500: четыре раунда 2026, тарифы и призы">источник</a> <a href="https://flash500.com/flash-fiction-competition-rules/" title="Flash 500: международные правила">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Со всего мира; неопубликованный рассказ на английском до 500 слов. <a href="https://flash500.com/flash-fiction/" title="Flash 500: четыре раунда 2026, тарифы и призы">источник</a> <a href="https://flash500.com/flash-fiction-competition-rules/" title="Flash 500: международные правила">источник</a></dd>
+<dt>ID</dt><dd>en-flash500-2026-dec</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Не путать с отдельным проектом flashfiction500.com.</li>
 </ul>
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
@@ -395,6 +753,45 @@ section: contests
 <ul>
 <li>Время закрытия и часовой пояс в доступном тексте не указаны.</li>
 <li>Сведения получены из индексированной официальной страницы; перед оплатой повторно открыть правила.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-magma-poetry-2026-27" class="competition">
+<summary>
+<span class="competition-title">Magma Poetry Competition</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · поэзия · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно; два раздела в одном раунде (по истории сезонов)</span>
+<span><strong>Дедлайн:</strong> 31.01.2027</span>
+<span><strong>Взнос:</strong> 8 GBP / первое стихотворение</span>
+<span><strong>Приз:</strong> 1 000 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026/27</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>поэзия</dd>
+<dt>Организатор</dt><dd>Magma Poetry; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Ежегодно; два раздела в одном раунде (по истории сезонов) <a href="https://magmapoetry.com/magma-poetry-competition-2026-27/" title="Magma Poetry Competition: анонс 2026/27">источник</a> <a href="https://magmapoetry.submittable.com/submit" title="Magma: актуальная конкурсная форма 2026/27">источник</a> <a href="https://magmapoetry.com/competition/page/26/" title="Magma: последовательные ежегодные сезоны">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>31.01.2027 · 23:59 (Europe/London).  <a href="https://magmapoetry.com/magma-poetry-competition-2026-27/" title="Magma Poetry Competition: анонс 2026/27">источник</a> <a href="https://magmapoetry.submittable.com/submit" title="Magma: актуальная конкурсная форма 2026/27">источник</a> <a href="https://magmapoetry.com/competition/page/26/" title="Magma: последовательные ежегодные сезоны">источник</a></dd>
+<dt>Взнос</dt><dd>8 GBP / первое стихотворение. Следующие стихи 6 GBP; подписчикам — 4 GBP за первое и 3 GBP за следующие. Применимость: 2026/27. <a href="https://magmapoetry.com/magma-poetry-competition-2026-27/" title="Magma Poetry Competition: анонс 2026/27">источник</a> <a href="https://magmapoetry.submittable.com/submit" title="Magma: актуальная конкурсная форма 2026/27">источник</a> <a href="https://magmapoetry.com/competition/page/26/" title="Magma: последовательные ежегодные сезоны">источник</a></dd>
+<dt>Главный приз</dt><dd>1 000 GBP. По 1000 GBP первому победителю каждого раздела, затем 500 и 250 GBP. Применимость: 2026/27. <a href="https://magmapoetry.com/magma-poetry-competition-2026-27/" title="Magma Poetry Competition: анонс 2026/27">источник</a> <a href="https://magmapoetry.submittable.com/submit" title="Magma: актуальная конкурсная форма 2026/27">источник</a> <a href="https://magmapoetry.com/competition/page/26/" title="Magma: последовательные ежегодные сезоны">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Judge’s Prize — 11–50 строк; Editors’ Prize — до 10 строк. Идентифицирующие сведения удаляются. Географические ограничения в прочитанной форме не указаны. <a href="https://magmapoetry.com/magma-poetry-competition-2026-27/" title="Magma Poetry Competition: анонс 2026/27">источник</a> <a href="https://magmapoetry.submittable.com/submit" title="Magma: актуальная конкурсная форма 2026/27">источник</a> <a href="https://magmapoetry.com/competition/page/26/" title="Magma: последовательные ежегодные сезоны">источник</a></dd>
+<dt>ID</dt><dd>en-magma-poetry-2026-27</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>На основной странице осталась старая инструкция с датами 2025/26. Новый дедлайн 31 января 2027 подтверждается заголовком и текущей формой.</li>
 </ul>
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
@@ -560,6 +957,46 @@ section: contests
 </details>
 </li>
 <li class="competition-item">
+<details id="en-bath-novel-2027" class="competition">
+<summary>
+<span class="competition-title">Bath Novel Award</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · роман, YA · приём начнётся позднее · рукопись романа</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
+<span><strong>Дедлайн:</strong> 31.05.2027</span>
+<span><strong>Взнос:</strong> не подтверждено / роман</span>
+<span><strong>Приз:</strong> 5 000 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2027</dd>
+<dt>Что подаётся</dt><dd>рукопись романа</dd>
+<dt>Жанры</dt><dd>роман, YA</dd>
+<dt>Организатор</dt><dd>The Bath Novel Awards; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём начнётся позднее</dd>
+<dt>Периодичность</dt><dd>Ежегодно (по истории сезонов) <a href="https://bathnovelaward.co.uk/the-bath-novel-award-international-writing-prize/" title="Bath Novel Award: сезон 2027">источник</a> <a href="https://bathnovelaward.co.uk/rules-2/" title="Bath Novel Award: тариф и правила 2026">источник</a> <a href="https://bathnovelaward.co.uk/" title="Bath Novel Awards: ежегодный цикл двух премий">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>31.05.2027 · точное время не установлено.  <a href="https://bathnovelaward.co.uk/the-bath-novel-award-international-writing-prize/" title="Bath Novel Award: сезон 2027">источник</a> <a href="https://bathnovelaward.co.uk/rules-2/" title="Bath Novel Award: тариф и правила 2026">источник</a></dd>
+<dt>Объявленное открытие</dt><dd>2026-12-01</dd>
+<dt>Взнос</dt><dd>не подтверждено / роман. Тариф 2027 ещё не подтверждён. В правилах 2026 — 33 GBP; автоматически переносить его нельзя. Применимость: 2027. <a href="https://bathnovelaward.co.uk/the-bath-novel-award-international-writing-prize/" title="Bath Novel Award: сезон 2027">источник</a> <a href="https://bathnovelaward.co.uk/rules-2/" title="Bath Novel Award: тариф и правила 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>5 000 GBP. Главный денежный приз 5000 GBP; дополнительные отзывы и учебные возможности. Применимость: 2027. <a href="https://bathnovelaward.co.uk/the-bath-novel-award-international-writing-prize/" title="Bath Novel Award: сезон 2027">источник</a> <a href="https://bathnovelaward.co.uk/rules-2/" title="Bath Novel Award: тариф и правила 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Любой возраст, гражданство и место проживания; авторы без агента, неопубликованные, самиздат или независимое издание без аванса. <a href="https://bathnovelaward.co.uk/the-bath-novel-award-international-writing-prize/" title="Bath Novel Award: сезон 2027">источник</a> <a href="https://bathnovelaward.co.uk/rules-2/" title="Bath Novel Award: тариф и правила 2026">источник</a></dd>
+<dt>ID</dt><dd>en-bath-novel-2027</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Время закрытия сезона 2027 не опубликовано на прочитанной странице.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
 <details id="en-bridport-flash-fiction-2027" class="competition">
 <summary>
 <span class="competition-title">Bridport Prize — Flash Fiction</span>
@@ -680,7 +1117,86 @@ section: contests
 
 ## Конкурсы с ограничением гражданства или проживания
 
-<ol class="competition-list" start="18">
+<ol class="competition-list" start="29">
+<li class="competition-item">
+<details id="en-cbc-short-story-2027" class="competition">
+<summary>
+<span class="competition-title">CBC Short Story Prize</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">Canada · рассказ · ограничение гражданства или проживания · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
+<span><strong>Дедлайн:</strong> 01.11.2026</span>
+<span><strong>Взнос:</strong> 25 CAD / одна заявка с налогами</span>
+<span><strong>Приз:</strong> 6 000 CAD</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2027</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>рассказ</dd>
+<dt>Организатор</dt><dd>CBC / Canada Council for the Arts / Banff Centre; Canada</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Ежегодно (по истории сезонов) <a href="https://cbcliteraryprizes.submittable.com/submit" title="CBC: открытая форма Short Story Prize 2027">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>01.11.2026 · 16:59 (America/Toronto).  <a href="https://cbcliteraryprizes.submittable.com/submit" title="CBC: открытая форма Short Story Prize 2027">источник</a></dd>
+<dt>Объявленное открытие</dt><dd>2026-09-01</dd>
+<dt>Взнос</dt><dd>25 CAD / одна заявка с налогами.  Применимость: 2027. <a href="https://cbcliteraryprizes.submittable.com/submit" title="CBC: открытая форма Short Story Prize 2027">источник</a></dd>
+<dt>Главный приз</dt><dd>6 000 CAD. Также двухнедельная резиденция и публикация; четырём финалистам по 1000 CAD. Применимость: 2027. <a href="https://cbcliteraryprizes.submittable.com/submit" title="CBC: открытая форма Short Story Prize 2027">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Только граждане Канады и постоянные жители Канады; оригинальный неопубликованный англоязычный рассказ до 2500 слов. <a href="https://cbcliteraryprizes.submittable.com/submit" title="CBC: открытая форма Short Story Prize 2027">источник</a></dd>
+<dt>ID</dt><dd>en-cbc-short-story-2027</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Название сезона 2027 не означает, что дедлайн будет в 2027 году.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-wingword-poetry-2026" class="competition">
+<summary>
+<span class="competition-title">Wingword Poetry Competition — English/Hindi main category</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">India · поэзия · ограничение гражданства или проживания · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно</span>
+<span><strong>Дедлайн:</strong> 15.11.2026</span>
+<span><strong>Взнос:</strong> 1 100 INR / одно стихотворение</span>
+<span><strong>Приз:</strong> 50 000 INR</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>поэзия</dd>
+<dt>Организатор</dt><dd>Wingword Poetry Prize; India</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Ежегодно <a href="https://www.wingword.in/" title="Wingword Poetry Competition: правила и продление 2026">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>15.11.2026 · точное время не установлено. Указано 23:59, но часовой пояс не назван; время не нормализовано догадкой. <a href="https://www.wingword.in/" title="Wingword Poetry Competition: правила и продление 2026">источник</a></dd>
+<dt>Взнос</dt><dd>1 100 INR / одно стихотворение. Три стихотворения — 2200 INR, пять — 3000 INR. Применимость: 2026. <a href="https://www.wingword.in/" title="Wingword Poetry Competition: правила и продление 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>50 000 INR. Главный приз 50000 INR и публикация книги; весь фонд 500000 INR не равен одному призу. Применимость: 2026. <a href="https://www.wingword.in/" title="Wingword Poetry Competition: правила и продление 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Граждане Индии и лица индийского происхождения, от 15 лет. Принимаются английский и хинди; Junior и региональные языки — другие категории. <a href="https://www.wingword.in/" title="Wingword Poetry Competition: правила и продление 2026">источник</a></dd>
+<dt>ID</dt><dd>en-wingword-poetry-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Это конкурс с ограничением происхождения, несмотря на приём английских текстов.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
 <li class="competition-item">
 <details id="en-avbob-english-2026" class="competition">
 <summary>
@@ -712,6 +1228,84 @@ section: contests
 <h3>Примечания</h3>
 <ul>
 <li>В FAQ сохранился старый год объявления результатов; для дат текущего сезона приоритет у правил 10-го конкурса.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-wergle-flomp-2027" class="competition">
+<summary>
+<span class="competition-title">Wergle Flomp Humor Poetry Contest</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United States · юмористическая поэзия · ограничение гражданства или проживания · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
+<span><strong>Дедлайн:</strong> 01.04.2027</span>
+<span><strong>Взнос:</strong> 0 USD / одно стихотворение</span>
+<span><strong>Приз:</strong> 2 000 USD</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026/27</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>юмористическая поэзия</dd>
+<dt>Организатор</dt><dd>Winning Writers; United States</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Ежегодно (по истории сезонов) <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/362449/wergle-flomp-humor-poetry-contest-2026-2027-no-fee" title="Wergle Flomp: форма 2026–2027 без взноса">источник</a> <a href="https://www.prnewswire.com/news/winning-writers/" title="Winning Writers: архив собственных ежегодных пресс-релизов">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>01.04.2027 · точное время не установлено.  <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/362449/wergle-flomp-humor-poetry-contest-2026-2027-no-fee" title="Wergle Flomp: форма 2026–2027 без взноса">источник</a></dd>
+<dt>Взнос</dt><dd>0 USD / одно стихотворение. Официальная форма прямо подтверждает отсутствие взноса. Применимость: 2026/27. <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/362449/wergle-flomp-humor-poetry-contest-2026-2027-no-fee" title="Wergle Flomp: форма 2026–2027 без взноса">источник</a></dd>
+<dt>Главный приз</dt><dd>2 000 USD. Кроме 2000 USD — неденежные подписки. Второе место 750 USD, третье 350 USD; не путать с фондом 5100 USD. Применимость: 2026/27. <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/362449/wergle-flomp-humor-poetry-contest-2026-2027-no-fee" title="Wergle Flomp: форма 2026–2027 без взноса">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Любой возраст; исключены Иран, Северная Корея, Крым, Россия и Беларусь по правилам организатора. Допускаются опубликованные и неопубликованные работы. Только одно юмористическое стихотворение до 250 строк на английском. <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/362449/wergle-flomp-humor-poetry-contest-2026-2027-no-fee" title="Wergle Flomp: форма 2026–2027 без взноса">источник</a></dd>
+<dt>ID</dt><dd>en-wergle-flomp-2027</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Текст должен быть авторским; опубликованные работы допускаются.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-tom-howard-john-reid-2027" class="competition">
+<summary>
+<span class="competition-title">Tom Howard/John H. Reid Fiction &amp; Essay Contest</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United States · рассказ, эссе · ограничение гражданства или проживания · рассказ или эссе, можно ранее опубликованное</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно</span>
+<span><strong>Дедлайн:</strong> 01.05.2027</span>
+<span><strong>Взнос:</strong> 27 USD / один рассказ или эссе</span>
+<span><strong>Приз:</strong> 3 500 USD</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2027</dd>
+<dt>Что подаётся</dt><dd>рассказ или эссе, можно ранее опубликованное</dd>
+<dt>Жанры</dt><dd>рассказ, эссе</dd>
+<dt>Организатор</dt><dd>Winning Writers; United States</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём объявлен открытым</dd>
+<dt>Периодичность</dt><dd>Ежегодно <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/49862/tom-howard-john-h-reid-fiction-essay-contest" title="Tom Howard/John H. Reid: форма и тариф">источник</a> <a href="https://www.prnewswire.com/news-releases/winning-writers-announces-the-winners-of-the-34th-annual-tom-howardjohn-h-reid-fiction--essay-contest-302909441.html" title="Winning Writers: собственное сообщение о закрытии 2026 и старте 2027">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>01.05.2027 · точное время не установлено.  <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/49862/tom-howard-john-h-reid-fiction-essay-contest" title="Tom Howard/John H. Reid: форма и тариф">источник</a> <a href="https://www.prnewswire.com/news-releases/winning-writers-announces-the-winners-of-the-34th-annual-tom-howardjohn-h-reid-fiction--essay-contest-302909441.html" title="Winning Writers: собственное сообщение о закрытии 2026 и старте 2027">источник</a></dd>
+<dt>Взнос</dt><dd>27 USD / один рассказ или эссе.  Применимость: 2027. <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/49862/tom-howard-john-h-reid-fiction-essay-contest" title="Tom Howard/John H. Reid: форма и тариф">источник</a> <a href="https://www.prnewswire.com/news-releases/winning-writers-announces-the-winners-of-the-34th-annual-tom-howardjohn-h-reid-fiction--essay-contest-302909441.html" title="Winning Writers: собственное сообщение о закрытии 2026 и старте 2027">источник</a></dd>
+<dt>Главный приз</dt><dd>3 500 USD. Отдельно по 3500 USD за лучший рассказ и эссе; десять поощрений по 500 USD. Применимость: 2027. <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/49862/tom-howard-john-h-reid-fiction-essay-contest" title="Tom Howard/John H. Reid: форма и тариф">источник</a> <a href="https://www.prnewswire.com/news-releases/winning-writers-announces-the-winners-of-the-34th-annual-tom-howardjohn-h-reid-fiction--essay-contest-302909441.html" title="Winning Writers: собственное сообщение о закрытии 2026 и старте 2027">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Любой возраст; исключены Иран, Северная Корея, Крым, Россия и Беларусь по правилам организатора. Допускаются опубликованные и неопубликованные работы. До 6000 слов. <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/49862/tom-howard-john-h-reid-fiction-essay-contest" title="Tom Howard/John H. Reid: форма и тариф">источник</a> <a href="https://www.prnewswire.com/news-releases/winning-writers-announces-the-winners-of-the-34th-annual-tom-howardjohn-h-reid-fiction--essay-contest-302909441.html" title="Winning Writers: собственное сообщение о закрытии 2026 и старте 2027">источник</a></dd>
+<dt>ID</dt><dd>en-tom-howard-john-reid-2027</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Генерация и переписывание текста ИИ запрещены; корректура и читательская обратная связь ИИ ограниченно разрешены.</li>
 </ul>
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
@@ -759,11 +1353,91 @@ section: contests
 </div>
 </details>
 </li>
+<li class="competition-item">
+<details id="en-tom-howard-margaret-reid-2027" class="competition">
+<summary>
+<span class="competition-title">Tom Howard/Margaret Reid Poetry Contest</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United States · поэзия · ограничение гражданства или проживания · приём требует подтверждения · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
+<span><strong>Дедлайн:</strong> 01.10.2027</span>
+<span><strong>Взнос:</strong> 25 USD / пакет из 1–3 стихотворений</span>
+<span><strong>Приз:</strong> 3 500 USD †</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2027</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>поэзия</dd>
+<dt>Организатор</dt><dd>Winning Writers; United States</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём требует подтверждения</dd>
+<dt>Периодичность</dt><dd>Ежегодно (по истории сезонов) <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/58274/tom-howard-margaret-reid-poetry-contest" title="Tom Howard/Margaret Reid: подробные условия формы">источник</a> <a href="https://www.prnewswire.com/news-releases/winning-writers-announces-the-winners-of-the-23rd-annual-tom-howardmargaret-reid-poetry-contest-302742695.html" title="Winning Writers: собственный ежегодный отчёт о поэтическом конкурсе">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>01.10.2027 · точное время не установлено.  <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/58274/tom-howard-margaret-reid-poetry-contest" title="Tom Howard/Margaret Reid: подробные условия формы">источник</a></dd>
+<dt>Взнос</dt><dd>25 USD / пакет из 1–3 стихотворений. 25 USD указаны в форме без года; тариф 2027 необходимо подтвердить. Применимость: последняя доступная форма без обозначения года. <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/58274/tom-howard-margaret-reid-poetry-contest" title="Tom Howard/Margaret Reid: подробные условия формы">источник</a></dd>
+<dt>Главный приз</dt><dd>3 500 USD †. По 3500 USD за свободный и традиционный/рифмованный стих; условия суммы 2027 уточнить. Применимость: последняя доступная форма без обозначения года. <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/58274/tom-howard-margaret-reid-poetry-contest" title="Tom Howard/Margaret Reid: подробные условия формы">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Любой возраст; исключены Иран, Северная Корея, Крым, Россия и Беларусь по правилам организатора. Допускаются опубликованные и неопубликованные работы. До 250 строк в каждом стихотворении. <a href="https://winningwriters.com/" title="Winning Writers: объявленные дедлайны 2027">источник</a> <a href="https://winningwriters.submittable.com/submit/58274/tom-howard-margaret-reid-poetry-contest" title="Tom Howard/Margaret Reid: подробные условия формы">источник</a></dd>
+<dt>ID</dt><dd>en-tom-howard-margaret-reid-2027</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Дедлайн 2027 есть в календаре организатора, но новый датированный полный комплект условий не найден.</li>
+<li>ИИ-текст запрещён; ограничения территории не подменять ограничениями языка.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
 </ol>
 
 ## Ожидаем точную дату или новый сезон
 
-<ol class="competition-list" start="20">
+<ol class="competition-list" start="36">
+<li class="competition-item">
+<details id="en-aesthetica-creative-writing-2026" class="competition">
+<summary>
+<span class="competition-title">Aesthetica Creative Writing Award</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · поэзия, рассказ · последний раунд закрыт · стихотворение или короткий рассказ</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
+<span><strong>Дедлайн:</strong> не подтверждён</span>
+<span><strong>Взнос:</strong> 12 GBP / стихотворение по обычному тарифу</span>
+<span><strong>Приз:</strong> 2 500 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>стихотворение или короткий рассказ</dd>
+<dt>Жанры</dt><dd>поэзия, рассказ</dd>
+<dt>Организатор</dt><dd>Aesthetica Magazine; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату последний раунд закрыт</dd>
+<dt>Периодичность</dt><dd>Ежегодно (по истории сезонов) <a href="https://aestheticamagazine.com/creative-writing-award/how-to-enter/" title="Aesthetica: тарифы, призы и окончательное закрытие 2026">источник</a> <a href="https://aestheticamagazine.com/creative-writing-award/faq/" title="Aesthetica: международный допуск">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>точная дата не подтверждена. Следующий точный срок не объявлен в проверенных источниках. <a href="https://aestheticamagazine.com/creative-writing-award/how-to-enter/" title="Aesthetica: тарифы, призы и окончательное закрытие 2026">источник</a> <a href="https://aestheticamagazine.com/creative-writing-award/faq/" title="Aesthetica: международный допуск">источник</a></dd>
+<dt>Последний объявленный дедлайн</dt><dd>2026-09-06; уже прошёл</dd>
+<dt>Взнос</dt><dd>12 GBP / стихотворение по обычному тарифу. Обычный рассказ — 18 GBP. Поздняя подача 1–6 сентября: 18 GBP поэзия, 24 GBP рассказ. Применимость: 2026. <a href="https://aestheticamagazine.com/creative-writing-award/how-to-enter/" title="Aesthetica: тарифы, призы и окончательное закрытие 2026">источник</a> <a href="https://aestheticamagazine.com/creative-writing-award/faq/" title="Aesthetica: международный допуск">источник</a></dd>
+<dt>Главный приз</dt><dd>2 500 GBP. По 2500 GBP победителю каждого из двух разделов, а не 5000 GBP одному автору; публикация. Применимость: 2026. <a href="https://aestheticamagazine.com/creative-writing-award/how-to-enter/" title="Aesthetica: тарифы, призы и окончательное закрытие 2026">источник</a> <a href="https://aestheticamagazine.com/creative-writing-award/faq/" title="Aesthetica: международный допуск">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Любой возраст и гражданство; поэзия до 40 строк или рассказ до 2000 слов; допускаются ранее опубликованные работы. <a href="https://aestheticamagazine.com/creative-writing-award/how-to-enter/" title="Aesthetica: тарифы, призы и окончательное закрытие 2026">источник</a> <a href="https://aestheticamagazine.com/creative-writing-award/faq/" title="Aesthetica: международный допуск">источник</a></dd>
+<dt>ID</dt><dd>en-aesthetica-creative-writing-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Обычный срок 31 августа продлён поздним окном до 6 сентября. Следующий сезон не объявлен.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
 <li class="competition-item">
 <details id="en-bath-flash-2026-oct" class="competition">
 <summary>
@@ -796,6 +1470,127 @@ section: contests
 <h3>Примечания</h3>
 <ul>
 <li>В базе сохранён последний проверенный раунд; не выдавать 4 октября за предстоящий дедлайн.</li>
+</ul>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-bath-short-story-2026" class="competition">
+<summary>
+<span class="competition-title">Bath Short Story Award</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · рассказ · последний раунд закрыт · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
+<span><strong>Дедлайн:</strong> не подтверждён</span>
+<span><strong>Взнос:</strong> 9 GBP / один рассказ</span>
+<span><strong>Приз:</strong> 1 200 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>рассказ</dd>
+<dt>Организатор</dt><dd>Bath Short Story Award; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату последний раунд закрыт</dd>
+<dt>Периодичность</dt><dd>Ежегодно (по истории сезонов) <a href="https://www.bathshortstoryaward.org/rules-2/" title="Bath Short Story Award: правила 2026">источник</a> <a href="https://www.bathshortstoryaward.org/" title="Bath Short Story Award: итоги 2026 и будущий сезон 2027">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>точная дата не подтверждена. Следующий точный срок не объявлен в проверенных источниках. <a href="https://www.bathshortstoryaward.org/rules-2/" title="Bath Short Story Award: правила 2026">источник</a> <a href="https://www.bathshortstoryaward.org/" title="Bath Short Story Award: итоги 2026 и будущий сезон 2027">источник</a></dd>
+<dt>Последний объявленный дедлайн</dt><dd>2026-04-27; уже прошёл</dd>
+<dt>Взнос</dt><dd>9 GBP / один рассказ.  Применимость: 2026. <a href="https://www.bathshortstoryaward.org/rules-2/" title="Bath Short Story Award: правила 2026">источник</a> <a href="https://www.bathshortstoryaward.org/" title="Bath Short Story Award: итоги 2026 и будущий сезон 2027">источник</a></dd>
+<dt>Главный приз</dt><dd>1 200 GBP. Второе место 300 GBP, третье 100 GBP; дополнительные местная и Acorn-награды. Применимость: 2026. <a href="https://www.bathshortstoryaward.org/rules-2/" title="Bath Short Story Award: правила 2026">источник</a> <a href="https://www.bathshortstoryaward.org/" title="Bath Short Story Award: итоги 2026 и будущий сезон 2027">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Со всего мира, от 16 лет; до 2200 слов, для взрослых или YA; детские тексты младше 13 лет и нон-фикшн не принимаются. <a href="https://www.bathshortstoryaward.org/rules-2/" title="Bath Short Story Award: правила 2026">источник</a> <a href="https://www.bathshortstoryaward.org/" title="Bath Short Story Award: итоги 2026 и будущий сезон 2027">источник</a></dd>
+<dt>ID</dt><dd>en-bath-short-story-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>На сайте от 20 октября 2026 объявлено открытие сезона 2027 в следующем месяце; точный день и новый дедлайн ещё не указаны.</li>
+<li>Анонимная подача; не публиковать текст до итогов.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-caine-prize-2027" class="competition">
+<summary>
+<span class="competition-title">Caine Prize for African Writing</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · опубликованный рассказ · ограничение гражданства или проживания · приём требует подтверждения · опубликованный рассказ; номинация издателем</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно</span>
+<span><strong>Дедлайн:</strong> не подтверждён</span>
+<span><strong>Взнос:</strong> не подтверждено / номинация издателем</span>
+<span><strong>Приз:</strong> 10 000 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2027</dd>
+<dt>Что подаётся</dt><dd>опубликованный рассказ; номинация издателем</dd>
+<dt>Жанры</dt><dd>опубликованный рассказ</dd>
+<dt>Организатор</dt><dd>The Caine Prize for African Writing; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату приём требует подтверждения</dd>
+<dt>Периодичность</dt><dd>Ежегодно <a href="https://www.caineprize.com/submissions" title="Caine Prize: противоречащие друг другу даты приёма 2027">источник</a> <a href="https://www.caineprize.com/the-prize" title="Caine Prize: ежегодность и денежный приз">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>точная дата не подтверждена. На одной странице блок календаря: 23 ноября 2026 — 25 января 2027; FAQ: 21 ноября — 31 января 2027. Нельзя выбрать точную дату без уточнения. <a href="https://www.caineprize.com/submissions" title="Caine Prize: противоречащие друг другу даты приёма 2027">источник</a> <a href="https://www.caineprize.com/the-prize" title="Caine Prize: ежегодность и денежный приз">источник</a></dd>
+<dt>Взнос</dt><dd>не подтверждено / номинация издателем. В прочитанном официальном тексте размер взноса не указан; это не подтверждение бесплатности. Применимость: 2027. <a href="https://www.caineprize.com/submissions" title="Caine Prize: противоречащие друг другу даты приёма 2027">источник</a> <a href="https://www.caineprize.com/the-prize" title="Caine Prize: ежегодность и денежный приз">источник</a></dd>
+<dt>Главный приз</dt><dd>10 000 GBP. 500 GBP каждому автору шорт-листа. Для перевода предусмотрено распределение автору и переводчику. Применимость: 2027. <a href="https://www.caineprize.com/submissions" title="Caine Prize: противоречащие друг другу даты приёма 2027">источник</a> <a href="https://www.caineprize.com/the-prize" title="Caine Prize: ежегодность и денежный приз">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Авторы от 18 лет, граждане африканской страны или имеющие родителя-африканца по рождению/гражданству. Подаёт независимый издатель; опубликованный рассказ на английском, 3000–10000 слов. <a href="https://www.caineprize.com/submissions" title="Caine Prize: противоречащие друг другу даты приёма 2027">источник</a> <a href="https://www.caineprize.com/the-prize" title="Caine Prize: ежегодность и денежный приз">источник</a></dd>
+<dt>ID</dt><dd>en-caine-prize-2027</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>На той же странице различается окно допустимых публикаций: вводный текст — пять лет, специальные правила 2027 — три года. Уточнить у организатора.</li>
+<li>Самоподача автором, самиздат и неопубликованные рассказы не допускаются.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-caledonia-novel-2027" class="competition">
+<summary>
+<span class="competition-title">Caledonia Novel Award</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · роман, YA · последний раунд закрыт · первые 20 страниц романа и синопсис на 200 слов</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
+<span><strong>Дедлайн:</strong> не подтверждён</span>
+<span><strong>Взнос:</strong> 28 GBP / один роман</span>
+<span><strong>Приз:</strong> 2 000 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2027</dd>
+<dt>Что подаётся</dt><dd>первые 20 страниц романа и синопсис на 200 слов</dd>
+<dt>Жанры</dt><dd>роман, YA</dd>
+<dt>Организатор</dt><dd>Caledonia Novel Award; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату последний раунд закрыт</dd>
+<dt>Периодичность</dt><dd>Ежегодно (по истории сезонов) <a href="https://thecaledonianovelaward.com/rules-entry/" title="Caledonia Novel Award: правила 2027">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>точная дата не подтверждена. Следующий точный срок не объявлен в проверенных источниках. <a href="https://thecaledonianovelaward.com/rules-entry/" title="Caledonia Novel Award: правила 2027">источник</a></dd>
+<dt>Последний объявленный дедлайн</dt><dd>2026-10-15; уже прошёл</dd>
+<dt>Взнос</dt><dd>28 GBP / один роман. Есть спонсорские места для авторов с низким доходом. Применимость: 2027. <a href="https://thecaledonianovelaward.com/rules-entry/" title="Caledonia Novel Award: правила 2027">источник</a></dd>
+<dt>Главный приз</dt><dd>2 000 GBP. Highly Commended — 500 GBP; отдельное обучение для лучшей работы с Британских островов и Ирландии. Применимость: 2027. <a href="https://thecaledonianovelaward.com/rules-entry/" title="Caledonia Novel Award: правила 2027">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Со всего мира, старше 18 лет; неопубликованные или самиздатные романисты без агента. Роман — не менее 50000 слов. <a href="https://thecaledonianovelaward.com/rules-entry/" title="Caledonia Novel Award: правила 2027">источник</a></dd>
+<dt>ID</dt><dd>en-caledonia-novel-2027</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Год в названии — 2027, но подача уже закрылась 15 октября 2026.</li>
+<li>Рукопись не должна быть создана ИИ.</li>
 </ul>
 </div>
 </details>
@@ -842,6 +1637,248 @@ section: contests
 </details>
 </li>
 <li class="competition-item">
+<details id="en-desperate-literature-2026" class="competition">
+<summary>
+<span class="competition-title">Desperate Literature Short Fiction Prize</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">Spain · рассказ · последний раунд закрыт · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
+<span><strong>Дедлайн:</strong> не подтверждён</span>
+<span><strong>Взнос:</strong> 20 EUR / первый рассказ</span>
+<span><strong>Приз:</strong> 2 000 EUR</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>рассказ</dd>
+<dt>Организатор</dt><dd>Desperate Literature; Spain</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату последний раунд закрыт</dd>
+<dt>Периодичность</dt><dd>Ежегодно (по истории сезонов) <a href="https://desperateliterature.com/prize/" title="Desperate Literature Short Fiction Prize: правила и результаты 2026">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>точная дата не подтверждена. Следующий точный срок не объявлен в проверенных источниках. <a href="https://desperateliterature.com/prize/" title="Desperate Literature Short Fiction Prize: правила и результаты 2026">источник</a></dd>
+<dt>Последний объявленный дедлайн</dt><dd>2026-04-30; уже прошёл</dd>
+<dt>Взнос</dt><dd>20 EUR / первый рассказ. Первый рассказ 20 EUR, следующие по 10 EUR при совместной оплате. Лимит числа заявок различается: пять на главной странице и десять в подробных правилах. Применимость: 2026. <a href="https://desperateliterature.com/prize/" title="Desperate Literature Short Fiction Prize: правила и результаты 2026">источник</a> <a href="https://desperateliterature.com/elegibility-conditions/" title="Desperate Literature: возраст, права, переводы и разночтения лимита заявок">источник</a></dd>
+<dt>Главный приз</dt><dd>2 000 EUR. Кроме денег — резиденция и профессиональные консультации; два вторых приза по 1000 EUR. Применимость: 2026. <a href="https://desperateliterature.com/prize/" title="Desperate Literature Short Fiction Prize: правила и результаты 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Со всего мира, старше 18 лет; английский неопубликованный рассказ до 2000 слов, включая переводы с согласия правообладателей. <a href="https://desperateliterature.com/prize/" title="Desperate Literature Short Fiction Prize: правила и результаты 2026">источник</a> <a href="https://desperateliterature.com/elegibility-conditions/" title="Desperate Literature: возраст, права, переводы и разночтения лимита заявок">источник</a></dd>
+<dt>ID</dt><dd>en-desperate-literature-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Первоначальный срок 19 апреля продлён до 30 апреля 2026. Следующий сезон ещё не объявлен.</li>
+<li>Тексты, созданные или существенно написанные ИИ, не допускаются. Ни оригинал, ни перевод не должны быть ранее опубликованы.</li>
+</ul>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-ledbury-poetry-2026" class="competition">
+<summary>
+<span class="competition-title">Ledbury Poetry Competition</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · поэзия · последний раунд закрыт · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно</span>
+<span><strong>Дедлайн:</strong> не подтверждён</span>
+<span><strong>Взнос:</strong> 6 GBP / одно стихотворение</span>
+<span><strong>Приз:</strong> 1 000 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>поэзия</dd>
+<dt>Организатор</dt><dd>Ledbury Poetry; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату последний раунд закрыт</dd>
+<dt>Периодичность</dt><dd>Ежегодно <a href="https://ledburypoetry.org.uk/home/ledbury-poetry-competition-2026/" title="Ledbury Poetry Competition: сезон 2026">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>точная дата не подтверждена. Следующий точный срок не объявлен в проверенных источниках. <a href="https://ledburypoetry.org.uk/home/ledbury-poetry-competition-2026/" title="Ledbury Poetry Competition: сезон 2026">источник</a></dd>
+<dt>Последний объявленный дедлайн</dt><dd>2026-07-27; уже прошёл</dd>
+<dt>Взнос</dt><dd>6 GBP / одно стихотворение.  Применимость: 2026. <a href="https://ledburypoetry.org.uk/home/ledbury-poetry-competition-2026/" title="Ledbury Poetry Competition: сезон 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>1 000 GBP. Кроме 1000 GBP — недельный курс Arvon. Второе место 500 GBP, третье 250 GBP. Применимость: 2026. <a href="https://ledburypoetry.org.uk/home/ledbury-poetry-competition-2026/" title="Ledbury Poetry Competition: сезон 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Со всего мира, от 18 лет; до 40 строк, на английском, не опубликовано и не награждено ранее. <a href="https://ledburypoetry.org.uk/home/ledbury-poetry-competition-2026/" title="Ledbury Poetry Competition: сезон 2026">источник</a></dd>
+<dt>ID</dt><dd>en-ledbury-poetry-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>До 10 стихотворений; отдельный PDF для каждого.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-montreal-poetry-2026" class="competition">
+<summary>
+<span class="competition-title">Montreal International Poetry Prize</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">Canada · поэзия · последний раунд закрыт · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Раз в два года, в чётные годы</span>
+<span><strong>Дедлайн:</strong> не подтверждён</span>
+<span><strong>Взнос:</strong> 25 CAD / первое стихотворение по обычному тарифу</span>
+<span><strong>Приз:</strong> 20 000 CAD</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>поэзия</dd>
+<dt>Организатор</dt><dd>McGill University, Department of English; Canada</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату последний раунд закрыт</dd>
+<dt>Периодичность</dt><dd>Раз в два года, в чётные годы <a href="https://www.montrealpoetryprize.com/2026-competition" title="Montreal: сезон 2026, тарифы и двухлетний цикл">источник</a> <a href="https://www.montrealpoetryprize.com/" title="Montreal: размер приза и лимит строк">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>точная дата не подтверждена. Следующий точный срок не объявлен в проверенных источниках. <a href="https://www.montrealpoetryprize.com/2026-competition" title="Montreal: сезон 2026, тарифы и двухлетний цикл">источник</a> <a href="https://www.montrealpoetryprize.com/" title="Montreal: размер приза и лимит строк">источник</a></dd>
+<dt>Последний объявленный дедлайн</dt><dd>2026-05-15; уже прошёл</dd>
+<dt>Взнос</dt><dd>25 CAD / первое стихотворение по обычному тарифу. Поздняя подача 2–15 мая — 28 CAD, последующие или спонсируемые заявки — 20 CAD. Применимость: 2026. <a href="https://www.montrealpoetryprize.com/2026-competition" title="Montreal: сезон 2026, тарифы и двухлетний цикл">источник</a> <a href="https://www.montrealpoetryprize.com/" title="Montreal: размер приза и лимит строк">источник</a></dd>
+<dt>Главный приз</dt><dd>20 000 CAD. Один главный приз; шорт-лист публикуется в антологии. Применимость: 2026. <a href="https://www.montrealpoetryprize.com/2026-competition" title="Montreal: сезон 2026, тарифы и двухлетний цикл">источник</a> <a href="https://www.montrealpoetryprize.com/" title="Montreal: размер приза и лимит строк">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Международный англоязычный конкурс одного стихотворения до 40 строк; дополнительные ограничения смотреть в правилах. <a href="https://www.montrealpoetryprize.com/2026-competition" title="Montreal: сезон 2026, тарифы и двухлетний цикл">источник</a> <a href="https://www.montrealpoetryprize.com/" title="Montreal: размер приза и лимит строк">источник</a></dd>
+<dt>ID</dt><dd>en-montreal-poetry-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Не ежегодный конкурс. Следующий точный срок не записан как 2028 без отдельного анонса.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-not-quite-write-2026-oct" class="competition">
+<summary>
+<span class="competition-title">Not Quite Write Prize for Flash Fiction</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">Australia · микропроза · последний раунд закрыт · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Четыре раунда в 2026 году</span>
+<span><strong>Дедлайн:</strong> не подтверждён</span>
+<span><strong>Взнос:</strong> не подтверждено / участие в раунде</span>
+<span><strong>Приз:</strong> 1 500 AUD</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>октябрь 2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>микропроза</dd>
+<dt>Организатор</dt><dd>Not Quite Write; Australia</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату последний раунд закрыт</dd>
+<dt>Периодичность</dt><dd>Четыре раунда в 2026 году <a href="https://notquitewritepodcast.com/prize/" title="Not Quite Write: итоги календаря 2026 и ожидание 2027">источник</a> <a href="https://notquitewritepodcast.com/prize/faq/" title="Not Quite Write: допуск и призы">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>точная дата не подтверждена. Следующий точный срок не объявлен в проверенных источниках. <a href="https://notquitewritepodcast.com/prize/" title="Not Quite Write: итоги календаря 2026 и ожидание 2027">источник</a> <a href="https://notquitewritepodcast.com/prize/faq/" title="Not Quite Write: допуск и призы">источник</a></dd>
+<dt>Последний объявленный дедлайн</dt><dd>2026-10-25; уже прошёл</dd>
+<dt>Взнос</dt><dd>не подтверждено / участие в раунде. Участие платное, но точная цена в доступных официальных фрагментах не извлечена; не считать бесплатным. Применимость: октябрь 2026. <a href="https://notquitewritepodcast.com/prize/" title="Not Quite Write: итоги календаря 2026 и ожидание 2027">источник</a> <a href="https://notquitewritepodcast.com/prize/faq/" title="Not Quite Write: допуск и призы">источник</a></dd>
+<dt>Главный приз</dt><dd>1 500 AUD. 1500 AUD одному победителю, а 4000 AUD — весь фонд раунда. Применимость: октябрь 2026. <a href="https://notquitewritepodcast.com/prize/" title="Not Quite Write: итоги календаря 2026 и ожидание 2027">источник</a> <a href="https://notquitewritepodcast.com/prize/faq/" title="Not Quite Write: допуск и призы">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Со всего мира; младше 18 лет — с разрешения родителей. Английский текст по выдаваемым заданиям. <a href="https://notquitewritepodcast.com/prize/" title="Not Quite Write: итоги календаря 2026 и ожидание 2027">источник</a> <a href="https://notquitewritepodcast.com/prize/faq/" title="Not Quite Write: допуск и призы">источник</a></dd>
+<dt>ID</dt><dd>en-not-quite-write-2026-oct</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>2027 Round Tickets Coming Soon: новые даты ещё не объявлены.</li>
+<li>Права публикации и размеры текста нужно сверить с правилами следующего раунда.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-oxford-poetry-2026" class="competition">
+<summary>
+<span class="competition-title">Oxford Poetry Prize</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · поэзия · последний раунд закрыт · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно</span>
+<span><strong>Дедлайн:</strong> не подтверждён</span>
+<span><strong>Взнос:</strong> 10 GBP / одно стихотворение</span>
+<span><strong>Приз:</strong> 2 000 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>поэзия</dd>
+<dt>Организатор</dt><dd>Partus Press / Oxford Poetry; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату последний раунд закрыт</dd>
+<dt>Периодичность</dt><dd>Ежегодно <a href="https://www.oxfordpoetry.com/prize.html" title="Oxford Poetry Prize: правила 2026">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>точная дата не подтверждена. Следующий точный срок не объявлен в проверенных источниках. <a href="https://www.oxfordpoetry.com/prize.html" title="Oxford Poetry Prize: правила 2026">источник</a></dd>
+<dt>Последний объявленный дедлайн</dt><dd>2026-08-31; уже прошёл</dd>
+<dt>Взнос</dt><dd>10 GBP / одно стихотворение.  Применимость: 2026. <a href="https://www.oxfordpoetry.com/prize.html" title="Oxford Poetry Prize: правила 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>2 000 GBP. Второе место 1000 GBP, третье 500 GBP; публикация. Применимость: 2026. <a href="https://www.oxfordpoetry.com/prize.html" title="Oxford Poetry Prize: правила 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Со всего мира, от 18 лет; оригинальное преимущественно англоязычное неопубликованное стихотворение до 60 строк. <a href="https://www.oxfordpoetry.com/prize.html" title="Oxford Poetry Prize: правила 2026">источник</a></dd>
+<dt>ID</dt><dd>en-oxford-poetry-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Самостоятельный перевод автором возможен при соблюдении правил неопубликованности.</li>
+<li>Генеративный ИИ запрещён; подача анонимная через Submittable.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-wasafiri-new-writing-2026" class="competition">
+<summary>
+<span class="competition-title">Queen Mary Wasafiri New Writing Prize</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · рассказ, поэзия, автобиографическая проза · последний раунд закрыт · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
+<span><strong>Дедлайн:</strong> не подтверждён</span>
+<span><strong>Взнос:</strong> не подтверждено / одна заявка</span>
+<span><strong>Приз:</strong> 1 000 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>рассказ, поэзия, автобиографическая проза</dd>
+<dt>Организатор</dt><dd>Wasafiri / Queen Mary University of London; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату последний раунд закрыт</dd>
+<dt>Периодичность</dt><dd>Ежегодно (по истории сезонов) <a href="https://wasafiri.org/news-and-events/2026-queen-mary-wasafiri-new-writing-prize-open-for-entries/" title="Wasafiri: анонс и сроки 2026">источник</a> <a href="https://wasafiri.org/writing-prizes/queen-mary-wasafiri-new-writing-prize/enter-the-2026-queen-mary-wasafiri-new-writing-prize/" title="Wasafiri: подтверждение закрытия 2026">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>точная дата не подтверждена. Следующий точный срок не объявлен в проверенных источниках. <a href="https://wasafiri.org/news-and-events/2026-queen-mary-wasafiri-new-writing-prize-open-for-entries/" title="Wasafiri: анонс и сроки 2026">источник</a> <a href="https://wasafiri.org/writing-prizes/queen-mary-wasafiri-new-writing-prize/enter-the-2026-queen-mary-wasafiri-new-writing-prize/" title="Wasafiri: подтверждение закрытия 2026">источник</a></dd>
+<dt>Последний объявленный дедлайн</dt><dd>2026-06-30; уже прошёл</dd>
+<dt>Взнос</dt><dd>не подтверждено / одна заявка. В прочитанном официальном тексте размер взноса не указан; это не подтверждение бесплатности. Применимость: 2026. <a href="https://wasafiri.org/news-and-events/2026-queen-mary-wasafiri-new-writing-prize-open-for-entries/" title="Wasafiri: анонс и сроки 2026">источник</a> <a href="https://wasafiri.org/writing-prizes/queen-mary-wasafiri-new-writing-prize/enter-the-2026-queen-mary-wasafiri-new-writing-prize/" title="Wasafiri: подтверждение закрытия 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>1 000 GBP. По 1000 GBP победителю каждого раздела и публикация. В случае перевода деньги делятся поровну. Применимость: 2026. <a href="https://wasafiri.org/news-and-events/2026-queen-mary-wasafiri-new-writing-prize-open-for-entries/" title="Wasafiri: анонс и сроки 2026">источник</a> <a href="https://wasafiri.org/writing-prizes/queen-mary-wasafiri-new-writing-prize/enter-the-2026-queen-mary-wasafiri-new-writing-prize/" title="Wasafiri: подтверждение закрытия 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Со всего мира, без возрастных ограничений; авторы, ещё не публиковавшие книгу. Принимаются переводы на английский. <a href="https://wasafiri.org/news-and-events/2026-queen-mary-wasafiri-new-writing-prize-open-for-entries/" title="Wasafiri: анонс и сроки 2026">источник</a> <a href="https://wasafiri.org/writing-prizes/queen-mary-wasafiri-new-writing-prize/enter-the-2026-queen-mary-wasafiri-new-writing-prize/" title="Wasafiri: подтверждение закрытия 2026">источник</a></dd>
+<dt>ID</dt><dd>en-wasafiri-new-writing-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>В прочитанных официальных фрагментах тариф не указан: суммы из сторонних подборок не перенесены.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
 <details id="en-rattle-chapbook-2027" class="competition">
 <summary>
 <span class="competition-title">Rattle Chapbook Prize</span>
@@ -872,6 +1909,87 @@ section: contests
 <h3>Примечания</h3>
 <ul>
 <li>Индивидуальные стихотворения могут быть опубликованы ранее; сборник целиком — нет.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-wells-open-poetry-2026" class="competition">
+<summary>
+<span class="competition-title">Wells Festival of Literature — Open Poetry</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · поэзия · последний раунд закрыт · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно (по истории сезонов)</span>
+<span><strong>Дедлайн:</strong> не подтверждён</span>
+<span><strong>Взнос:</strong> 8 GBP / одно стихотворение</span>
+<span><strong>Приз:</strong> 1 000 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>поэзия</dd>
+<dt>Организатор</dt><dd>Wells Festival of Literature; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату последний раунд закрыт</dd>
+<dt>Периодичность</dt><dd>Ежегодно (по истории сезонов) <a href="https://wellsfestivalofliterature.org.uk/competitions/" title="Wells: призы и архив сезонов">источник</a> <a href="https://wellsfestivalofliterature.org.uk/competitions/rules-competitions/" title="Wells: отдельные правила">источник</a> <a href="https://wellsfestivalofliterature.org.uk/competitions/1108-2/" title="Wells: сроки и международный допуск 2026">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>точная дата не подтверждена. Следующий точный срок не объявлен в проверенных источниках. <a href="https://wellsfestivalofliterature.org.uk/competitions/" title="Wells: призы и архив сезонов">источник</a> <a href="https://wellsfestivalofliterature.org.uk/competitions/rules-competitions/" title="Wells: отдельные правила">источник</a> <a href="https://wellsfestivalofliterature.org.uk/competitions/1108-2/" title="Wells: сроки и международный допуск 2026">источник</a></dd>
+<dt>Последний объявленный дедлайн</dt><dd>2026-06-30; уже прошёл</dd>
+<dt>Взнос</dt><dd>8 GBP / одно стихотворение.  Применимость: 2026. <a href="https://wellsfestivalofliterature.org.uk/competitions/" title="Wells: призы и архив сезонов">источник</a> <a href="https://wellsfestivalofliterature.org.uk/competitions/rules-competitions/" title="Wells: отдельные правила">источник</a> <a href="https://wellsfestivalofliterature.org.uk/competitions/1108-2/" title="Wells: сроки и международный допуск 2026">источник</a></dd>
+<dt>Главный приз</dt><dd>1 000 GBP. Второе место 500 GBP, третье 250 GBP; отдельная местная награда. Применимость: 2026. <a href="https://wellsfestivalofliterature.org.uk/competitions/" title="Wells: призы и архив сезонов">источник</a> <a href="https://wellsfestivalofliterature.org.uk/competitions/rules-competitions/" title="Wells: отдельные правила">источник</a> <a href="https://wellsfestivalofliterature.org.uk/competitions/1108-2/" title="Wells: сроки и международный допуск 2026">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Со всего мира; младше 16 лет — с согласием родителей. Английский язык, не более 40 строк. <a href="https://wellsfestivalofliterature.org.uk/competitions/" title="Wells: призы и архив сезонов">источник</a> <a href="https://wellsfestivalofliterature.org.uk/competitions/rules-competitions/" title="Wells: отдельные правила">источник</a> <a href="https://wellsfestivalofliterature.org.uk/competitions/1108-2/" title="Wells: сроки и международный допуск 2026">источник</a></dd>
+<dt>ID</dt><dd>en-wells-open-poetry-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Young Poets — отдельная категория с другим сроком и тарифом; здесь она не считается дополнительной записью.</li>
+</ul>
+<p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
+</div>
+</details>
+</div>
+</details>
+</li>
+<li class="competition-item">
+<details id="en-winchester-poetry-2026" class="competition">
+<summary>
+<span class="competition-title">Winchester Poetry Prize</span>
+</summary>
+<div class="competition-overview">
+<span class="competition-subtitle">United Kingdom · поэзия · последний раунд закрыт · неопубликованное произведение</span>
+<span class="competition-facts">
+<span><strong>Частота:</strong> Ежегодно</span>
+<span><strong>Дедлайн:</strong> не подтверждён</span>
+<span><strong>Взнос:</strong> 7 GBP / первое стихотворение</span>
+<span><strong>Приз:</strong> 1 000 GBP</span>
+</span>
+<details class="competition-more">
+<summary>Подробнее</summary>
+<div class="competition-body">
+<dl>
+<dt>Сезон</dt><dd>2026</dd>
+<dt>Что подаётся</dt><dd>неопубликованное произведение</dd>
+<dt>Жанры</dt><dd>поэзия</dd>
+<dt>Организатор</dt><dd>Winchester Poetry Festival; United Kingdom</dd>
+<dt>Проверено</dt><dd>2026-10-31; на эту дату последний раунд закрыт</dd>
+<dt>Периодичность</dt><dd>Ежегодно <a href="https://www.winchesterpoetryfestival.org/wpp26" title="Winchester Poetry Prize: условия 2026">источник</a> <a href="https://www.winchesterpoetryfestival.org/prize" title="Winchester Poetry Prize: ежегодная периодичность">источник</a></dd>
+<dt>Ближайший дедлайн</dt><dd>точная дата не подтверждена. Следующий точный срок не объявлен в проверенных источниках. <a href="https://www.winchesterpoetryfestival.org/wpp26" title="Winchester Poetry Prize: условия 2026">источник</a> <a href="https://www.winchesterpoetryfestival.org/prize" title="Winchester Poetry Prize: ежегодная периодичность">источник</a></dd>
+<dt>Последний объявленный дедлайн</dt><dd>2026-07-31; уже прошёл</dd>
+<dt>Взнос</dt><dd>7 GBP / первое стихотворение. Следующие стихи в той же заявке — 5 GBP; есть Pay It Forward. Применимость: 2026. <a href="https://www.winchesterpoetryfestival.org/wpp26" title="Winchester Poetry Prize: условия 2026">источник</a> <a href="https://www.winchesterpoetryfestival.org/prize" title="Winchester Poetry Prize: ежегодная периодичность">источник</a></dd>
+<dt>Главный приз</dt><dd>1 000 GBP. Второе место 500 GBP, третье 250 GBP. Применимость: 2026. <a href="https://www.winchesterpoetryfestival.org/wpp26" title="Winchester Poetry Prize: условия 2026">источник</a> <a href="https://www.winchesterpoetryfestival.org/prize" title="Winchester Poetry Prize: ежегодная периодичность">источник</a></dd>
+<dt>Кто может участвовать</dt><dd>Международный конкурс, от 16 лет; до 40 строк, английский язык, ранее неопубликованная работа. <a href="https://www.winchesterpoetryfestival.org/wpp26" title="Winchester Poetry Prize: условия 2026">источник</a> <a href="https://www.winchesterpoetryfestival.org/prize" title="Winchester Poetry Prize: ежегодная периодичность">источник</a></dd>
+<dt>ID</dt><dd>en-winchester-poetry-2026</dd>
+</dl>
+<h3>Примечания</h3>
+<ul>
+<li>Не допускаются тексты в других конкурсах на момент подачи; дополнительные ограничения при дальнейшем отборе.</li>
+<li>Тексты, созданные с использованием ИИ, не допускаются.</li>
 </ul>
 <p class="source-note">Часть сведений проверена по индексированному тексту официальных страниц. Перед подачей повторно сверить действующие правила.</p>
 </div>
